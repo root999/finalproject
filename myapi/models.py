@@ -22,9 +22,14 @@ class Customer(models.Model):
 
 
 class Order(models.Model):
-    orderedProducts = models.ManyToManyField(to=Product,blank=True)
-    customer = models.OneToOneField(Customer,on_delete=models.CASCADE,related_name='order')
-    restaurant = models.OneToOneField(Restaurant,on_delete=models.CASCADE,related_name='order')
+    orderedProducts = models.ManyToManyField(to=Product,blank=True,through="ProductsInOrder")
+    customer = models.ForeignKey(Customer,on_delete=models.CASCADE,related_name='order')
+    restaurant = models.ForeignKey(Restaurant,on_delete=models.CASCADE,related_name='order')
     issueTime = models.DateTimeField(auto_now_add=True)
-    
 
+
+class ProductsInOrder(models.Model):
+    product = models.ForeignKey(Product, on_delete=models.CASCADE)
+    order = models.ForeignKey(Order, on_delete=models.CASCADE)
+    productCount = models.IntegerField(default=0)
+   

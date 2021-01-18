@@ -1,5 +1,7 @@
 from rest_framework import routers, serializers, viewsets, status
 from rest_framework.response import Response
+from rest_framework.decorators import action
+
 from django.contrib.auth.models import User
 from .serializers import *
 from rest_framework import filters
@@ -26,5 +28,10 @@ class CustomerViewSet(viewsets.ModelViewSet):
     serializer_class = CustomerSerializer
 
 class OrderViewSet(viewsets.ModelViewSet):
-    queryset = Order.objects.all()
+    def get_serializer_class(self):
+        if self.action == 'create' or self.action == 'update' or self.action == 'partial_update':
+            return PostOrderSerializer
+        return OrderSerializer 
     serializer_class = OrderSerializer
+   
+    queryset = Order.objects.all()
