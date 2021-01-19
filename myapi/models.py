@@ -1,4 +1,27 @@
 from django.db import models
+
+from django.db import models
+from django.contrib.auth.models import AbstractUser
+from django.utils.translation import ugettext_lazy as _
+
+from .managers import CustomUserManager
+
+class Customer(AbstractUser):
+    username = None
+    email = models.EmailField(_('email address'), unique=True)
+    name = models.CharField(blank=True, max_length=100)
+    surname = models.CharField(blank=True, max_length=100,null=True)
+    
+    USERNAME_FIELD = 'email'
+    REQUIRED_FIELDS = ['username', 'name', 'surname']
+
+    objects = CustomUserManager()
+
+  
+
+    def __str__(self):
+        return self.email
+
 class Product(models.Model):
     name = models.CharField(max_length=100)
     price = models.DecimalField(max_digits=5,decimal_places=2)
@@ -16,9 +39,9 @@ class Menu(models.Model):
     restaurant = models.OneToOneField(Restaurant, on_delete=models.CASCADE,primary_key=True,related_name='menu')
     products= models.ManyToManyField(to=Product,blank=True)
 
-class Customer(models.Model):
-    name = models.CharField(max_length=50)
-    surname = models.CharField(max_length=50)
+# class Customer(models.Model):
+#     name = models.CharField(max_length=50)
+#     surname = models.CharField(max_length=50)
 
 
 class Order(models.Model):
@@ -32,4 +55,5 @@ class ProductsInOrder(models.Model):
     product = models.ForeignKey(Product, on_delete=models.CASCADE)
     order = models.ForeignKey(Order, on_delete=models.CASCADE)
     productCount = models.IntegerField(default=0)
-   
+
+
