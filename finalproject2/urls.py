@@ -26,4 +26,5 @@ urlpatterns = [
     path('rest-auth/registration/', include('rest_auth.registration.urls')),
     path('account/', include('allauth.urls')),
     path('accounts-rest/registration/account-confirm-email/<int:pk>/', confirm_email, name='account_confirm_email'),
+    path('recommendation/',recommendation)
 ]

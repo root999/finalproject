@@ -2,7 +2,7 @@ from rest_framework import serializers
 
 from django.contrib.auth.models import User
 from django.shortcuts import get_object_or_404
-from rest_framework import serializers
+from rest_framework import serializers,fields
 
 from .models import *
 
@@ -11,12 +11,12 @@ from allauth.utils import email_address_exists
 from allauth.account.adapter import get_adapter
 from allauth.account.utils import setup_user_email
 
-
+from django.utils.dateparse import parse_date
 
 class ProductSerializer(serializers.ModelSerializer):
 
     class Meta :
-        ordering = ['-id']
+        ordering = ['name']
         model = Product
         fields = ('id','name','price','photoUrl','category','details')
         
@@ -42,7 +42,7 @@ class PostRestaurantSerializer(serializers.ModelSerializer):
     class Meta:
         ordering = ['-id']
         model = Restaurant
-        fields = ("name",)
+        fields = ("name","id")
 
 
 
@@ -86,13 +86,12 @@ class RegisterCustomerSerializer(serializers.Serializer):
         }
 
     def save(self,request):
-        print(request.data)
         user = Customer(
             email=request.data['email'],
             name=request.data['name'],
             surname=request.data['surname']
-  
         )
+
 
         password = request.data['password']
         password2 = request.data['password2']
@@ -113,16 +112,16 @@ class CustomerSerializer(serializers.ModelSerializer):
 class PostCustomerSerializer(serializers.ModelSerializer):
     
     class Meta:
-        ordering = ['name']
+        ordering = ['id']
         model = Customer
-        fields = ("name",)
+        fields = ("id","name")
         
 class ProductsInOrderSerializer(serializers.ModelSerializer):
     product = ProductSerializer()
     class Meta :
         ordering = ['-id']
         model = ProductsInOrder
-        fields = ('id','product','productCount')
+        fields = ('product','productCount')
 
 class OrderSerializer(serializers.ModelSerializer):
     products = ProductsInOrderSerializer(source="productsinorder_set",many=True)
@@ -132,33 +131,34 @@ class OrderSerializer(serializers.ModelSerializer):
     class Meta:
         ordering = ['-id']
         model = Order
-        fields= ("id","products","restaurant","customer","issueTime")
+        fields= ("id","products","restaurant","customer","issueDate","issueTime")
 
 class PostOrderSerializer(serializers.ModelSerializer):
     products = ProductsInOrderSerializer(source="productsinorder_set",many=True)
     restaurant = PostRestaurantSerializer()
-    customer = PostCustomerSerializer()
-    
+    customer = CustomerSerializer()
     def create(self,validated_data):
-        #print(validated_data)
+        print(validated_data)
         restaurant_data = validated_data.get('restaurant')
         rest =get_object_or_404(Restaurant,name=restaurant_data['name'])
         customer_data = validated_data.get('customer')
         cust = get_object_or_404(Customer,name=customer_data['name'])
         order = Order.objects.create(customer=cust,restaurant=rest)
-     
+       
+        order.plannedTime = validated_data.get('plannedTime')
+        order.plannedDate = validated_data.get('plannedDate')
         products_data = validated_data.get('productsinorder_set')
         for product in products_data:
            prod = get_object_or_404(Product,name=product['product']['name'])
            ProductsInOrder.objects.create(product=prod,order=order,productCount=product['productCount'])
+        order.save()
         return order
-
-
-
-
     class Meta:
         ordering = ['-id']
         model = Order
-        fields= ("id","products","restaurant","customer","issueTime")
+        fields= ("id","products","restaurant","customer","plannedTime","plannedDate")
 
+class RecommendationSerializer(serializers.Serializer):
+    recommendation = serializers.SerializerMethodField()
 
+  

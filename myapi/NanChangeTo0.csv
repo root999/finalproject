@@ -1,0 +1,7563 @@
+User,Item,Rating
+0,Mercimek Çorbası,4.0
+0,Ezogelin Çorbası,3.0
+0,Şehriye Çorbası,1.0
+0,Yayla Çorbası,0
+0,Kuzu Etli Çorba,3.0
+0,Tas Kebabı,3.0
+0,Kuzu Şiş,3.0
+0,Kabak Graten,3.0
+0,Kabak Dolması,3.0
+0,Köfte,4.0
+0,Tavuk Biftek,3.0
+0,Tavuk Sote,4.0
+0,Karnıyarık,3.0
+0,Kuru Fasulye,3.0
+0,Patlıcan Musakka,1.0
+0,Bezelye,3.0
+0,Tavuk Kanat,3.0
+0,Nohut,3.0
+0,Türlü,4.0
+0,Ispanak,4.0
+0,Taze Fasulye,5.0
+0,Bamya,4.0
+0,Dana Rosto,4.0
+0,Pirinç Pilavı,2.0
+0,Patates Kızartması,1.0
+0,Bulgur Pilavı,3.0
+0,Cacık,4.0
+0,Çoban Salata,4.0
+0,Yoğurt,5.0
+0,Pırasa,4.0
+0,İrmik Helvası,4.0
+0,Turşu,3.0
+0,Sütlaç,4.0
+0,Kadayıf,2.0
+0,Kola,0
+0,Ayran,4.0
+0,Fanta,2.0
+0,Su,5.0
+1,Mercimek Çorbası,4.0
+1,Ezogelin Çorbası,5.0
+1,Şehriye Çorbası,2.0
+1,Yayla Çorbası,3.0
+1,Kuzu Etli Çorba,4.0
+1,Tas Kebabı,4.0
+1,Kuzu Şiş,5.0
+1,Kabak Graten,2.0
+1,Kabak Dolması,3.0
+1,Köfte,4.0
+1,Tavuk Biftek,4.0
+1,Tavuk Sote,4.0
+1,Karnıyarık,4.0
+1,Kuru Fasulye,4.0
+1,Patlıcan Musakka,3.0
+1,Bezelye,4.0
+1,Tavuk Kanat,4.0
+1,Nohut,3.0
+1,Türlü,4.0
+1,Ispanak,2.0
+1,Taze Fasulye,3.0
+1,Bamya,4.0
+1,Dana Rosto,3.0
+1,Pirinç Pilavı,5.0
+1,Patates Kızartması,3.0
+1,Bulgur Pilavı,5.0
+1,Cacık,5.0
+1,Çoban Salata,5.0
+1,Yoğurt,1.0
+1,Pırasa,1.0
+1,İrmik Helvası,4.0
+1,Turşu,4.0
+1,Sütlaç,5.0
+1,Kadayıf,5.0
+1,Kola,3.0
+1,Ayran,4.0
+1,Fanta,3.0
+1,Su,4.0
+2,Mercimek Çorbası,5.0
+2,Ezogelin Çorbası,4.0
+2,Şehriye Çorbası,2.0
+2,Yayla Çorbası,1.0
+2,Kuzu Etli Çorba,0
+2,Tas Kebabı,5.0
+2,Kuzu Şiş,5.0
+2,Kabak Graten,1.0
+2,Kabak Dolması,1.0
+2,Köfte,5.0
+2,Tavuk Biftek,5.0
+2,Tavuk Sote,5.0
+2,Karnıyarık,5.0
+2,Kuru Fasulye,5.0
+2,Patlıcan Musakka,2.0
+2,Bezelye,3.0
+2,Tavuk Kanat,1.0
+2,Nohut,2.0
+2,Türlü,1.0
+2,Ispanak,1.0
+2,Taze Fasulye,4.0
+2,Bamya,1.0
+2,Dana Rosto,3.0
+2,Pirinç Pilavı,5.0
+2,Patates Kızartması,5.0
+2,Bulgur Pilavı,3.0
+2,Cacık,5.0
+2,Çoban Salata,5.0
+2,Yoğurt,5.0
+2,Pırasa,1.0
+2,İrmik Helvası,5.0
+2,Turşu,2.0
+2,Sütlaç,5.0
+2,Kadayıf,5.0
+2,Kola,2.0
+2,Ayran,5.0
+2,Fanta,1.0
+2,Su,5.0
+3,Mercimek Çorbası,5.0
+3,Ezogelin Çorbası,1.0
+3,Şehriye Çorbası,3.0
+3,Yayla Çorbası,5.0
+3,Kuzu Etli Çorba,2.0
+3,Tas Kebabı,5.0
+3,Kuzu Şiş,5.0
+3,Kabak Graten,1.0
+3,Kabak Dolması,1.0
+3,Köfte,5.0
+3,Tavuk Biftek,4.0
+3,Tavuk Sote,5.0
+3,Karnıyarık,5.0
+3,Kuru Fasulye,5.0
+3,Patlıcan Musakka,5.0
+3,Bezelye,3.0
+3,Tavuk Kanat,5.0
+3,Nohut,5.0
+3,Türlü,3.0
+3,Ispanak,2.0
+3,Taze Fasulye,3.0
+3,Bamya,3.0
+3,Dana Rosto,3.0
+3,Pirinç Pilavı,5.0
+3,Patates Kızartması,5.0
+3,Bulgur Pilavı,5.0
+3,Cacık,5.0
+3,Çoban Salata,5.0
+3,Yoğurt,1.0
+3,Pırasa,2.0
+3,İrmik Helvası,2.0
+3,Turşu,5.0
+3,Sütlaç,5.0
+3,Kadayıf,5.0
+3,Kola,5.0
+3,Ayran,1.0
+3,Fanta,5.0
+3,Su,3.0
+4,Mercimek Çorbası,5.0
+4,Ezogelin Çorbası,5.0
+4,Şehriye Çorbası,5.0
+4,Yayla Çorbası,3.0
+4,Kuzu Etli Çorba,0
+4,Tas Kebabı,3.0
+4,Kuzu Şiş,4.0
+4,Kabak Graten,2.0
+4,Kabak Dolması,3.0
+4,Köfte,5.0
+4,Tavuk Biftek,5.0
+4,Tavuk Sote,5.0
+4,Karnıyarık,5.0
+4,Kuru Fasulye,2.0
+4,Patlıcan Musakka,4.0
+4,Bezelye,3.0
+4,Tavuk Kanat,5.0
+4,Nohut,3.0
+4,Türlü,5.0
+4,Ispanak,2.0
+4,Taze Fasulye,1.0
+4,Bamya,5.0
+4,Dana Rosto,5.0
+4,Pirinç Pilavı,5.0
+4,Patates Kızartması,5.0
+4,Bulgur Pilavı,5.0
+4,Cacık,5.0
+4,Çoban Salata,5.0
+4,Yoğurt,5.0
+4,Pırasa,3.0
+4,İrmik Helvası,5.0
+4,Turşu,5.0
+4,Sütlaç,5.0
+4,Kadayıf,5.0
+4,Kola,3.0
+4,Ayran,5.0
+4,Fanta,5.0
+4,Su,5.0
+5,Mercimek Çorbası,5.0
+5,Ezogelin Çorbası,5.0
+5,Şehriye Çorbası,5.0
+5,Yayla Çorbası,5.0
+5,Kuzu Etli Çorba,0
+5,Tas Kebabı,5.0
+5,Kuzu Şiş,5.0
+5,Kabak Graten,4.0
+5,Kabak Dolması,5.0
+5,Köfte,5.0
+5,Tavuk Biftek,2.0
+5,Tavuk Sote,3.0
+5,Karnıyarık,5.0
+5,Kuru Fasulye,5.0
+5,Patlıcan Musakka,5.0
+5,Bezelye,3.0
+5,Tavuk Kanat,2.0
+5,Nohut,3.0
+5,Türlü,5.0
+5,Ispanak,5.0
+5,Taze Fasulye,5.0
+5,Bamya,2.0
+5,Dana Rosto,4.0
+5,Pirinç Pilavı,5.0
+5,Patates Kızartması,5.0
+5,Bulgur Pilavı,5.0
+5,Cacık,5.0
+5,Çoban Salata,5.0
+5,Yoğurt,5.0
+5,Pırasa,5.0
+5,İrmik Helvası,5.0
+5,Turşu,5.0
+5,Sütlaç,5.0
+5,Kadayıf,5.0
+5,Kola,5.0
+5,Ayran,5.0
+5,Fanta,2.0
+5,Su,4.0
+6,Mercimek Çorbası,4.0
+6,Ezogelin Çorbası,4.0
+6,Şehriye Çorbası,3.0
+6,Yayla Çorbası,5.0
+6,Kuzu Etli Çorba,3.0
+6,Tas Kebabı,3.0
+6,Kuzu Şiş,3.0
+6,Kabak Graten,4.0
+6,Kabak Dolması,5.0
+6,Köfte,5.0
+6,Tavuk Biftek,3.0
+6,Tavuk Sote,3.0
+6,Karnıyarık,4.0
+6,Kuru Fasulye,4.0
+6,Patlıcan Musakka,4.0
+6,Bezelye,2.0
+6,Tavuk Kanat,5.0
+6,Nohut,4.0
+6,Türlü,3.0
+6,Ispanak,5.0
+6,Taze Fasulye,1.0
+6,Bamya,3.0
+6,Dana Rosto,3.0
+6,Pirinç Pilavı,4.0
+6,Patates Kızartması,5.0
+6,Bulgur Pilavı,5.0
+6,Cacık,4.0
+6,Çoban Salata,3.0
+6,Yoğurt,4.0
+6,Pırasa,1.0
+6,İrmik Helvası,3.0
+6,Turşu,3.0
+6,Sütlaç,5.0
+6,Kadayıf,3.0
+6,Kola,5.0
+6,Ayran,3.0
+6,Fanta,1.0
+6,Su,5.0
+7,Mercimek Çorbası,4.0
+7,Ezogelin Çorbası,2.0
+7,Şehriye Çorbası,4.0
+7,Yayla Çorbası,3.0
+7,Kuzu Etli Çorba,0
+7,Tas Kebabı,0
+7,Kuzu Şiş,5.0
+7,Kabak Graten,0
+7,Kabak Dolması,2.0
+7,Köfte,4.0
+7,Tavuk Biftek,5.0
+7,Tavuk Sote,5.0
+7,Karnıyarık,2.0
+7,Kuru Fasulye,1.0
+7,Patlıcan Musakka,1.0
+7,Bezelye,3.0
+7,Tavuk Kanat,5.0
+7,Nohut,3.0
+7,Türlü,1.0
+7,Ispanak,1.0
+7,Taze Fasulye,3.0
+7,Bamya,0
+7,Dana Rosto,5.0
+7,Pirinç Pilavı,3.0
+7,Patates Kızartması,5.0
+7,Bulgur Pilavı,4.0
+7,Cacık,1.0
+7,Çoban Salata,3.0
+7,Yoğurt,5.0
+7,Pırasa,1.0
+7,İrmik Helvası,5.0
+7,Turşu,1.0
+7,Sütlaç,2.0
+7,Kadayıf,3.0
+7,Kola,5.0
+7,Ayran,5.0
+7,Fanta,2.0
+7,Su,5.0
+8,Mercimek Çorbası,5.0
+8,Ezogelin Çorbası,5.0
+8,Şehriye Çorbası,4.0
+8,Yayla Çorbası,4.0
+8,Kuzu Etli Çorba,0
+8,Tas Kebabı,4.0
+8,Kuzu Şiş,1.0
+8,Kabak Graten,0
+8,Kabak Dolması,2.0
+8,Köfte,4.0
+8,Tavuk Biftek,4.0
+8,Tavuk Sote,5.0
+8,Karnıyarık,4.0
+8,Kuru Fasulye,5.0
+8,Patlıcan Musakka,4.0
+8,Bezelye,4.0
+8,Tavuk Kanat,1.0
+8,Nohut,4.0
+8,Türlü,3.0
+8,Ispanak,2.0
+8,Taze Fasulye,4.0
+8,Bamya,3.0
+8,Dana Rosto,5.0
+8,Pirinç Pilavı,4.0
+8,Patates Kızartması,5.0
+8,Bulgur Pilavı,4.0
+8,Cacık,5.0
+8,Çoban Salata,5.0
+8,Yoğurt,5.0
+8,Pırasa,1.0
+8,İrmik Helvası,5.0
+8,Turşu,4.0
+8,Sütlaç,5.0
+8,Kadayıf,5.0
+8,Kola,5.0
+8,Ayran,5.0
+8,Fanta,2.0
+8,Su,5.0
+9,Mercimek Çorbası,5.0
+9,Ezogelin Çorbası,3.0
+9,Şehriye Çorbası,3.0
+9,Yayla Çorbası,5.0
+9,Kuzu Etli Çorba,5.0
+9,Tas Kebabı,3.0
+9,Kuzu Şiş,5.0
+9,Kabak Graten,1.0
+9,Kabak Dolması,2.0
+9,Köfte,3.0
+9,Tavuk Biftek,2.0
+9,Tavuk Sote,4.0
+9,Karnıyarık,4.0
+9,Kuru Fasulye,4.0
+9,Patlıcan Musakka,2.0
+9,Bezelye,1.0
+9,Tavuk Kanat,2.0
+9,Nohut,1.0
+9,Türlü,1.0
+9,Ispanak,0
+9,Taze Fasulye,0
+9,Bamya,0
+9,Dana Rosto,5.0
+9,Pirinç Pilavı,5.0
+9,Patates Kızartması,4.0
+9,Bulgur Pilavı,3.0
+9,Cacık,5.0
+9,Çoban Salata,5.0
+9,Yoğurt,5.0
+9,Pırasa,1.0
+9,İrmik Helvası,3.0
+9,Turşu,5.0
+9,Sütlaç,2.0
+9,Kadayıf,2.0
+9,Kola,5.0
+9,Ayran,5.0
+9,Fanta,1.0
+9,Su,4.0
+10,Mercimek Çorbası,4.0
+10,Ezogelin Çorbası,5.0
+10,Şehriye Çorbası,3.0
+10,Yayla Çorbası,3.0
+10,Kuzu Etli Çorba,5.0
+10,Tas Kebabı,5.0
+10,Kuzu Şiş,5.0
+10,Kabak Graten,3.0
+10,Kabak Dolması,3.0
+10,Köfte,5.0
+10,Tavuk Biftek,5.0
+10,Tavuk Sote,4.0
+10,Karnıyarık,4.0
+10,Kuru Fasulye,5.0
+10,Patlıcan Musakka,5.0
+10,Bezelye,3.0
+10,Tavuk Kanat,5.0
+10,Nohut,4.0
+10,Türlü,2.0
+10,Ispanak,2.0
+10,Taze Fasulye,3.0
+10,Bamya,4.0
+10,Dana Rosto,5.0
+10,Pirinç Pilavı,5.0
+10,Patates Kızartması,5.0
+10,Bulgur Pilavı,4.0
+10,Cacık,4.0
+10,Çoban Salata,5.0
+10,Yoğurt,5.0
+10,Pırasa,2.0
+10,İrmik Helvası,3.0
+10,Turşu,4.0
+10,Sütlaç,3.0
+10,Kadayıf,5.0
+10,Kola,3.0
+10,Ayran,4.0
+10,Fanta,3.0
+10,Su,5.0
+11,Mercimek Çorbası,3.0
+11,Ezogelin Çorbası,3.0
+11,Şehriye Çorbası,4.0
+11,Yayla Çorbası,5.0
+11,Kuzu Etli Çorba,5.0
+11,Tas Kebabı,5.0
+11,Kuzu Şiş,5.0
+11,Kabak Graten,1.0
+11,Kabak Dolması,3.0
+11,Köfte,5.0
+11,Tavuk Biftek,5.0
+11,Tavuk Sote,5.0
+11,Karnıyarık,5.0
+11,Kuru Fasulye,5.0
+11,Patlıcan Musakka,5.0
+11,Bezelye,2.0
+11,Tavuk Kanat,5.0
+11,Nohut,3.0
+11,Türlü,2.0
+11,Ispanak,5.0
+11,Taze Fasulye,4.0
+11,Bamya,1.0
+11,Dana Rosto,5.0
+11,Pirinç Pilavı,4.0
+11,Patates Kızartması,5.0
+11,Bulgur Pilavı,3.0
+11,Cacık,5.0
+11,Çoban Salata,5.0
+11,Yoğurt,5.0
+11,Pırasa,4.0
+11,İrmik Helvası,5.0
+11,Turşu,5.0
+11,Sütlaç,5.0
+11,Kadayıf,5.0
+11,Kola,5.0
+11,Ayran,5.0
+11,Fanta,5.0
+11,Su,5.0
+12,Mercimek Çorbası,4.0
+12,Ezogelin Çorbası,4.0
+12,Şehriye Çorbası,5.0
+12,Yayla Çorbası,5.0
+12,Kuzu Etli Çorba,2.0
+12,Tas Kebabı,3.0
+12,Kuzu Şiş,4.0
+12,Kabak Graten,5.0
+12,Kabak Dolması,5.0
+12,Köfte,4.0
+12,Tavuk Biftek,3.0
+12,Tavuk Sote,1.0
+12,Karnıyarık,5.0
+12,Kuru Fasulye,4.0
+12,Patlıcan Musakka,5.0
+12,Bezelye,5.0
+12,Tavuk Kanat,3.0
+12,Nohut,4.0
+12,Türlü,4.0
+12,Ispanak,5.0
+12,Taze Fasulye,5.0
+12,Bamya,5.0
+12,Dana Rosto,3.0
+12,Pirinç Pilavı,1.0
+12,Patates Kızartması,3.0
+12,Bulgur Pilavı,5.0
+12,Cacık,5.0
+12,Çoban Salata,5.0
+12,Yoğurt,5.0
+12,Pırasa,0
+12,İrmik Helvası,5.0
+12,Turşu,5.0
+12,Sütlaç,4.0
+12,Kadayıf,4.0
+12,Kola,3.0
+12,Ayran,5.0
+12,Fanta,2.0
+12,Su,5.0
+13,Mercimek Çorbası,4.0
+13,Ezogelin Çorbası,4.0
+13,Şehriye Çorbası,4.0
+13,Yayla Çorbası,4.0
+13,Kuzu Etli Çorba,4.0
+13,Tas Kebabı,4.0
+13,Kuzu Şiş,5.0
+13,Kabak Graten,1.0
+13,Kabak Dolması,1.0
+13,Köfte,4.0
+13,Tavuk Biftek,4.0
+13,Tavuk Sote,4.0
+13,Karnıyarık,3.0
+13,Kuru Fasulye,2.0
+13,Patlıcan Musakka,3.0
+13,Bezelye,3.0
+13,Tavuk Kanat,5.0
+13,Nohut,2.0
+13,Türlü,2.0
+13,Ispanak,3.0
+13,Taze Fasulye,1.0
+13,Bamya,1.0
+13,Dana Rosto,4.0
+13,Pirinç Pilavı,4.0
+13,Patates Kızartması,4.0
+13,Bulgur Pilavı,2.0
+13,Cacık,3.0
+13,Çoban Salata,3.0
+13,Yoğurt,4.0
+13,Pırasa,1.0
+13,İrmik Helvası,3.0
+13,Turşu,3.0
+13,Sütlaç,4.0
+13,Kadayıf,5.0
+13,Kola,2.0
+13,Ayran,5.0
+13,Fanta,4.0
+13,Su,5.0
+14,Mercimek Çorbası,5.0
+14,Ezogelin Çorbası,5.0
+14,Şehriye Çorbası,5.0
+14,Yayla Çorbası,5.0
+14,Kuzu Etli Çorba,0
+14,Tas Kebabı,5.0
+14,Kuzu Şiş,5.0
+14,Kabak Graten,0
+14,Kabak Dolması,4.0
+14,Köfte,5.0
+14,Tavuk Biftek,0
+14,Tavuk Sote,4.0
+14,Karnıyarık,5.0
+14,Kuru Fasulye,4.0
+14,Patlıcan Musakka,4.0
+14,Bezelye,3.0
+14,Tavuk Kanat,3.0
+14,Nohut,3.0
+14,Türlü,3.0
+14,Ispanak,3.0
+14,Taze Fasulye,3.0
+14,Bamya,3.0
+14,Dana Rosto,0
+14,Pirinç Pilavı,5.0
+14,Patates Kızartması,5.0
+14,Bulgur Pilavı,4.0
+14,Cacık,5.0
+14,Çoban Salata,5.0
+14,Yoğurt,4.0
+14,Pırasa,3.0
+14,İrmik Helvası,5.0
+14,Turşu,4.0
+14,Sütlaç,4.0
+14,Kadayıf,4.0
+14,Kola,3.0
+14,Ayran,4.0
+14,Fanta,3.0
+14,Su,5.0
+15,Mercimek Çorbası,5.0
+15,Ezogelin Çorbası,4.0
+15,Şehriye Çorbası,2.0
+15,Yayla Çorbası,4.0
+15,Kuzu Etli Çorba,0
+15,Tas Kebabı,4.0
+15,Kuzu Şiş,5.0
+15,Kabak Graten,0
+15,Kabak Dolması,1.0
+15,Köfte,4.0
+15,Tavuk Biftek,5.0
+15,Tavuk Sote,5.0
+15,Karnıyarık,5.0
+15,Kuru Fasulye,5.0
+15,Patlıcan Musakka,5.0
+15,Bezelye,1.0
+15,Tavuk Kanat,5.0
+15,Nohut,3.0
+15,Türlü,1.0
+15,Ispanak,3.0
+15,Taze Fasulye,1.0
+15,Bamya,1.0
+15,Dana Rosto,4.0
+15,Pirinç Pilavı,5.0
+15,Patates Kızartması,5.0
+15,Bulgur Pilavı,5.0
+15,Cacık,5.0
+15,Çoban Salata,5.0
+15,Yoğurt,5.0
+15,Pırasa,1.0
+15,İrmik Helvası,3.0
+15,Turşu,4.0
+15,Sütlaç,5.0
+15,Kadayıf,4.0
+15,Kola,5.0
+15,Ayran,5.0
+15,Fanta,5.0
+15,Su,5.0
+16,Mercimek Çorbası,4.0
+16,Ezogelin Çorbası,4.0
+16,Şehriye Çorbası,3.0
+16,Yayla Çorbası,1.0
+16,Kuzu Etli Çorba,1.0
+16,Tas Kebabı,4.0
+16,Kuzu Şiş,5.0
+16,Kabak Graten,4.0
+16,Kabak Dolması,5.0
+16,Köfte,5.0
+16,Tavuk Biftek,5.0
+16,Tavuk Sote,5.0
+16,Karnıyarık,5.0
+16,Kuru Fasulye,1.0
+16,Patlıcan Musakka,5.0
+16,Bezelye,3.0
+16,Tavuk Kanat,4.0
+16,Nohut,3.0
+16,Türlü,3.0
+16,Ispanak,4.0
+16,Taze Fasulye,5.0
+16,Bamya,3.0
+16,Dana Rosto,5.0
+16,Pirinç Pilavı,2.0
+16,Patates Kızartması,5.0
+16,Bulgur Pilavı,5.0
+16,Cacık,5.0
+16,Çoban Salata,3.0
+16,Yoğurt,4.0
+16,Pırasa,3.0
+16,İrmik Helvası,3.0
+16,Turşu,4.0
+16,Sütlaç,4.0
+16,Kadayıf,4.0
+16,Kola,5.0
+16,Ayran,4.0
+16,Fanta,5.0
+16,Su,4.0
+17,Mercimek Çorbası,5.0
+17,Ezogelin Çorbası,4.0
+17,Şehriye Çorbası,3.0
+17,Yayla Çorbası,1.0
+17,Kuzu Etli Çorba,0
+17,Tas Kebabı,5.0
+17,Kuzu Şiş,5.0
+17,Kabak Graten,0
+17,Kabak Dolması,1.0
+17,Köfte,4.0
+17,Tavuk Biftek,4.0
+17,Tavuk Sote,5.0
+17,Karnıyarık,3.0
+17,Kuru Fasulye,3.0
+17,Patlıcan Musakka,2.0
+17,Bezelye,3.0
+17,Tavuk Kanat,5.0
+17,Nohut,4.0
+17,Türlü,5.0
+17,Ispanak,3.0
+17,Taze Fasulye,4.0
+17,Bamya,1.0
+17,Dana Rosto,5.0
+17,Pirinç Pilavı,5.0
+17,Patates Kızartması,5.0
+17,Bulgur Pilavı,5.0
+17,Cacık,5.0
+17,Çoban Salata,5.0
+17,Yoğurt,5.0
+17,Pırasa,3.0
+17,İrmik Helvası,4.0
+17,Turşu,4.0
+17,Sütlaç,4.0
+17,Kadayıf,4.0
+17,Kola,5.0
+17,Ayran,5.0
+17,Fanta,5.0
+17,Su,5.0
+18,Mercimek Çorbası,5.0
+18,Ezogelin Çorbası,4.0
+18,Şehriye Çorbası,3.0
+18,Yayla Çorbası,2.0
+18,Kuzu Etli Çorba,4.0
+18,Tas Kebabı,5.0
+18,Kuzu Şiş,5.0
+18,Kabak Graten,2.0
+18,Kabak Dolması,2.0
+18,Köfte,4.0
+18,Tavuk Biftek,5.0
+18,Tavuk Sote,5.0
+18,Karnıyarık,4.0
+18,Kuru Fasulye,3.0
+18,Patlıcan Musakka,3.0
+18,Bezelye,4.0
+18,Tavuk Kanat,5.0
+18,Nohut,3.0
+18,Türlü,3.0
+18,Ispanak,3.0
+18,Taze Fasulye,3.0
+18,Bamya,1.0
+18,Dana Rosto,4.0
+18,Pirinç Pilavı,3.0
+18,Patates Kızartması,5.0
+18,Bulgur Pilavı,3.0
+18,Cacık,3.0
+18,Çoban Salata,3.0
+18,Yoğurt,3.0
+18,Pırasa,1.0
+18,İrmik Helvası,1.0
+18,Turşu,1.0
+18,Sütlaç,1.0
+18,Kadayıf,5.0
+18,Kola,1.0
+18,Ayran,3.0
+18,Fanta,3.0
+18,Su,4.0
+19,Mercimek Çorbası,5.0
+19,Ezogelin Çorbası,3.0
+19,Şehriye Çorbası,3.0
+19,Yayla Çorbası,4.0
+19,Kuzu Etli Çorba,5.0
+19,Tas Kebabı,5.0
+19,Kuzu Şiş,5.0
+19,Kabak Graten,4.0
+19,Kabak Dolması,5.0
+19,Köfte,4.0
+19,Tavuk Biftek,4.0
+19,Tavuk Sote,4.0
+19,Karnıyarık,5.0
+19,Kuru Fasulye,5.0
+19,Patlıcan Musakka,5.0
+19,Bezelye,3.0
+19,Tavuk Kanat,5.0
+19,Nohut,3.0
+19,Türlü,4.0
+19,Ispanak,5.0
+19,Taze Fasulye,5.0
+19,Bamya,4.0
+19,Dana Rosto,3.0
+19,Pirinç Pilavı,5.0
+19,Patates Kızartması,5.0
+19,Bulgur Pilavı,5.0
+19,Cacık,5.0
+19,Çoban Salata,5.0
+19,Yoğurt,5.0
+19,Pırasa,4.0
+19,İrmik Helvası,5.0
+19,Turşu,5.0
+19,Sütlaç,5.0
+19,Kadayıf,5.0
+19,Kola,1.0
+19,Ayran,5.0
+19,Fanta,2.0
+19,Su,5.0
+20,Mercimek Çorbası,3.0
+20,Ezogelin Çorbası,5.0
+20,Şehriye Çorbası,2.0
+20,Yayla Çorbası,4.0
+20,Kuzu Etli Çorba,0
+20,Tas Kebabı,3.0
+20,Kuzu Şiş,1.0
+20,Kabak Graten,0
+20,Kabak Dolması,1.0
+20,Köfte,4.0
+20,Tavuk Biftek,3.0
+20,Tavuk Sote,5.0
+20,Karnıyarık,2.0
+20,Kuru Fasulye,5.0
+20,Patlıcan Musakka,1.0
+20,Bezelye,5.0
+20,Tavuk Kanat,5.0
+20,Nohut,4.0
+20,Türlü,3.0
+20,Ispanak,5.0
+20,Taze Fasulye,2.0
+20,Bamya,2.0
+20,Dana Rosto,0
+20,Pirinç Pilavı,5.0
+20,Patates Kızartması,5.0
+20,Bulgur Pilavı,3.0
+20,Cacık,5.0
+20,Çoban Salata,2.0
+20,Yoğurt,3.0
+20,Pırasa,1.0
+20,İrmik Helvası,4.0
+20,Turşu,1.0
+20,Sütlaç,3.0
+20,Kadayıf,5.0
+20,Kola,4.0
+20,Ayran,2.0
+20,Fanta,1.0
+20,Su,5.0
+21,Mercimek Çorbası,4.0
+21,Ezogelin Çorbası,5.0
+21,Şehriye Çorbası,3.0
+21,Yayla Çorbası,2.0
+21,Kuzu Etli Çorba,0
+21,Tas Kebabı,5.0
+21,Kuzu Şiş,5.0
+21,Kabak Graten,0
+21,Kabak Dolması,1.0
+21,Köfte,5.0
+21,Tavuk Biftek,4.0
+21,Tavuk Sote,4.0
+21,Karnıyarık,5.0
+21,Kuru Fasulye,4.0
+21,Patlıcan Musakka,4.0
+21,Bezelye,3.0
+21,Tavuk Kanat,4.0
+21,Nohut,3.0
+21,Türlü,4.0
+21,Ispanak,3.0
+21,Taze Fasulye,2.0
+21,Bamya,3.0
+21,Dana Rosto,5.0
+21,Pirinç Pilavı,4.0
+21,Patates Kızartması,4.0
+21,Bulgur Pilavı,5.0
+21,Cacık,4.0
+21,Çoban Salata,2.0
+21,Yoğurt,3.0
+21,Pırasa,3.0
+21,İrmik Helvası,1.0
+21,Turşu,2.0
+21,Sütlaç,5.0
+21,Kadayıf,4.0
+21,Kola,4.0
+21,Ayran,3.0
+21,Fanta,4.0
+21,Su,5.0
+22,Mercimek Çorbası,4.0
+22,Ezogelin Çorbası,5.0
+22,Şehriye Çorbası,2.0
+22,Yayla Çorbası,4.0
+22,Kuzu Etli Çorba,1.0
+22,Tas Kebabı,5.0
+22,Kuzu Şiş,4.0
+22,Kabak Graten,2.0
+22,Kabak Dolması,1.0
+22,Köfte,5.0
+22,Tavuk Biftek,5.0
+22,Tavuk Sote,5.0
+22,Karnıyarık,4.0
+22,Kuru Fasulye,4.0
+22,Patlıcan Musakka,3.0
+22,Bezelye,2.0
+22,Tavuk Kanat,4.0
+22,Nohut,4.0
+22,Türlü,4.0
+22,Ispanak,1.0
+22,Taze Fasulye,3.0
+22,Bamya,1.0
+22,Dana Rosto,0
+22,Pirinç Pilavı,4.0
+22,Patates Kızartması,4.0
+22,Bulgur Pilavı,4.0
+22,Cacık,4.0
+22,Çoban Salata,4.0
+22,Yoğurt,4.0
+22,Pırasa,2.0
+22,İrmik Helvası,2.0
+22,Turşu,4.0
+22,Sütlaç,5.0
+22,Kadayıf,5.0
+22,Kola,4.0
+22,Ayran,3.0
+22,Fanta,2.0
+22,Su,5.0
+23,Mercimek Çorbası,5.0
+23,Ezogelin Çorbası,4.0
+23,Şehriye Çorbası,5.0
+23,Yayla Çorbası,5.0
+23,Kuzu Etli Çorba,0
+23,Tas Kebabı,5.0
+23,Kuzu Şiş,5.0
+23,Kabak Graten,1.0
+23,Kabak Dolması,1.0
+23,Köfte,5.0
+23,Tavuk Biftek,5.0
+23,Tavuk Sote,5.0
+23,Karnıyarık,5.0
+23,Kuru Fasulye,5.0
+23,Patlıcan Musakka,1.0
+23,Bezelye,1.0
+23,Tavuk Kanat,5.0
+23,Nohut,5.0
+23,Türlü,3.0
+23,Ispanak,4.0
+23,Taze Fasulye,3.0
+23,Bamya,1.0
+23,Dana Rosto,5.0
+23,Pirinç Pilavı,5.0
+23,Patates Kızartması,5.0
+23,Bulgur Pilavı,5.0
+23,Cacık,4.0
+23,Çoban Salata,5.0
+23,Yoğurt,4.0
+23,Pırasa,3.0
+23,İrmik Helvası,5.0
+23,Turşu,5.0
+23,Sütlaç,4.0
+23,Kadayıf,4.0
+23,Kola,5.0
+23,Ayran,2.0
+23,Fanta,5.0
+23,Su,5.0
+24,Mercimek Çorbası,2.0
+24,Ezogelin Çorbası,0
+24,Şehriye Çorbası,3.0
+24,Yayla Çorbası,5.0
+24,Kuzu Etli Çorba,0
+24,Tas Kebabı,1.0
+24,Kuzu Şiş,4.0
+24,Kabak Graten,0
+24,Kabak Dolması,5.0
+24,Köfte,5.0
+24,Tavuk Biftek,5.0
+24,Tavuk Sote,5.0
+24,Karnıyarık,5.0
+24,Kuru Fasulye,4.0
+24,Patlıcan Musakka,0
+24,Bezelye,4.0
+24,Tavuk Kanat,5.0
+24,Nohut,3.0
+24,Türlü,3.0
+24,Ispanak,4.0
+24,Taze Fasulye,2.0
+24,Bamya,5.0
+24,Dana Rosto,0
+24,Pirinç Pilavı,4.0
+24,Patates Kızartması,5.0
+24,Bulgur Pilavı,5.0
+24,Cacık,5.0
+24,Çoban Salata,5.0
+24,Yoğurt,5.0
+24,Pırasa,2.0
+24,İrmik Helvası,2.0
+24,Turşu,5.0
+24,Sütlaç,2.0
+24,Kadayıf,3.0
+24,Kola,5.0
+24,Ayran,5.0
+24,Fanta,1.0
+24,Su,5.0
+25,Mercimek Çorbası,4.0
+25,Ezogelin Çorbası,3.0
+25,Şehriye Çorbası,2.0
+25,Yayla Çorbası,2.0
+25,Kuzu Etli Çorba,4.0
+25,Tas Kebabı,3.0
+25,Kuzu Şiş,4.0
+25,Kabak Graten,1.0
+25,Kabak Dolması,1.0
+25,Köfte,4.0
+25,Tavuk Biftek,4.0
+25,Tavuk Sote,2.0
+25,Karnıyarık,3.0
+25,Kuru Fasulye,3.0
+25,Patlıcan Musakka,4.0
+25,Bezelye,2.0
+25,Tavuk Kanat,3.0
+25,Nohut,2.0
+25,Türlü,2.0
+25,Ispanak,2.0
+25,Taze Fasulye,2.0
+25,Bamya,3.0
+25,Dana Rosto,5.0
+25,Pirinç Pilavı,3.0
+25,Patates Kızartması,2.0
+25,Bulgur Pilavı,3.0
+25,Cacık,3.0
+25,Çoban Salata,3.0
+25,Yoğurt,4.0
+25,Pırasa,2.0
+25,İrmik Helvası,3.0
+25,Turşu,2.0
+25,Sütlaç,2.0
+25,Kadayıf,3.0
+25,Kola,2.0
+25,Ayran,4.0
+25,Fanta,1.0
+25,Su,5.0
+26,Mercimek Çorbası,4.0
+26,Ezogelin Çorbası,4.0
+26,Şehriye Çorbası,3.0
+26,Yayla Çorbası,3.0
+26,Kuzu Etli Çorba,4.0
+26,Tas Kebabı,4.0
+26,Kuzu Şiş,4.0
+26,Kabak Graten,2.0
+26,Kabak Dolması,4.0
+26,Köfte,3.0
+26,Tavuk Biftek,3.0
+26,Tavuk Sote,3.0
+26,Karnıyarık,3.0
+26,Kuru Fasulye,3.0
+26,Patlıcan Musakka,3.0
+26,Bezelye,4.0
+26,Tavuk Kanat,4.0
+26,Nohut,4.0
+26,Türlü,3.0
+26,Ispanak,2.0
+26,Taze Fasulye,3.0
+26,Bamya,3.0
+26,Dana Rosto,4.0
+26,Pirinç Pilavı,4.0
+26,Patates Kızartması,4.0
+26,Bulgur Pilavı,3.0
+26,Cacık,4.0
+26,Çoban Salata,3.0
+26,Yoğurt,4.0
+26,Pırasa,3.0
+26,İrmik Helvası,4.0
+26,Turşu,4.0
+26,Sütlaç,3.0
+26,Kadayıf,4.0
+26,Kola,3.0
+26,Ayran,3.0
+26,Fanta,2.0
+26,Su,4.0
+27,Mercimek Çorbası,3.0
+27,Ezogelin Çorbası,4.0
+27,Şehriye Çorbası,3.0
+27,Yayla Çorbası,3.0
+27,Kuzu Etli Çorba,2.0
+27,Tas Kebabı,5.0
+27,Kuzu Şiş,5.0
+27,Kabak Graten,3.0
+27,Kabak Dolması,3.0
+27,Köfte,4.0
+27,Tavuk Biftek,4.0
+27,Tavuk Sote,5.0
+27,Karnıyarık,3.0
+27,Kuru Fasulye,5.0
+27,Patlıcan Musakka,3.0
+27,Bezelye,4.0
+27,Tavuk Kanat,3.0
+27,Nohut,3.0
+27,Türlü,3.0
+27,Ispanak,1.0
+27,Taze Fasulye,1.0
+27,Bamya,1.0
+27,Dana Rosto,0
+27,Pirinç Pilavı,4.0
+27,Patates Kızartması,4.0
+27,Bulgur Pilavı,3.0
+27,Cacık,4.0
+27,Çoban Salata,2.0
+27,Yoğurt,1.0
+27,Pırasa,1.0
+27,İrmik Helvası,3.0
+27,Turşu,3.0
+27,Sütlaç,4.0
+27,Kadayıf,4.0
+27,Kola,4.0
+27,Ayran,2.0
+27,Fanta,3.0
+27,Su,3.0
+28,Mercimek Çorbası,5.0
+28,Ezogelin Çorbası,2.0
+28,Şehriye Çorbası,3.0
+28,Yayla Çorbası,3.0
+28,Kuzu Etli Çorba,0
+28,Tas Kebabı,4.0
+28,Kuzu Şiş,5.0
+28,Kabak Graten,1.0
+28,Kabak Dolması,2.0
+28,Köfte,5.0
+28,Tavuk Biftek,5.0
+28,Tavuk Sote,5.0
+28,Karnıyarık,5.0
+28,Kuru Fasulye,5.0
+28,Patlıcan Musakka,4.0
+28,Bezelye,1.0
+28,Tavuk Kanat,5.0
+28,Nohut,5.0
+28,Türlü,2.0
+28,Ispanak,4.0
+28,Taze Fasulye,4.0
+28,Bamya,1.0
+28,Dana Rosto,5.0
+28,Pirinç Pilavı,5.0
+28,Patates Kızartması,5.0
+28,Bulgur Pilavı,5.0
+28,Cacık,4.0
+28,Çoban Salata,5.0
+28,Yoğurt,5.0
+28,Pırasa,3.0
+28,İrmik Helvası,5.0
+28,Turşu,4.0
+28,Sütlaç,5.0
+28,Kadayıf,5.0
+28,Kola,1.0
+28,Ayran,5.0
+28,Fanta,4.0
+28,Su,5.0
+29,Mercimek Çorbası,4.0
+29,Ezogelin Çorbası,2.0
+29,Şehriye Çorbası,3.0
+29,Yayla Çorbası,2.0
+29,Kuzu Etli Çorba,4.0
+29,Tas Kebabı,5.0
+29,Kuzu Şiş,5.0
+29,Kabak Graten,2.0
+29,Kabak Dolması,3.0
+29,Köfte,4.0
+29,Tavuk Biftek,5.0
+29,Tavuk Sote,4.0
+29,Karnıyarık,2.0
+29,Kuru Fasulye,3.0
+29,Patlıcan Musakka,2.0
+29,Bezelye,3.0
+29,Tavuk Kanat,5.0
+29,Nohut,3.0
+29,Türlü,0
+29,Ispanak,1.0
+29,Taze Fasulye,5.0
+29,Bamya,1.0
+29,Dana Rosto,5.0
+29,Pirinç Pilavı,4.0
+29,Patates Kızartması,5.0
+29,Bulgur Pilavı,5.0
+29,Cacık,3.0
+29,Çoban Salata,4.0
+29,Yoğurt,5.0
+29,Pırasa,2.0
+29,İrmik Helvası,2.0
+29,Turşu,3.0
+29,Sütlaç,4.0
+29,Kadayıf,3.0
+29,Kola,4.0
+29,Ayran,5.0
+29,Fanta,4.0
+29,Su,2.0
+30,Mercimek Çorbası,4.0
+30,Ezogelin Çorbası,4.0
+30,Şehriye Çorbası,3.0
+30,Yayla Çorbası,5.0
+30,Kuzu Etli Çorba,0
+30,Tas Kebabı,5.0
+30,Kuzu Şiş,5.0
+30,Kabak Graten,0
+30,Kabak Dolması,0
+30,Köfte,5.0
+30,Tavuk Biftek,4.0
+30,Tavuk Sote,4.0
+30,Karnıyarık,2.0
+30,Kuru Fasulye,2.0
+30,Patlıcan Musakka,1.0
+30,Bezelye,3.0
+30,Tavuk Kanat,4.0
+30,Nohut,4.0
+30,Türlü,2.0
+30,Ispanak,3.0
+30,Taze Fasulye,3.0
+30,Bamya,1.0
+30,Dana Rosto,4.0
+30,Pirinç Pilavı,3.0
+30,Patates Kızartması,4.0
+30,Bulgur Pilavı,4.0
+30,Cacık,5.0
+30,Çoban Salata,5.0
+30,Yoğurt,4.0
+30,Pırasa,2.0
+30,İrmik Helvası,2.0
+30,Turşu,4.0
+30,Sütlaç,5.0
+30,Kadayıf,0
+30,Kola,4.0
+30,Ayran,3.0
+30,Fanta,3.0
+30,Su,5.0
+31,Mercimek Çorbası,3.0
+31,Ezogelin Çorbası,3.0
+31,Şehriye Çorbası,2.0
+31,Yayla Çorbası,2.0
+31,Kuzu Etli Çorba,3.0
+31,Tas Kebabı,3.0
+31,Kuzu Şiş,4.0
+31,Kabak Graten,2.0
+31,Kabak Dolması,2.0
+31,Köfte,4.0
+31,Tavuk Biftek,3.0
+31,Tavuk Sote,3.0
+31,Karnıyarık,4.0
+31,Kuru Fasulye,2.0
+31,Patlıcan Musakka,4.0
+31,Bezelye,1.0
+31,Tavuk Kanat,2.0
+31,Nohut,2.0
+31,Türlü,2.0
+31,Ispanak,2.0
+31,Taze Fasulye,2.0
+31,Bamya,3.0
+31,Dana Rosto,4.0
+31,Pirinç Pilavı,2.0
+31,Patates Kızartması,4.0
+31,Bulgur Pilavı,2.0
+31,Cacık,2.0
+31,Çoban Salata,3.0
+31,Yoğurt,3.0
+31,Pırasa,4.0
+31,İrmik Helvası,3.0
+31,Turşu,3.0
+31,Sütlaç,3.0
+31,Kadayıf,3.0
+31,Kola,1.0
+31,Ayran,4.0
+31,Fanta,2.0
+31,Su,3.0
+32,Mercimek Çorbası,3.0
+32,Ezogelin Çorbası,2.0
+32,Şehriye Çorbası,3.0
+32,Yayla Çorbası,4.0
+32,Kuzu Etli Çorba,3.0
+32,Tas Kebabı,3.0
+32,Kuzu Şiş,4.0
+32,Kabak Graten,2.0
+32,Kabak Dolması,3.0
+32,Köfte,3.0
+32,Tavuk Biftek,3.0
+32,Tavuk Sote,3.0
+32,Karnıyarık,4.0
+32,Kuru Fasulye,5.0
+32,Patlıcan Musakka,2.0
+32,Bezelye,3.0
+32,Tavuk Kanat,3.0
+32,Nohut,3.0
+32,Türlü,2.0
+32,Ispanak,1.0
+32,Taze Fasulye,3.0
+32,Bamya,2.0
+32,Dana Rosto,4.0
+32,Pirinç Pilavı,5.0
+32,Patates Kızartması,3.0
+32,Bulgur Pilavı,4.0
+32,Cacık,5.0
+32,Çoban Salata,4.0
+32,Yoğurt,4.0
+32,Pırasa,3.0
+32,İrmik Helvası,3.0
+32,Turşu,3.0
+32,Sütlaç,5.0
+32,Kadayıf,3.0
+32,Kola,2.0
+32,Ayran,4.0
+32,Fanta,3.0
+32,Su,5.0
+33,Mercimek Çorbası,5.0
+33,Ezogelin Çorbası,5.0
+33,Şehriye Çorbası,3.0
+33,Yayla Çorbası,4.0
+33,Kuzu Etli Çorba,5.0
+33,Tas Kebabı,5.0
+33,Kuzu Şiş,5.0
+33,Kabak Graten,3.0
+33,Kabak Dolması,3.0
+33,Köfte,4.0
+33,Tavuk Biftek,4.0
+33,Tavuk Sote,5.0
+33,Karnıyarık,3.0
+33,Kuru Fasulye,1.0
+33,Patlıcan Musakka,3.0
+33,Bezelye,1.0
+33,Tavuk Kanat,5.0
+33,Nohut,1.0
+33,Türlü,2.0
+33,Ispanak,1.0
+33,Taze Fasulye,1.0
+33,Bamya,3.0
+33,Dana Rosto,3.0
+33,Pirinç Pilavı,4.0
+33,Patates Kızartması,5.0
+33,Bulgur Pilavı,3.0
+33,Cacık,2.0
+33,Çoban Salata,4.0
+33,Yoğurt,4.0
+33,Pırasa,1.0
+33,İrmik Helvası,5.0
+33,Turşu,5.0
+33,Sütlaç,5.0
+33,Kadayıf,5.0
+33,Kola,3.0
+33,Ayran,5.0
+33,Fanta,4.0
+33,Su,5.0
+34,Mercimek Çorbası,5.0
+34,Ezogelin Çorbası,5.0
+34,Şehriye Çorbası,5.0
+34,Yayla Çorbası,5.0
+34,Kuzu Etli Çorba,0
+34,Tas Kebabı,5.0
+34,Kuzu Şiş,0
+34,Kabak Graten,0
+34,Kabak Dolması,5.0
+34,Köfte,5.0
+34,Tavuk Biftek,5.0
+34,Tavuk Sote,5.0
+34,Karnıyarık,5.0
+34,Kuru Fasulye,5.0
+34,Patlıcan Musakka,5.0
+34,Bezelye,5.0
+34,Tavuk Kanat,5.0
+34,Nohut,5.0
+34,Türlü,3.0
+34,Ispanak,4.0
+34,Taze Fasulye,5.0
+34,Bamya,1.0
+34,Dana Rosto,5.0
+34,Pirinç Pilavı,5.0
+34,Patates Kızartması,5.0
+34,Bulgur Pilavı,5.0
+34,Cacık,5.0
+34,Çoban Salata,5.0
+34,Yoğurt,5.0
+34,Pırasa,3.0
+34,İrmik Helvası,5.0
+34,Turşu,5.0
+34,Sütlaç,5.0
+34,Kadayıf,5.0
+34,Kola,1.0
+34,Ayran,5.0
+34,Fanta,1.0
+34,Su,5.0
+35,Mercimek Çorbası,4.0
+35,Ezogelin Çorbası,4.0
+35,Şehriye Çorbası,2.0
+35,Yayla Çorbası,1.0
+35,Kuzu Etli Çorba,1.0
+35,Tas Kebabı,4.0
+35,Kuzu Şiş,4.0
+35,Kabak Graten,1.0
+35,Kabak Dolması,1.0
+35,Köfte,4.0
+35,Tavuk Biftek,4.0
+35,Tavuk Sote,4.0
+35,Karnıyarık,3.0
+35,Kuru Fasulye,5.0
+35,Patlıcan Musakka,2.0
+35,Bezelye,1.0
+35,Tavuk Kanat,4.0
+35,Nohut,3.0
+35,Türlü,4.0
+35,Ispanak,1.0
+35,Taze Fasulye,3.0
+35,Bamya,1.0
+35,Dana Rosto,3.0
+35,Pirinç Pilavı,5.0
+35,Patates Kızartması,4.0
+35,Bulgur Pilavı,3.0
+35,Cacık,4.0
+35,Çoban Salata,4.0
+35,Yoğurt,5.0
+35,Pırasa,1.0
+35,İrmik Helvası,4.0
+35,Turşu,2.0
+35,Sütlaç,1.0
+35,Kadayıf,4.0
+35,Kola,4.0
+35,Ayran,5.0
+35,Fanta,3.0
+35,Su,5.0
+36,Mercimek Çorbası,5.0
+36,Ezogelin Çorbası,4.0
+36,Şehriye Çorbası,4.0
+36,Yayla Çorbası,3.0
+36,Kuzu Etli Çorba,2.0
+36,Tas Kebabı,4.0
+36,Kuzu Şiş,5.0
+36,Kabak Graten,1.0
+36,Kabak Dolması,1.0
+36,Köfte,5.0
+36,Tavuk Biftek,4.0
+36,Tavuk Sote,4.0
+36,Karnıyarık,2.0
+36,Kuru Fasulye,3.0
+36,Patlıcan Musakka,2.0
+36,Bezelye,4.0
+36,Tavuk Kanat,4.0
+36,Nohut,4.0
+36,Türlü,1.0
+36,Ispanak,4.0
+36,Taze Fasulye,5.0
+36,Bamya,1.0
+36,Dana Rosto,4.0
+36,Pirinç Pilavı,5.0
+36,Patates Kızartması,5.0
+36,Bulgur Pilavı,3.0
+36,Cacık,5.0
+36,Çoban Salata,5.0
+36,Yoğurt,5.0
+36,Pırasa,1.0
+36,İrmik Helvası,5.0
+36,Turşu,5.0
+36,Sütlaç,5.0
+36,Kadayıf,5.0
+36,Kola,5.0
+36,Ayran,5.0
+36,Fanta,5.0
+36,Su,5.0
+37,Mercimek Çorbası,5.0
+37,Ezogelin Çorbası,5.0
+37,Şehriye Çorbası,4.0
+37,Yayla Çorbası,4.0
+37,Kuzu Etli Çorba,3.0
+37,Tas Kebabı,5.0
+37,Kuzu Şiş,3.0
+37,Kabak Graten,4.0
+37,Kabak Dolması,4.0
+37,Köfte,5.0
+37,Tavuk Biftek,3.0
+37,Tavuk Sote,5.0
+37,Karnıyarık,5.0
+37,Kuru Fasulye,4.0
+37,Patlıcan Musakka,3.0
+37,Bezelye,5.0
+37,Tavuk Kanat,5.0
+37,Nohut,5.0
+37,Türlü,3.0
+37,Ispanak,5.0
+37,Taze Fasulye,5.0
+37,Bamya,4.0
+37,Dana Rosto,5.0
+37,Pirinç Pilavı,5.0
+37,Patates Kızartması,5.0
+37,Bulgur Pilavı,5.0
+37,Cacık,4.0
+37,Çoban Salata,4.0
+37,Yoğurt,5.0
+37,Pırasa,1.0
+37,İrmik Helvası,4.0
+37,Turşu,5.0
+37,Sütlaç,5.0
+37,Kadayıf,5.0
+37,Kola,3.0
+37,Ayran,4.0
+37,Fanta,1.0
+37,Su,5.0
+38,Mercimek Çorbası,5.0
+38,Ezogelin Çorbası,5.0
+38,Şehriye Çorbası,3.0
+38,Yayla Çorbası,4.0
+38,Kuzu Etli Çorba,3.0
+38,Tas Kebabı,5.0
+38,Kuzu Şiş,5.0
+38,Kabak Graten,3.0
+38,Kabak Dolması,3.0
+38,Köfte,4.0
+38,Tavuk Biftek,5.0
+38,Tavuk Sote,5.0
+38,Karnıyarık,4.0
+38,Kuru Fasulye,1.0
+38,Patlıcan Musakka,4.0
+38,Bezelye,3.0
+38,Tavuk Kanat,3.0
+38,Nohut,1.0
+38,Türlü,2.0
+38,Ispanak,3.0
+38,Taze Fasulye,4.0
+38,Bamya,4.0
+38,Dana Rosto,3.0
+38,Pirinç Pilavı,5.0
+38,Patates Kızartması,5.0
+38,Bulgur Pilavı,2.0
+38,Cacık,3.0
+38,Çoban Salata,3.0
+38,Yoğurt,4.0
+38,Pırasa,1.0
+38,İrmik Helvası,3.0
+38,Turşu,4.0
+38,Sütlaç,5.0
+38,Kadayıf,5.0
+38,Kola,5.0
+38,Ayran,4.0
+38,Fanta,4.0
+38,Su,2.0
+39,Mercimek Çorbası,5.0
+39,Ezogelin Çorbası,4.0
+39,Şehriye Çorbası,2.0
+39,Yayla Çorbası,3.0
+39,Kuzu Etli Çorba,3.0
+39,Tas Kebabı,4.0
+39,Kuzu Şiş,5.0
+39,Kabak Graten,2.0
+39,Kabak Dolması,2.0
+39,Köfte,4.0
+39,Tavuk Biftek,3.0
+39,Tavuk Sote,3.0
+39,Karnıyarık,3.0
+39,Kuru Fasulye,4.0
+39,Patlıcan Musakka,2.0
+39,Bezelye,2.0
+39,Tavuk Kanat,3.0
+39,Nohut,4.0
+39,Türlü,4.0
+39,Ispanak,4.0
+39,Taze Fasulye,4.0
+39,Bamya,2.0
+39,Dana Rosto,4.0
+39,Pirinç Pilavı,5.0
+39,Patates Kızartması,5.0
+39,Bulgur Pilavı,4.0
+39,Cacık,5.0
+39,Çoban Salata,5.0
+39,Yoğurt,4.0
+39,Pırasa,3.0
+39,İrmik Helvası,5.0
+39,Turşu,4.0
+39,Sütlaç,5.0
+39,Kadayıf,5.0
+39,Kola,5.0
+39,Ayran,5.0
+39,Fanta,5.0
+39,Su,5.0
+40,Mercimek Çorbası,5.0
+40,Ezogelin Çorbası,5.0
+40,Şehriye Çorbası,5.0
+40,Yayla Çorbası,5.0
+40,Kuzu Etli Çorba,5.0
+40,Tas Kebabı,4.0
+40,Kuzu Şiş,5.0
+40,Kabak Graten,0
+40,Kabak Dolması,3.0
+40,Köfte,5.0
+40,Tavuk Biftek,5.0
+40,Tavuk Sote,4.0
+40,Karnıyarık,4.0
+40,Kuru Fasulye,3.0
+40,Patlıcan Musakka,2.0
+40,Bezelye,2.0
+40,Tavuk Kanat,4.0
+40,Nohut,3.0
+40,Türlü,2.0
+40,Ispanak,3.0
+40,Taze Fasulye,5.0
+40,Bamya,0
+40,Dana Rosto,5.0
+40,Pirinç Pilavı,5.0
+40,Patates Kızartması,5.0
+40,Bulgur Pilavı,5.0
+40,Cacık,5.0
+40,Çoban Salata,3.0
+40,Yoğurt,5.0
+40,Pırasa,2.0
+40,İrmik Helvası,4.0
+40,Turşu,2.0
+40,Sütlaç,4.0
+40,Kadayıf,3.0
+40,Kola,1.0
+40,Ayran,5.0
+40,Fanta,1.0
+40,Su,5.0
+41,Mercimek Çorbası,5.0
+41,Ezogelin Çorbası,4.0
+41,Şehriye Çorbası,2.0
+41,Yayla Çorbası,5.0
+41,Kuzu Etli Çorba,1.0
+41,Tas Kebabı,3.0
+41,Kuzu Şiş,2.0
+41,Kabak Graten,0
+41,Kabak Dolması,4.0
+41,Köfte,5.0
+41,Tavuk Biftek,4.0
+41,Tavuk Sote,5.0
+41,Karnıyarık,5.0
+41,Kuru Fasulye,5.0
+41,Patlıcan Musakka,1.0
+41,Bezelye,5.0
+41,Tavuk Kanat,5.0
+41,Nohut,1.0
+41,Türlü,2.0
+41,Ispanak,2.0
+41,Taze Fasulye,2.0
+41,Bamya,1.0
+41,Dana Rosto,3.0
+41,Pirinç Pilavı,5.0
+41,Patates Kızartması,5.0
+41,Bulgur Pilavı,5.0
+41,Cacık,5.0
+41,Çoban Salata,5.0
+41,Yoğurt,5.0
+41,Pırasa,1.0
+41,İrmik Helvası,5.0
+41,Turşu,5.0
+41,Sütlaç,5.0
+41,Kadayıf,5.0
+41,Kola,5.0
+41,Ayran,5.0
+41,Fanta,3.0
+41,Su,5.0
+42,Mercimek Çorbası,5.0
+42,Ezogelin Çorbası,2.0
+42,Şehriye Çorbası,3.0
+42,Yayla Çorbası,2.0
+42,Kuzu Etli Çorba,0
+42,Tas Kebabı,3.0
+42,Kuzu Şiş,5.0
+42,Kabak Graten,3.0
+42,Kabak Dolması,3.0
+42,Köfte,4.0
+42,Tavuk Biftek,4.0
+42,Tavuk Sote,3.0
+42,Karnıyarık,5.0
+42,Kuru Fasulye,5.0
+42,Patlıcan Musakka,3.0
+42,Bezelye,3.0
+42,Tavuk Kanat,4.0
+42,Nohut,3.0
+42,Türlü,2.0
+42,Ispanak,2.0
+42,Taze Fasulye,3.0
+42,Bamya,4.0
+42,Dana Rosto,4.0
+42,Pirinç Pilavı,4.0
+42,Patates Kızartması,3.0
+42,Bulgur Pilavı,2.0
+42,Cacık,4.0
+42,Çoban Salata,4.0
+42,Yoğurt,4.0
+42,Pırasa,2.0
+42,İrmik Helvası,3.0
+42,Turşu,5.0
+42,Sütlaç,4.0
+42,Kadayıf,3.0
+42,Kola,3.0
+42,Ayran,5.0
+42,Fanta,3.0
+42,Su,3.0
+43,Mercimek Çorbası,3.0
+43,Ezogelin Çorbası,3.0
+43,Şehriye Çorbası,3.0
+43,Yayla Çorbası,3.0
+43,Kuzu Etli Çorba,5.0
+43,Tas Kebabı,4.0
+43,Kuzu Şiş,5.0
+43,Kabak Graten,0
+43,Kabak Dolması,3.0
+43,Köfte,5.0
+43,Tavuk Biftek,5.0
+43,Tavuk Sote,5.0
+43,Karnıyarık,5.0
+43,Kuru Fasulye,3.0
+43,Patlıcan Musakka,3.0
+43,Bezelye,1.0
+43,Tavuk Kanat,5.0
+43,Nohut,3.0
+43,Türlü,3.0
+43,Ispanak,5.0
+43,Taze Fasulye,5.0
+43,Bamya,5.0
+43,Dana Rosto,5.0
+43,Pirinç Pilavı,5.0
+43,Patates Kızartması,1.0
+43,Bulgur Pilavı,5.0
+43,Cacık,4.0
+43,Çoban Salata,2.0
+43,Yoğurt,3.0
+43,Pırasa,5.0
+43,İrmik Helvası,5.0
+43,Turşu,5.0
+43,Sütlaç,5.0
+43,Kadayıf,5.0
+43,Kola,1.0
+43,Ayran,3.0
+43,Fanta,1.0
+43,Su,3.0
+44,Mercimek Çorbası,4.0
+44,Ezogelin Çorbası,5.0
+44,Şehriye Çorbası,1.0
+44,Yayla Çorbası,1.0
+44,Kuzu Etli Çorba,1.0
+44,Tas Kebabı,5.0
+44,Kuzu Şiş,5.0
+44,Kabak Graten,1.0
+44,Kabak Dolması,1.0
+44,Köfte,5.0
+44,Tavuk Biftek,5.0
+44,Tavuk Sote,5.0
+44,Karnıyarık,1.0
+44,Kuru Fasulye,1.0
+44,Patlıcan Musakka,1.0
+44,Bezelye,0
+44,Tavuk Kanat,5.0
+44,Nohut,2.0
+44,Türlü,2.0
+44,Ispanak,1.0
+44,Taze Fasulye,2.0
+44,Bamya,1.0
+44,Dana Rosto,5.0
+44,Pirinç Pilavı,4.0
+44,Patates Kızartması,5.0
+44,Bulgur Pilavı,3.0
+44,Cacık,3.0
+44,Çoban Salata,1.0
+44,Yoğurt,3.0
+44,Pırasa,1.0
+44,İrmik Helvası,1.0
+44,Turşu,1.0
+44,Sütlaç,2.0
+44,Kadayıf,5.0
+44,Kola,5.0
+44,Ayran,4.0
+44,Fanta,4.0
+44,Su,2.0
+45,Mercimek Çorbası,4.0
+45,Ezogelin Çorbası,3.0
+45,Şehriye Çorbası,4.0
+45,Yayla Çorbası,4.0
+45,Kuzu Etli Çorba,5.0
+45,Tas Kebabı,5.0
+45,Kuzu Şiş,5.0
+45,Kabak Graten,3.0
+45,Kabak Dolması,5.0
+45,Köfte,5.0
+45,Tavuk Biftek,4.0
+45,Tavuk Sote,5.0
+45,Karnıyarık,5.0
+45,Kuru Fasulye,4.0
+45,Patlıcan Musakka,3.0
+45,Bezelye,5.0
+45,Tavuk Kanat,4.0
+45,Nohut,1.0
+45,Türlü,3.0
+45,Ispanak,5.0
+45,Taze Fasulye,5.0
+45,Bamya,4.0
+45,Dana Rosto,5.0
+45,Pirinç Pilavı,5.0
+45,Patates Kızartması,5.0
+45,Bulgur Pilavı,5.0
+45,Cacık,5.0
+45,Çoban Salata,5.0
+45,Yoğurt,4.0
+45,Pırasa,4.0
+45,İrmik Helvası,4.0
+45,Turşu,5.0
+45,Sütlaç,4.0
+45,Kadayıf,3.0
+45,Kola,5.0
+45,Ayran,5.0
+45,Fanta,3.0
+45,Su,5.0
+46,Mercimek Çorbası,2.0
+46,Ezogelin Çorbası,3.0
+46,Şehriye Çorbası,3.0
+46,Yayla Çorbası,5.0
+46,Kuzu Etli Çorba,0
+46,Tas Kebabı,3.0
+46,Kuzu Şiş,1.0
+46,Kabak Graten,0
+46,Kabak Dolması,2.0
+46,Köfte,5.0
+46,Tavuk Biftek,3.0
+46,Tavuk Sote,4.0
+46,Karnıyarık,1.0
+46,Kuru Fasulye,3.0
+46,Patlıcan Musakka,3.0
+46,Bezelye,1.0
+46,Tavuk Kanat,5.0
+46,Nohut,2.0
+46,Türlü,3.0
+46,Ispanak,3.0
+46,Taze Fasulye,3.0
+46,Bamya,2.0
+46,Dana Rosto,1.0
+46,Pirinç Pilavı,5.0
+46,Patates Kızartması,5.0
+46,Bulgur Pilavı,5.0
+46,Cacık,5.0
+46,Çoban Salata,5.0
+46,Yoğurt,5.0
+46,Pırasa,2.0
+46,İrmik Helvası,1.0
+46,Turşu,5.0
+46,Sütlaç,5.0
+46,Kadayıf,3.0
+46,Kola,1.0
+46,Ayran,5.0
+46,Fanta,1.0
+46,Su,5.0
+47,Mercimek Çorbası,5.0
+47,Ezogelin Çorbası,5.0
+47,Şehriye Çorbası,4.0
+47,Yayla Çorbası,4.0
+47,Kuzu Etli Çorba,0
+47,Tas Kebabı,4.0
+47,Kuzu Şiş,4.0
+47,Kabak Graten,0
+47,Kabak Dolması,4.0
+47,Köfte,5.0
+47,Tavuk Biftek,5.0
+47,Tavuk Sote,4.0
+47,Karnıyarık,5.0
+47,Kuru Fasulye,3.0
+47,Patlıcan Musakka,3.0
+47,Bezelye,3.0
+47,Tavuk Kanat,4.0
+47,Nohut,5.0
+47,Türlü,4.0
+47,Ispanak,4.0
+47,Taze Fasulye,5.0
+47,Bamya,3.0
+47,Dana Rosto,4.0
+47,Pirinç Pilavı,4.0
+47,Patates Kızartması,5.0
+47,Bulgur Pilavı,5.0
+47,Cacık,5.0
+47,Çoban Salata,5.0
+47,Yoğurt,5.0
+47,Pırasa,4.0
+47,İrmik Helvası,5.0
+47,Turşu,5.0
+47,Sütlaç,5.0
+47,Kadayıf,4.0
+47,Kola,1.0
+47,Ayran,4.0
+47,Fanta,2.0
+47,Su,5.0
+48,Mercimek Çorbası,5.0
+48,Ezogelin Çorbası,1.0
+48,Şehriye Çorbası,4.0
+48,Yayla Çorbası,2.0
+48,Kuzu Etli Çorba,0
+48,Tas Kebabı,3.0
+48,Kuzu Şiş,1.0
+48,Kabak Graten,4.0
+48,Kabak Dolması,5.0
+48,Köfte,5.0
+48,Tavuk Biftek,3.0
+48,Tavuk Sote,4.0
+48,Karnıyarık,5.0
+48,Kuru Fasulye,4.0
+48,Patlıcan Musakka,4.0
+48,Bezelye,5.0
+48,Tavuk Kanat,4.0
+48,Nohut,4.0
+48,Türlü,5.0
+48,Ispanak,1.0
+48,Taze Fasulye,1.0
+48,Bamya,1.0
+48,Dana Rosto,5.0
+48,Pirinç Pilavı,5.0
+48,Patates Kızartması,5.0
+48,Bulgur Pilavı,2.0
+48,Cacık,5.0
+48,Çoban Salata,5.0
+48,Yoğurt,2.0
+48,Pırasa,1.0
+48,İrmik Helvası,4.0
+48,Turşu,5.0
+48,Sütlaç,1.0
+48,Kadayıf,1.0
+48,Kola,5.0
+48,Ayran,4.0
+48,Fanta,1.0
+48,Su,2.0
+49,Mercimek Çorbası,5.0
+49,Ezogelin Çorbası,5.0
+49,Şehriye Çorbası,5.0
+49,Yayla Çorbası,5.0
+49,Kuzu Etli Çorba,5.0
+49,Tas Kebabı,5.0
+49,Kuzu Şiş,5.0
+49,Kabak Graten,0
+49,Kabak Dolması,1.0
+49,Köfte,5.0
+49,Tavuk Biftek,3.0
+49,Tavuk Sote,3.0
+49,Karnıyarık,5.0
+49,Kuru Fasulye,4.0
+49,Patlıcan Musakka,4.0
+49,Bezelye,2.0
+49,Tavuk Kanat,4.0
+49,Nohut,3.0
+49,Türlü,5.0
+49,Ispanak,3.0
+49,Taze Fasulye,5.0
+49,Bamya,3.0
+49,Dana Rosto,4.0
+49,Pirinç Pilavı,3.0
+49,Patates Kızartması,4.0
+49,Bulgur Pilavı,5.0
+49,Cacık,5.0
+49,Çoban Salata,5.0
+49,Yoğurt,5.0
+49,Pırasa,2.0
+49,İrmik Helvası,4.0
+49,Turşu,5.0
+49,Sütlaç,5.0
+49,Kadayıf,5.0
+49,Kola,1.0
+49,Ayran,5.0
+49,Fanta,1.0
+49,Su,5.0
+50,Mercimek Çorbası,4.0
+50,Ezogelin Çorbası,3.0
+50,Şehriye Çorbası,4.0
+50,Yayla Çorbası,4.0
+50,Kuzu Etli Çorba,0
+50,Tas Kebabı,4.0
+50,Kuzu Şiş,5.0
+50,Kabak Graten,0
+50,Kabak Dolması,3.0
+50,Köfte,4.0
+50,Tavuk Biftek,4.0
+50,Tavuk Sote,4.0
+50,Karnıyarık,3.0
+50,Kuru Fasulye,4.0
+50,Patlıcan Musakka,2.0
+50,Bezelye,3.0
+50,Tavuk Kanat,4.0
+50,Nohut,4.0
+50,Türlü,3.0
+50,Ispanak,4.0
+50,Taze Fasulye,4.0
+50,Bamya,3.0
+50,Dana Rosto,0
+50,Pirinç Pilavı,4.0
+50,Patates Kızartması,5.0
+50,Bulgur Pilavı,4.0
+50,Cacık,5.0
+50,Çoban Salata,5.0
+50,Yoğurt,5.0
+50,Pırasa,3.0
+50,İrmik Helvası,3.0
+50,Turşu,5.0
+50,Sütlaç,5.0
+50,Kadayıf,5.0
+50,Kola,1.0
+50,Ayran,3.0
+50,Fanta,1.0
+50,Su,5.0
+51,Mercimek Çorbası,4.0
+51,Ezogelin Çorbası,4.0
+51,Şehriye Çorbası,3.0
+51,Yayla Çorbası,4.0
+51,Kuzu Etli Çorba,2.0
+51,Tas Kebabı,3.0
+51,Kuzu Şiş,2.0
+51,Kabak Graten,0
+51,Kabak Dolması,3.0
+51,Köfte,5.0
+51,Tavuk Biftek,3.0
+51,Tavuk Sote,4.0
+51,Karnıyarık,3.0
+51,Kuru Fasulye,4.0
+51,Patlıcan Musakka,4.0
+51,Bezelye,3.0
+51,Tavuk Kanat,2.0
+51,Nohut,3.0
+51,Türlü,1.0
+51,Ispanak,3.0
+51,Taze Fasulye,5.0
+51,Bamya,2.0
+51,Dana Rosto,5.0
+51,Pirinç Pilavı,3.0
+51,Patates Kızartması,4.0
+51,Bulgur Pilavı,2.0
+51,Cacık,3.0
+51,Çoban Salata,3.0
+51,Yoğurt,4.0
+51,Pırasa,3.0
+51,İrmik Helvası,1.0
+51,Turşu,4.0
+51,Sütlaç,2.0
+51,Kadayıf,3.0
+51,Kola,3.0
+51,Ayran,4.0
+51,Fanta,3.0
+51,Su,5.0
+52,Mercimek Çorbası,5.0
+52,Ezogelin Çorbası,3.0
+52,Şehriye Çorbası,4.0
+52,Yayla Çorbası,4.0
+52,Kuzu Etli Çorba,5.0
+52,Tas Kebabı,5.0
+52,Kuzu Şiş,5.0
+52,Kabak Graten,2.0
+52,Kabak Dolması,2.0
+52,Köfte,5.0
+52,Tavuk Biftek,5.0
+52,Tavuk Sote,5.0
+52,Karnıyarık,3.0
+52,Kuru Fasulye,5.0
+52,Patlıcan Musakka,2.0
+52,Bezelye,1.0
+52,Tavuk Kanat,5.0
+52,Nohut,4.0
+52,Türlü,2.0
+52,Ispanak,2.0
+52,Taze Fasulye,4.0
+52,Bamya,3.0
+52,Dana Rosto,5.0
+52,Pirinç Pilavı,5.0
+52,Patates Kızartması,5.0
+52,Bulgur Pilavı,4.0
+52,Cacık,3.0
+52,Çoban Salata,5.0
+52,Yoğurt,5.0
+52,Pırasa,3.0
+52,İrmik Helvası,5.0
+52,Turşu,3.0
+52,Sütlaç,5.0
+52,Kadayıf,5.0
+52,Kola,1.0
+52,Ayran,5.0
+52,Fanta,2.0
+52,Su,5.0
+53,Mercimek Çorbası,5.0
+53,Ezogelin Çorbası,4.0
+53,Şehriye Çorbası,4.0
+53,Yayla Çorbası,3.0
+53,Kuzu Etli Çorba,4.0
+53,Tas Kebabı,5.0
+53,Kuzu Şiş,5.0
+53,Kabak Graten,2.0
+53,Kabak Dolması,2.0
+53,Köfte,5.0
+53,Tavuk Biftek,4.0
+53,Tavuk Sote,4.0
+53,Karnıyarık,4.0
+53,Kuru Fasulye,4.0
+53,Patlıcan Musakka,3.0
+53,Bezelye,2.0
+53,Tavuk Kanat,3.0
+53,Nohut,4.0
+53,Türlü,4.0
+53,Ispanak,3.0
+53,Taze Fasulye,4.0
+53,Bamya,2.0
+53,Dana Rosto,3.0
+53,Pirinç Pilavı,5.0
+53,Patates Kızartması,5.0
+53,Bulgur Pilavı,5.0
+53,Cacık,5.0
+53,Çoban Salata,5.0
+53,Yoğurt,5.0
+53,Pırasa,3.0
+53,İrmik Helvası,4.0
+53,Turşu,4.0
+53,Sütlaç,2.0
+53,Kadayıf,4.0
+53,Kola,1.0
+53,Ayran,5.0
+53,Fanta,2.0
+53,Su,5.0
+54,Mercimek Çorbası,4.0
+54,Ezogelin Çorbası,3.0
+54,Şehriye Çorbası,2.0
+54,Yayla Çorbası,5.0
+54,Kuzu Etli Çorba,0
+54,Tas Kebabı,5.0
+54,Kuzu Şiş,5.0
+54,Kabak Graten,0
+54,Kabak Dolması,0
+54,Köfte,5.0
+54,Tavuk Biftek,5.0
+54,Tavuk Sote,5.0
+54,Karnıyarık,2.0
+54,Kuru Fasulye,0
+54,Patlıcan Musakka,0
+54,Bezelye,1.0
+54,Tavuk Kanat,5.0
+54,Nohut,2.0
+54,Türlü,1.0
+54,Ispanak,1.0
+54,Taze Fasulye,2.0
+54,Bamya,1.0
+54,Dana Rosto,5.0
+54,Pirinç Pilavı,5.0
+54,Patates Kızartması,5.0
+54,Bulgur Pilavı,1.0
+54,Cacık,5.0
+54,Çoban Salata,5.0
+54,Yoğurt,5.0
+54,Pırasa,1.0
+54,İrmik Helvası,1.0
+54,Turşu,5.0
+54,Sütlaç,5.0
+54,Kadayıf,5.0
+54,Kola,5.0
+54,Ayran,5.0
+54,Fanta,5.0
+54,Su,5.0
+55,Mercimek Çorbası,5.0
+55,Ezogelin Çorbası,4.0
+55,Şehriye Çorbası,4.0
+55,Yayla Çorbası,3.0
+55,Kuzu Etli Çorba,4.0
+55,Tas Kebabı,5.0
+55,Kuzu Şiş,5.0
+55,Kabak Graten,2.0
+55,Kabak Dolması,2.0
+55,Köfte,5.0
+55,Tavuk Biftek,4.0
+55,Tavuk Sote,4.0
+55,Karnıyarık,4.0
+55,Kuru Fasulye,4.0
+55,Patlıcan Musakka,3.0
+55,Bezelye,2.0
+55,Tavuk Kanat,3.0
+55,Nohut,4.0
+55,Türlü,4.0
+55,Ispanak,3.0
+55,Taze Fasulye,4.0
+55,Bamya,2.0
+55,Dana Rosto,3.0
+55,Pirinç Pilavı,5.0
+55,Patates Kızartması,5.0
+55,Bulgur Pilavı,5.0
+55,Cacık,5.0
+55,Çoban Salata,5.0
+55,Yoğurt,5.0
+55,Pırasa,3.0
+55,İrmik Helvası,4.0
+55,Turşu,4.0
+55,Sütlaç,2.0
+55,Kadayıf,4.0
+55,Kola,1.0
+55,Ayran,5.0
+55,Fanta,2.0
+55,Su,5.0
+56,Mercimek Çorbası,4.0
+56,Ezogelin Çorbası,5.0
+56,Şehriye Çorbası,4.0
+56,Yayla Çorbası,5.0
+56,Kuzu Etli Çorba,0
+56,Tas Kebabı,0
+56,Kuzu Şiş,4.0
+56,Kabak Graten,2.0
+56,Kabak Dolması,3.0
+56,Köfte,5.0
+56,Tavuk Biftek,4.0
+56,Tavuk Sote,4.0
+56,Karnıyarık,3.0
+56,Kuru Fasulye,5.0
+56,Patlıcan Musakka,3.0
+56,Bezelye,4.0
+56,Tavuk Kanat,4.0
+56,Nohut,5.0
+56,Türlü,3.0
+56,Ispanak,4.0
+56,Taze Fasulye,4.0
+56,Bamya,3.0
+56,Dana Rosto,4.0
+56,Pirinç Pilavı,5.0
+56,Patates Kızartması,5.0
+56,Bulgur Pilavı,5.0
+56,Cacık,5.0
+56,Çoban Salata,4.0
+56,Yoğurt,5.0
+56,Pırasa,3.0
+56,İrmik Helvası,5.0
+56,Turşu,5.0
+56,Sütlaç,5.0
+56,Kadayıf,5.0
+56,Kola,4.0
+56,Ayran,5.0
+56,Fanta,4.0
+56,Su,5.0
+57,Mercimek Çorbası,5.0
+57,Ezogelin Çorbası,3.0
+57,Şehriye Çorbası,4.0
+57,Yayla Çorbası,4.0
+57,Kuzu Etli Çorba,5.0
+57,Tas Kebabı,0
+57,Kuzu Şiş,4.0
+57,Kabak Graten,0
+57,Kabak Dolması,3.0
+57,Köfte,3.0
+57,Tavuk Biftek,5.0
+57,Tavuk Sote,4.0
+57,Karnıyarık,3.0
+57,Kuru Fasulye,4.0
+57,Patlıcan Musakka,3.0
+57,Bezelye,3.0
+57,Tavuk Kanat,4.0
+57,Nohut,3.0
+57,Türlü,3.0
+57,Ispanak,5.0
+57,Taze Fasulye,3.0
+57,Bamya,4.0
+57,Dana Rosto,3.0
+57,Pirinç Pilavı,4.0
+57,Patates Kızartması,5.0
+57,Bulgur Pilavı,5.0
+57,Cacık,3.0
+57,Çoban Salata,3.0
+57,Yoğurt,4.0
+57,Pırasa,5.0
+57,İrmik Helvası,4.0
+57,Turşu,4.0
+57,Sütlaç,5.0
+57,Kadayıf,3.0
+57,Kola,4.0
+57,Ayran,4.0
+57,Fanta,3.0
+57,Su,5.0
+58,Mercimek Çorbası,5.0
+58,Ezogelin Çorbası,4.0
+58,Şehriye Çorbası,4.0
+58,Yayla Çorbası,5.0
+58,Kuzu Etli Çorba,1.0
+58,Tas Kebabı,5.0
+58,Kuzu Şiş,5.0
+58,Kabak Graten,5.0
+58,Kabak Dolması,5.0
+58,Köfte,5.0
+58,Tavuk Biftek,5.0
+58,Tavuk Sote,5.0
+58,Karnıyarık,5.0
+58,Kuru Fasulye,2.0
+58,Patlıcan Musakka,5.0
+58,Bezelye,5.0
+58,Tavuk Kanat,3.0
+58,Nohut,3.0
+58,Türlü,4.0
+58,Ispanak,3.0
+58,Taze Fasulye,5.0
+58,Bamya,1.0
+58,Dana Rosto,3.0
+58,Pirinç Pilavı,4.0
+58,Patates Kızartması,5.0
+58,Bulgur Pilavı,5.0
+58,Cacık,5.0
+58,Çoban Salata,5.0
+58,Yoğurt,5.0
+58,Pırasa,5.0
+58,İrmik Helvası,5.0
+58,Turşu,4.0
+58,Sütlaç,5.0
+58,Kadayıf,5.0
+58,Kola,5.0
+58,Ayran,5.0
+58,Fanta,3.0
+58,Su,5.0
+59,Mercimek Çorbası,5.0
+59,Ezogelin Çorbası,3.0
+59,Şehriye Çorbası,4.0
+59,Yayla Çorbası,5.0
+59,Kuzu Etli Çorba,4.0
+59,Tas Kebabı,5.0
+59,Kuzu Şiş,5.0
+59,Kabak Graten,3.0
+59,Kabak Dolması,5.0
+59,Köfte,4.0
+59,Tavuk Biftek,4.0
+59,Tavuk Sote,4.0
+59,Karnıyarık,5.0
+59,Kuru Fasulye,4.0
+59,Patlıcan Musakka,5.0
+59,Bezelye,5.0
+59,Tavuk Kanat,4.0
+59,Nohut,5.0
+59,Türlü,5.0
+59,Ispanak,4.0
+59,Taze Fasulye,5.0
+59,Bamya,4.0
+59,Dana Rosto,0
+59,Pirinç Pilavı,4.0
+59,Patates Kızartması,4.0
+59,Bulgur Pilavı,4.0
+59,Cacık,5.0
+59,Çoban Salata,4.0
+59,Yoğurt,5.0
+59,Pırasa,5.0
+59,İrmik Helvası,4.0
+59,Turşu,5.0
+59,Sütlaç,5.0
+59,Kadayıf,3.0
+59,Kola,3.0
+59,Ayran,4.0
+59,Fanta,1.0
+59,Su,5.0
+60,Mercimek Çorbası,3.0
+60,Ezogelin Çorbası,3.0
+60,Şehriye Çorbası,3.0
+60,Yayla Çorbası,3.0
+60,Kuzu Etli Çorba,1.0
+60,Tas Kebabı,4.0
+60,Kuzu Şiş,5.0
+60,Kabak Graten,5.0
+60,Kabak Dolması,2.0
+60,Köfte,4.0
+60,Tavuk Biftek,4.0
+60,Tavuk Sote,2.0
+60,Karnıyarık,2.0
+60,Kuru Fasulye,1.0
+60,Patlıcan Musakka,1.0
+60,Bezelye,3.0
+60,Tavuk Kanat,1.0
+60,Nohut,1.0
+60,Türlü,1.0
+60,Ispanak,5.0
+60,Taze Fasulye,3.0
+60,Bamya,5.0
+60,Dana Rosto,5.0
+60,Pirinç Pilavı,3.0
+60,Patates Kızartması,5.0
+60,Bulgur Pilavı,1.0
+60,Cacık,5.0
+60,Çoban Salata,5.0
+60,Yoğurt,5.0
+60,Pırasa,5.0
+60,İrmik Helvası,5.0
+60,Turşu,5.0
+60,Sütlaç,1.0
+60,Kadayıf,2.0
+60,Kola,1.0
+60,Ayran,4.0
+60,Fanta,1.0
+60,Su,5.0
+61,Mercimek Çorbası,5.0
+61,Ezogelin Çorbası,4.0
+61,Şehriye Çorbası,4.0
+61,Yayla Çorbası,5.0
+61,Kuzu Etli Çorba,5.0
+61,Tas Kebabı,4.0
+61,Kuzu Şiş,5.0
+61,Kabak Graten,5.0
+61,Kabak Dolması,4.0
+61,Köfte,5.0
+61,Tavuk Biftek,5.0
+61,Tavuk Sote,5.0
+61,Karnıyarık,5.0
+61,Kuru Fasulye,5.0
+61,Patlıcan Musakka,5.0
+61,Bezelye,5.0
+61,Tavuk Kanat,5.0
+61,Nohut,5.0
+61,Türlü,5.0
+61,Ispanak,5.0
+61,Taze Fasulye,4.0
+61,Bamya,5.0
+61,Dana Rosto,5.0
+61,Pirinç Pilavı,5.0
+61,Patates Kızartması,5.0
+61,Bulgur Pilavı,4.0
+61,Cacık,3.0
+61,Çoban Salata,5.0
+61,Yoğurt,4.0
+61,Pırasa,5.0
+61,İrmik Helvası,3.0
+61,Turşu,5.0
+61,Sütlaç,5.0
+61,Kadayıf,3.0
+61,Kola,2.0
+61,Ayran,5.0
+61,Fanta,3.0
+61,Su,5.0
+62,Mercimek Çorbası,4.0
+62,Ezogelin Çorbası,4.0
+62,Şehriye Çorbası,4.0
+62,Yayla Çorbası,3.0
+62,Kuzu Etli Çorba,3.0
+62,Tas Kebabı,4.0
+62,Kuzu Şiş,5.0
+62,Kabak Graten,3.0
+62,Kabak Dolması,3.0
+62,Köfte,5.0
+62,Tavuk Biftek,3.0
+62,Tavuk Sote,3.0
+62,Karnıyarık,4.0
+62,Kuru Fasulye,2.0
+62,Patlıcan Musakka,2.0
+62,Bezelye,5.0
+62,Tavuk Kanat,3.0
+62,Nohut,3.0
+62,Türlü,2.0
+62,Ispanak,3.0
+62,Taze Fasulye,3.0
+62,Bamya,1.0
+62,Dana Rosto,2.0
+62,Pirinç Pilavı,4.0
+62,Patates Kızartması,5.0
+62,Bulgur Pilavı,4.0
+62,Cacık,4.0
+62,Çoban Salata,5.0
+62,Yoğurt,5.0
+62,Pırasa,1.0
+62,İrmik Helvası,2.0
+62,Turşu,5.0
+62,Sütlaç,3.0
+62,Kadayıf,3.0
+62,Kola,4.0
+62,Ayran,3.0
+62,Fanta,2.0
+62,Su,5.0
+63,Mercimek Çorbası,3.0
+63,Ezogelin Çorbası,4.0
+63,Şehriye Çorbası,4.0
+63,Yayla Çorbası,3.0
+63,Kuzu Etli Çorba,4.0
+63,Tas Kebabı,2.0
+63,Kuzu Şiş,4.0
+63,Kabak Graten,3.0
+63,Kabak Dolması,4.0
+63,Köfte,4.0
+63,Tavuk Biftek,5.0
+63,Tavuk Sote,3.0
+63,Karnıyarık,4.0
+63,Kuru Fasulye,1.0
+63,Patlıcan Musakka,4.0
+63,Bezelye,4.0
+63,Tavuk Kanat,4.0
+63,Nohut,3.0
+63,Türlü,3.0
+63,Ispanak,3.0
+63,Taze Fasulye,3.0
+63,Bamya,4.0
+63,Dana Rosto,5.0
+63,Pirinç Pilavı,5.0
+63,Patates Kızartması,5.0
+63,Bulgur Pilavı,4.0
+63,Cacık,5.0
+63,Çoban Salata,4.0
+63,Yoğurt,5.0
+63,Pırasa,2.0
+63,İrmik Helvası,4.0
+63,Turşu,3.0
+63,Sütlaç,5.0
+63,Kadayıf,4.0
+63,Kola,5.0
+63,Ayran,4.0
+63,Fanta,3.0
+63,Su,5.0
+64,Mercimek Çorbası,3.0
+64,Ezogelin Çorbası,4.0
+64,Şehriye Çorbası,2.0
+64,Yayla Çorbası,3.0
+64,Kuzu Etli Çorba,0
+64,Tas Kebabı,5.0
+64,Kuzu Şiş,1.0
+64,Kabak Graten,3.0
+64,Kabak Dolması,3.0
+64,Köfte,4.0
+64,Tavuk Biftek,4.0
+64,Tavuk Sote,4.0
+64,Karnıyarık,3.0
+64,Kuru Fasulye,5.0
+64,Patlıcan Musakka,1.0
+64,Bezelye,3.0
+64,Tavuk Kanat,4.0
+64,Nohut,4.0
+64,Türlü,3.0
+64,Ispanak,1.0
+64,Taze Fasulye,3.0
+64,Bamya,1.0
+64,Dana Rosto,0
+64,Pirinç Pilavı,5.0
+64,Patates Kızartması,5.0
+64,Bulgur Pilavı,5.0
+64,Cacık,5.0
+64,Çoban Salata,5.0
+64,Yoğurt,5.0
+64,Pırasa,1.0
+64,İrmik Helvası,3.0
+64,Turşu,3.0
+64,Sütlaç,5.0
+64,Kadayıf,3.0
+64,Kola,3.0
+64,Ayran,3.0
+64,Fanta,1.0
+64,Su,5.0
+65,Mercimek Çorbası,3.0
+65,Ezogelin Çorbası,4.0
+65,Şehriye Çorbası,1.0
+65,Yayla Çorbası,3.0
+65,Kuzu Etli Çorba,1.0
+65,Tas Kebabı,4.0
+65,Kuzu Şiş,4.0
+65,Kabak Graten,1.0
+65,Kabak Dolması,2.0
+65,Köfte,5.0
+65,Tavuk Biftek,3.0
+65,Tavuk Sote,2.0
+65,Karnıyarık,4.0
+65,Kuru Fasulye,5.0
+65,Patlıcan Musakka,4.0
+65,Bezelye,1.0
+65,Tavuk Kanat,1.0
+65,Nohut,3.0
+65,Türlü,3.0
+65,Ispanak,4.0
+65,Taze Fasulye,4.0
+65,Bamya,2.0
+65,Dana Rosto,4.0
+65,Pirinç Pilavı,4.0
+65,Patates Kızartması,3.0
+65,Bulgur Pilavı,4.0
+65,Cacık,4.0
+65,Çoban Salata,4.0
+65,Yoğurt,5.0
+65,Pırasa,4.0
+65,İrmik Helvası,4.0
+65,Turşu,4.0
+65,Sütlaç,4.0
+65,Kadayıf,5.0
+65,Kola,1.0
+65,Ayran,5.0
+65,Fanta,1.0
+65,Su,5.0
+66,Mercimek Çorbası,5.0
+66,Ezogelin Çorbası,5.0
+66,Şehriye Çorbası,1.0
+66,Yayla Çorbası,3.0
+66,Kuzu Etli Çorba,0
+66,Tas Kebabı,0
+66,Kuzu Şiş,0
+66,Kabak Graten,0
+66,Kabak Dolması,1.0
+66,Köfte,5.0
+66,Tavuk Biftek,5.0
+66,Tavuk Sote,5.0
+66,Karnıyarık,5.0
+66,Kuru Fasulye,5.0
+66,Patlıcan Musakka,5.0
+66,Bezelye,3.0
+66,Tavuk Kanat,3.0
+66,Nohut,5.0
+66,Türlü,4.0
+66,Ispanak,5.0
+66,Taze Fasulye,5.0
+66,Bamya,1.0
+66,Dana Rosto,5.0
+66,Pirinç Pilavı,3.0
+66,Patates Kızartması,5.0
+66,Bulgur Pilavı,5.0
+66,Cacık,5.0
+66,Çoban Salata,5.0
+66,Yoğurt,5.0
+66,Pırasa,5.0
+66,İrmik Helvası,5.0
+66,Turşu,5.0
+66,Sütlaç,4.0
+66,Kadayıf,4.0
+66,Kola,4.0
+66,Ayran,5.0
+66,Fanta,4.0
+66,Su,5.0
+67,Mercimek Çorbası,5.0
+67,Ezogelin Çorbası,3.0
+67,Şehriye Çorbası,4.0
+67,Yayla Çorbası,4.0
+67,Kuzu Etli Çorba,2.0
+67,Tas Kebabı,5.0
+67,Kuzu Şiş,5.0
+67,Kabak Graten,0
+67,Kabak Dolması,4.0
+67,Köfte,5.0
+67,Tavuk Biftek,5.0
+67,Tavuk Sote,5.0
+67,Karnıyarık,5.0
+67,Kuru Fasulye,5.0
+67,Patlıcan Musakka,4.0
+67,Bezelye,5.0
+67,Tavuk Kanat,5.0
+67,Nohut,5.0
+67,Türlü,4.0
+67,Ispanak,4.0
+67,Taze Fasulye,5.0
+67,Bamya,5.0
+67,Dana Rosto,0
+67,Pirinç Pilavı,5.0
+67,Patates Kızartması,5.0
+67,Bulgur Pilavı,5.0
+67,Cacık,5.0
+67,Çoban Salata,5.0
+67,Yoğurt,5.0
+67,Pırasa,5.0
+67,İrmik Helvası,5.0
+67,Turşu,5.0
+67,Sütlaç,5.0
+67,Kadayıf,5.0
+67,Kola,3.0
+67,Ayran,5.0
+67,Fanta,4.0
+67,Su,5.0
+68,Mercimek Çorbası,3.0
+68,Ezogelin Çorbası,5.0
+68,Şehriye Çorbası,3.0
+68,Yayla Çorbası,1.0
+68,Kuzu Etli Çorba,0
+68,Tas Kebabı,5.0
+68,Kuzu Şiş,5.0
+68,Kabak Graten,0
+68,Kabak Dolması,2.0
+68,Köfte,4.0
+68,Tavuk Biftek,4.0
+68,Tavuk Sote,3.0
+68,Karnıyarık,3.0
+68,Kuru Fasulye,4.0
+68,Patlıcan Musakka,3.0
+68,Bezelye,3.0
+68,Tavuk Kanat,4.0
+68,Nohut,2.0
+68,Türlü,2.0
+68,Ispanak,3.0
+68,Taze Fasulye,3.0
+68,Bamya,0
+68,Dana Rosto,4.0
+68,Pirinç Pilavı,5.0
+68,Patates Kızartması,1.0
+68,Bulgur Pilavı,5.0
+68,Cacık,5.0
+68,Çoban Salata,5.0
+68,Yoğurt,5.0
+68,Pırasa,1.0
+68,İrmik Helvası,3.0
+68,Turşu,3.0
+68,Sütlaç,5.0
+68,Kadayıf,3.0
+68,Kola,4.0
+68,Ayran,4.0
+68,Fanta,1.0
+68,Su,5.0
+69,Mercimek Çorbası,5.0
+69,Ezogelin Çorbası,5.0
+69,Şehriye Çorbası,2.0
+69,Yayla Çorbası,3.0
+69,Kuzu Etli Çorba,0
+69,Tas Kebabı,5.0
+69,Kuzu Şiş,5.0
+69,Kabak Graten,0
+69,Kabak Dolması,3.0
+69,Köfte,5.0
+69,Tavuk Biftek,5.0
+69,Tavuk Sote,4.0
+69,Karnıyarık,5.0
+69,Kuru Fasulye,3.0
+69,Patlıcan Musakka,0
+69,Bezelye,0
+69,Tavuk Kanat,3.0
+69,Nohut,3.0
+69,Türlü,2.0
+69,Ispanak,4.0
+69,Taze Fasulye,5.0
+69,Bamya,3.0
+69,Dana Rosto,0
+69,Pirinç Pilavı,5.0
+69,Patates Kızartması,5.0
+69,Bulgur Pilavı,3.0
+69,Cacık,5.0
+69,Çoban Salata,5.0
+69,Yoğurt,4.0
+69,Pırasa,1.0
+69,İrmik Helvası,5.0
+69,Turşu,5.0
+69,Sütlaç,5.0
+69,Kadayıf,5.0
+69,Kola,5.0
+69,Ayran,5.0
+69,Fanta,5.0
+69,Su,5.0
+70,Mercimek Çorbası,5.0
+70,Ezogelin Çorbası,3.0
+70,Şehriye Çorbası,2.0
+70,Yayla Çorbası,1.0
+70,Kuzu Etli Çorba,5.0
+70,Tas Kebabı,5.0
+70,Kuzu Şiş,5.0
+70,Kabak Graten,1.0
+70,Kabak Dolması,1.0
+70,Köfte,4.0
+70,Tavuk Biftek,4.0
+70,Tavuk Sote,4.0
+70,Karnıyarık,4.0
+70,Kuru Fasulye,5.0
+70,Patlıcan Musakka,4.0
+70,Bezelye,4.0
+70,Tavuk Kanat,5.0
+70,Nohut,5.0
+70,Türlü,3.0
+70,Ispanak,3.0
+70,Taze Fasulye,3.0
+70,Bamya,1.0
+70,Dana Rosto,4.0
+70,Pirinç Pilavı,5.0
+70,Patates Kızartması,5.0
+70,Bulgur Pilavı,5.0
+70,Cacık,5.0
+70,Çoban Salata,3.0
+70,Yoğurt,5.0
+70,Pırasa,2.0
+70,İrmik Helvası,5.0
+70,Turşu,5.0
+70,Sütlaç,5.0
+70,Kadayıf,5.0
+70,Kola,1.0
+70,Ayran,4.0
+70,Fanta,1.0
+70,Su,5.0
+71,Mercimek Çorbası,5.0
+71,Ezogelin Çorbası,5.0
+71,Şehriye Çorbası,4.0
+71,Yayla Çorbası,4.0
+71,Kuzu Etli Çorba,0
+71,Tas Kebabı,5.0
+71,Kuzu Şiş,0
+71,Kabak Graten,5.0
+71,Kabak Dolması,4.0
+71,Köfte,4.0
+71,Tavuk Biftek,4.0
+71,Tavuk Sote,4.0
+71,Karnıyarık,4.0
+71,Kuru Fasulye,2.0
+71,Patlıcan Musakka,4.0
+71,Bezelye,5.0
+71,Tavuk Kanat,3.0
+71,Nohut,3.0
+71,Türlü,3.0
+71,Ispanak,4.0
+71,Taze Fasulye,4.0
+71,Bamya,3.0
+71,Dana Rosto,0
+71,Pirinç Pilavı,3.0
+71,Patates Kızartması,3.0
+71,Bulgur Pilavı,5.0
+71,Cacık,5.0
+71,Çoban Salata,5.0
+71,Yoğurt,5.0
+71,Pırasa,5.0
+71,İrmik Helvası,4.0
+71,Turşu,2.0
+71,Sütlaç,4.0
+71,Kadayıf,3.0
+71,Kola,3.0
+71,Ayran,3.0
+71,Fanta,2.0
+71,Su,5.0
+72,Mercimek Çorbası,4.0
+72,Ezogelin Çorbası,4.0
+72,Şehriye Çorbası,3.0
+72,Yayla Çorbası,2.0
+72,Kuzu Etli Çorba,5.0
+72,Tas Kebabı,4.0
+72,Kuzu Şiş,4.0
+72,Kabak Graten,0
+72,Kabak Dolması,1.0
+72,Köfte,4.0
+72,Tavuk Biftek,4.0
+72,Tavuk Sote,3.0
+72,Karnıyarık,4.0
+72,Kuru Fasulye,3.0
+72,Patlıcan Musakka,4.0
+72,Bezelye,3.0
+72,Tavuk Kanat,4.0
+72,Nohut,2.0
+72,Türlü,3.0
+72,Ispanak,2.0
+72,Taze Fasulye,2.0
+72,Bamya,2.0
+72,Dana Rosto,3.0
+72,Pirinç Pilavı,4.0
+72,Patates Kızartması,3.0
+72,Bulgur Pilavı,4.0
+72,Cacık,3.0
+72,Çoban Salata,2.0
+72,Yoğurt,3.0
+72,Pırasa,1.0
+72,İrmik Helvası,3.0
+72,Turşu,3.0
+72,Sütlaç,3.0
+72,Kadayıf,4.0
+72,Kola,5.0
+72,Ayran,4.0
+72,Fanta,5.0
+72,Su,5.0
+73,Mercimek Çorbası,5.0
+73,Ezogelin Çorbası,4.0
+73,Şehriye Çorbası,5.0
+73,Yayla Çorbası,3.0
+73,Kuzu Etli Çorba,5.0
+73,Tas Kebabı,5.0
+73,Kuzu Şiş,5.0
+73,Kabak Graten,3.0
+73,Kabak Dolması,4.0
+73,Köfte,5.0
+73,Tavuk Biftek,5.0
+73,Tavuk Sote,5.0
+73,Karnıyarık,5.0
+73,Kuru Fasulye,5.0
+73,Patlıcan Musakka,5.0
+73,Bezelye,5.0
+73,Tavuk Kanat,5.0
+73,Nohut,5.0
+73,Türlü,5.0
+73,Ispanak,5.0
+73,Taze Fasulye,5.0
+73,Bamya,1.0
+73,Dana Rosto,5.0
+73,Pirinç Pilavı,5.0
+73,Patates Kızartması,5.0
+73,Bulgur Pilavı,5.0
+73,Cacık,5.0
+73,Çoban Salata,5.0
+73,Yoğurt,5.0
+73,Pırasa,5.0
+73,İrmik Helvası,5.0
+73,Turşu,5.0
+73,Sütlaç,5.0
+73,Kadayıf,5.0
+73,Kola,5.0
+73,Ayran,5.0
+73,Fanta,5.0
+73,Su,5.0
+74,Mercimek Çorbası,5.0
+74,Ezogelin Çorbası,4.0
+74,Şehriye Çorbası,3.0
+74,Yayla Çorbası,3.0
+74,Kuzu Etli Çorba,4.0
+74,Tas Kebabı,4.0
+74,Kuzu Şiş,5.0
+74,Kabak Graten,2.0
+74,Kabak Dolması,3.0
+74,Köfte,5.0
+74,Tavuk Biftek,4.0
+74,Tavuk Sote,5.0
+74,Karnıyarık,2.0
+74,Kuru Fasulye,4.0
+74,Patlıcan Musakka,2.0
+74,Bezelye,2.0
+74,Tavuk Kanat,5.0
+74,Nohut,2.0
+74,Türlü,2.0
+74,Ispanak,3.0
+74,Taze Fasulye,3.0
+74,Bamya,1.0
+74,Dana Rosto,4.0
+74,Pirinç Pilavı,5.0
+74,Patates Kızartması,5.0
+74,Bulgur Pilavı,5.0
+74,Cacık,2.0
+74,Çoban Salata,2.0
+74,Yoğurt,3.0
+74,Pırasa,1.0
+74,İrmik Helvası,4.0
+74,Turşu,5.0
+74,Sütlaç,5.0
+74,Kadayıf,5.0
+74,Kola,4.0
+74,Ayran,0
+74,Fanta,0
+74,Su,4.0
+75,Mercimek Çorbası,3.0
+75,Ezogelin Çorbası,3.0
+75,Şehriye Çorbası,3.0
+75,Yayla Çorbası,3.0
+75,Kuzu Etli Çorba,3.0
+75,Tas Kebabı,3.0
+75,Kuzu Şiş,3.0
+75,Kabak Graten,2.0
+75,Kabak Dolması,3.0
+75,Köfte,4.0
+75,Tavuk Biftek,3.0
+75,Tavuk Sote,3.0
+75,Karnıyarık,4.0
+75,Kuru Fasulye,4.0
+75,Patlıcan Musakka,3.0
+75,Bezelye,2.0
+75,Tavuk Kanat,3.0
+75,Nohut,3.0
+75,Türlü,4.0
+75,Ispanak,4.0
+75,Taze Fasulye,4.0
+75,Bamya,3.0
+75,Dana Rosto,4.0
+75,Pirinç Pilavı,4.0
+75,Patates Kızartması,3.0
+75,Bulgur Pilavı,3.0
+75,Cacık,4.0
+75,Çoban Salata,4.0
+75,Yoğurt,4.0
+75,Pırasa,4.0
+75,İrmik Helvası,4.0
+75,Turşu,4.0
+75,Sütlaç,4.0
+75,Kadayıf,2.0
+75,Kola,4.0
+75,Ayran,5.0
+75,Fanta,2.0
+75,Su,4.0
+76,Mercimek Çorbası,4.0
+76,Ezogelin Çorbası,4.0
+76,Şehriye Çorbası,3.0
+76,Yayla Çorbası,3.0
+76,Kuzu Etli Çorba,0
+76,Tas Kebabı,4.0
+76,Kuzu Şiş,3.0
+76,Kabak Graten,4.0
+76,Kabak Dolması,2.0
+76,Köfte,5.0
+76,Tavuk Biftek,3.0
+76,Tavuk Sote,4.0
+76,Karnıyarık,5.0
+76,Kuru Fasulye,4.0
+76,Patlıcan Musakka,5.0
+76,Bezelye,3.0
+76,Tavuk Kanat,5.0
+76,Nohut,4.0
+76,Türlü,2.0
+76,Ispanak,2.0
+76,Taze Fasulye,3.0
+76,Bamya,1.0
+76,Dana Rosto,3.0
+76,Pirinç Pilavı,3.0
+76,Patates Kızartması,4.0
+76,Bulgur Pilavı,4.0
+76,Cacık,5.0
+76,Çoban Salata,5.0
+76,Yoğurt,3.0
+76,Pırasa,1.0
+76,İrmik Helvası,4.0
+76,Turşu,3.0
+76,Sütlaç,5.0
+76,Kadayıf,5.0
+76,Kola,2.0
+76,Ayran,4.0
+76,Fanta,2.0
+76,Su,5.0
+77,Mercimek Çorbası,5.0
+77,Ezogelin Çorbası,4.0
+77,Şehriye Çorbası,1.0
+77,Yayla Çorbası,3.0
+77,Kuzu Etli Çorba,0
+77,Tas Kebabı,4.0
+77,Kuzu Şiş,4.0
+77,Kabak Graten,0
+77,Kabak Dolması,4.0
+77,Köfte,2.0
+77,Tavuk Biftek,4.0
+77,Tavuk Sote,4.0
+77,Karnıyarık,4.0
+77,Kuru Fasulye,2.0
+77,Patlıcan Musakka,4.0
+77,Bezelye,2.0
+77,Tavuk Kanat,1.0
+77,Nohut,2.0
+77,Türlü,3.0
+77,Ispanak,1.0
+77,Taze Fasulye,3.0
+77,Bamya,3.0
+77,Dana Rosto,0
+77,Pirinç Pilavı,3.0
+77,Patates Kızartması,5.0
+77,Bulgur Pilavı,5.0
+77,Cacık,4.0
+77,Çoban Salata,4.0
+77,Yoğurt,4.0
+77,Pırasa,1.0
+77,İrmik Helvası,3.0
+77,Turşu,4.0
+77,Sütlaç,4.0
+77,Kadayıf,5.0
+77,Kola,4.0
+77,Ayran,3.0
+77,Fanta,4.0
+77,Su,1.0
+78,Mercimek Çorbası,4.0
+78,Ezogelin Çorbası,4.0
+78,Şehriye Çorbası,3.0
+78,Yayla Çorbası,4.0
+78,Kuzu Etli Çorba,4.0
+78,Tas Kebabı,4.0
+78,Kuzu Şiş,5.0
+78,Kabak Graten,3.0
+78,Kabak Dolması,2.0
+78,Köfte,5.0
+78,Tavuk Biftek,5.0
+78,Tavuk Sote,5.0
+78,Karnıyarık,3.0
+78,Kuru Fasulye,5.0
+78,Patlıcan Musakka,4.0
+78,Bezelye,4.0
+78,Tavuk Kanat,5.0
+78,Nohut,5.0
+78,Türlü,5.0
+78,Ispanak,4.0
+78,Taze Fasulye,5.0
+78,Bamya,1.0
+78,Dana Rosto,4.0
+78,Pirinç Pilavı,5.0
+78,Patates Kızartması,5.0
+78,Bulgur Pilavı,5.0
+78,Cacık,5.0
+78,Çoban Salata,5.0
+78,Yoğurt,5.0
+78,Pırasa,2.0
+78,İrmik Helvası,4.0
+78,Turşu,3.0
+78,Sütlaç,5.0
+78,Kadayıf,5.0
+78,Kola,2.0
+78,Ayran,5.0
+78,Fanta,1.0
+78,Su,5.0
+79,Mercimek Çorbası,5.0
+79,Ezogelin Çorbası,5.0
+79,Şehriye Çorbası,5.0
+79,Yayla Çorbası,5.0
+79,Kuzu Etli Çorba,5.0
+79,Tas Kebabı,5.0
+79,Kuzu Şiş,5.0
+79,Kabak Graten,5.0
+79,Kabak Dolması,5.0
+79,Köfte,5.0
+79,Tavuk Biftek,5.0
+79,Tavuk Sote,5.0
+79,Karnıyarık,5.0
+79,Kuru Fasulye,5.0
+79,Patlıcan Musakka,5.0
+79,Bezelye,5.0
+79,Tavuk Kanat,5.0
+79,Nohut,5.0
+79,Türlü,5.0
+79,Ispanak,5.0
+79,Taze Fasulye,5.0
+79,Bamya,5.0
+79,Dana Rosto,5.0
+79,Pirinç Pilavı,5.0
+79,Patates Kızartması,5.0
+79,Bulgur Pilavı,5.0
+79,Cacık,5.0
+79,Çoban Salata,5.0
+79,Yoğurt,5.0
+79,Pırasa,5.0
+79,İrmik Helvası,5.0
+79,Turşu,5.0
+79,Sütlaç,5.0
+79,Kadayıf,5.0
+79,Kola,5.0
+79,Ayran,5.0
+79,Fanta,5.0
+79,Su,5.0
+80,Mercimek Çorbası,4.0
+80,Ezogelin Çorbası,4.0
+80,Şehriye Çorbası,2.0
+80,Yayla Çorbası,2.0
+80,Kuzu Etli Çorba,5.0
+80,Tas Kebabı,5.0
+80,Kuzu Şiş,5.0
+80,Kabak Graten,1.0
+80,Kabak Dolması,1.0
+80,Köfte,3.0
+80,Tavuk Biftek,4.0
+80,Tavuk Sote,3.0
+80,Karnıyarık,5.0
+80,Kuru Fasulye,3.0
+80,Patlıcan Musakka,4.0
+80,Bezelye,3.0
+80,Tavuk Kanat,3.0
+80,Nohut,3.0
+80,Türlü,3.0
+80,Ispanak,3.0
+80,Taze Fasulye,4.0
+80,Bamya,1.0
+80,Dana Rosto,5.0
+80,Pirinç Pilavı,4.0
+80,Patates Kızartması,3.0
+80,Bulgur Pilavı,5.0
+80,Cacık,4.0
+80,Çoban Salata,4.0
+80,Yoğurt,4.0
+80,Pırasa,1.0
+80,İrmik Helvası,5.0
+80,Turşu,4.0
+80,Sütlaç,5.0
+80,Kadayıf,5.0
+80,Kola,2.0
+80,Ayran,3.0
+80,Fanta,3.0
+80,Su,5.0
+81,Mercimek Çorbası,5.0
+81,Ezogelin Çorbası,5.0
+81,Şehriye Çorbası,5.0
+81,Yayla Çorbası,5.0
+81,Kuzu Etli Çorba,5.0
+81,Tas Kebabı,5.0
+81,Kuzu Şiş,5.0
+81,Kabak Graten,5.0
+81,Kabak Dolması,5.0
+81,Köfte,5.0
+81,Tavuk Biftek,5.0
+81,Tavuk Sote,5.0
+81,Karnıyarık,5.0
+81,Kuru Fasulye,5.0
+81,Patlıcan Musakka,5.0
+81,Bezelye,5.0
+81,Tavuk Kanat,5.0
+81,Nohut,5.0
+81,Türlü,5.0
+81,Ispanak,5.0
+81,Taze Fasulye,5.0
+81,Bamya,5.0
+81,Dana Rosto,5.0
+81,Pirinç Pilavı,1.0
+81,Patates Kızartması,1.0
+81,Bulgur Pilavı,5.0
+81,Cacık,5.0
+81,Çoban Salata,5.0
+81,Yoğurt,5.0
+81,Pırasa,5.0
+81,İrmik Helvası,5.0
+81,Turşu,5.0
+81,Sütlaç,5.0
+81,Kadayıf,5.0
+81,Kola,1.0
+81,Ayran,5.0
+81,Fanta,1.0
+81,Su,5.0
+82,Mercimek Çorbası,5.0
+82,Ezogelin Çorbası,4.0
+82,Şehriye Çorbası,3.0
+82,Yayla Çorbası,5.0
+82,Kuzu Etli Çorba,3.0
+82,Tas Kebabı,5.0
+82,Kuzu Şiş,3.0
+82,Kabak Graten,3.0
+82,Kabak Dolması,4.0
+82,Köfte,5.0
+82,Tavuk Biftek,5.0
+82,Tavuk Sote,5.0
+82,Karnıyarık,5.0
+82,Kuru Fasulye,4.0
+82,Patlıcan Musakka,5.0
+82,Bezelye,4.0
+82,Tavuk Kanat,5.0
+82,Nohut,4.0
+82,Türlü,5.0
+82,Ispanak,4.0
+82,Taze Fasulye,4.0
+82,Bamya,1.0
+82,Dana Rosto,4.0
+82,Pirinç Pilavı,5.0
+82,Patates Kızartması,5.0
+82,Bulgur Pilavı,3.0
+82,Cacık,5.0
+82,Çoban Salata,5.0
+82,Yoğurt,5.0
+82,Pırasa,1.0
+82,İrmik Helvası,4.0
+82,Turşu,5.0
+82,Sütlaç,5.0
+82,Kadayıf,4.0
+82,Kola,5.0
+82,Ayran,5.0
+82,Fanta,5.0
+82,Su,5.0
+83,Mercimek Çorbası,5.0
+83,Ezogelin Çorbası,5.0
+83,Şehriye Çorbası,5.0
+83,Yayla Çorbası,5.0
+83,Kuzu Etli Çorba,0
+83,Tas Kebabı,5.0
+83,Kuzu Şiş,5.0
+83,Kabak Graten,0
+83,Kabak Dolması,3.0
+83,Köfte,4.0
+83,Tavuk Biftek,5.0
+83,Tavuk Sote,5.0
+83,Karnıyarık,4.0
+83,Kuru Fasulye,5.0
+83,Patlıcan Musakka,0
+83,Bezelye,0
+83,Tavuk Kanat,5.0
+83,Nohut,5.0
+83,Türlü,5.0
+83,Ispanak,0
+83,Taze Fasulye,0
+83,Bamya,0
+83,Dana Rosto,3.0
+83,Pirinç Pilavı,5.0
+83,Patates Kızartması,5.0
+83,Bulgur Pilavı,5.0
+83,Cacık,3.0
+83,Çoban Salata,2.0
+83,Yoğurt,4.0
+83,Pırasa,0
+83,İrmik Helvası,5.0
+83,Turşu,4.0
+83,Sütlaç,5.0
+83,Kadayıf,5.0
+83,Kola,1.0
+83,Ayran,3.0
+83,Fanta,5.0
+83,Su,5.0
+84,Mercimek Çorbası,3.0
+84,Ezogelin Çorbası,3.0
+84,Şehriye Çorbası,4.0
+84,Yayla Çorbası,4.0
+84,Kuzu Etli Çorba,1.0
+84,Tas Kebabı,5.0
+84,Kuzu Şiş,2.0
+84,Kabak Graten,0
+84,Kabak Dolması,1.0
+84,Köfte,5.0
+84,Tavuk Biftek,5.0
+84,Tavuk Sote,5.0
+84,Karnıyarık,5.0
+84,Kuru Fasulye,5.0
+84,Patlıcan Musakka,5.0
+84,Bezelye,4.0
+84,Tavuk Kanat,5.0
+84,Nohut,4.0
+84,Türlü,4.0
+84,Ispanak,2.0
+84,Taze Fasulye,3.0
+84,Bamya,2.0
+84,Dana Rosto,5.0
+84,Pirinç Pilavı,5.0
+84,Patates Kızartması,5.0
+84,Bulgur Pilavı,4.0
+84,Cacık,3.0
+84,Çoban Salata,5.0
+84,Yoğurt,5.0
+84,Pırasa,2.0
+84,İrmik Helvası,4.0
+84,Turşu,1.0
+84,Sütlaç,2.0
+84,Kadayıf,5.0
+84,Kola,4.0
+84,Ayran,5.0
+84,Fanta,4.0
+84,Su,5.0
+85,Mercimek Çorbası,5.0
+85,Ezogelin Çorbası,5.0
+85,Şehriye Çorbası,3.0
+85,Yayla Çorbası,3.0
+85,Kuzu Etli Çorba,3.0
+85,Tas Kebabı,5.0
+85,Kuzu Şiş,5.0
+85,Kabak Graten,2.0
+85,Kabak Dolması,5.0
+85,Köfte,4.0
+85,Tavuk Biftek,3.0
+85,Tavuk Sote,3.0
+85,Karnıyarık,5.0
+85,Kuru Fasulye,5.0
+85,Patlıcan Musakka,5.0
+85,Bezelye,3.0
+85,Tavuk Kanat,5.0
+85,Nohut,5.0
+85,Türlü,3.0
+85,Ispanak,5.0
+85,Taze Fasulye,5.0
+85,Bamya,5.0
+85,Dana Rosto,5.0
+85,Pirinç Pilavı,5.0
+85,Patates Kızartması,1.0
+85,Bulgur Pilavı,5.0
+85,Cacık,5.0
+85,Çoban Salata,5.0
+85,Yoğurt,5.0
+85,Pırasa,5.0
+85,İrmik Helvası,5.0
+85,Turşu,5.0
+85,Sütlaç,5.0
+85,Kadayıf,5.0
+85,Kola,2.0
+85,Ayran,5.0
+85,Fanta,3.0
+85,Su,5.0
+86,Mercimek Çorbası,4.0
+86,Ezogelin Çorbası,3.0
+86,Şehriye Çorbası,2.0
+86,Yayla Çorbası,3.0
+86,Kuzu Etli Çorba,4.0
+86,Tas Kebabı,5.0
+86,Kuzu Şiş,5.0
+86,Kabak Graten,2.0
+86,Kabak Dolması,3.0
+86,Köfte,4.0
+86,Tavuk Biftek,5.0
+86,Tavuk Sote,4.0
+86,Karnıyarık,4.0
+86,Kuru Fasulye,4.0
+86,Patlıcan Musakka,4.0
+86,Bezelye,3.0
+86,Tavuk Kanat,4.0
+86,Nohut,4.0
+86,Türlü,4.0
+86,Ispanak,1.0
+86,Taze Fasulye,3.0
+86,Bamya,2.0
+86,Dana Rosto,4.0
+86,Pirinç Pilavı,4.0
+86,Patates Kızartması,4.0
+86,Bulgur Pilavı,4.0
+86,Cacık,4.0
+86,Çoban Salata,4.0
+86,Yoğurt,4.0
+86,Pırasa,1.0
+86,İrmik Helvası,4.0
+86,Turşu,3.0
+86,Sütlaç,4.0
+86,Kadayıf,4.0
+86,Kola,4.0
+86,Ayran,4.0
+86,Fanta,3.0
+86,Su,4.0
+87,Mercimek Çorbası,5.0
+87,Ezogelin Çorbası,5.0
+87,Şehriye Çorbası,3.0
+87,Yayla Çorbası,4.0
+87,Kuzu Etli Çorba,5.0
+87,Tas Kebabı,4.0
+87,Kuzu Şiş,5.0
+87,Kabak Graten,3.0
+87,Kabak Dolması,3.0
+87,Köfte,5.0
+87,Tavuk Biftek,5.0
+87,Tavuk Sote,4.0
+87,Karnıyarık,4.0
+87,Kuru Fasulye,4.0
+87,Patlıcan Musakka,3.0
+87,Bezelye,4.0
+87,Tavuk Kanat,4.0
+87,Nohut,4.0
+87,Türlü,4.0
+87,Ispanak,4.0
+87,Taze Fasulye,4.0
+87,Bamya,5.0
+87,Dana Rosto,5.0
+87,Pirinç Pilavı,5.0
+87,Patates Kızartması,4.0
+87,Bulgur Pilavı,4.0
+87,Cacık,5.0
+87,Çoban Salata,4.0
+87,Yoğurt,5.0
+87,Pırasa,3.0
+87,İrmik Helvası,4.0
+87,Turşu,5.0
+87,Sütlaç,5.0
+87,Kadayıf,5.0
+87,Kola,1.0
+87,Ayran,5.0
+87,Fanta,2.0
+87,Su,5.0
+88,Mercimek Çorbası,1.0
+88,Ezogelin Çorbası,1.0
+88,Şehriye Çorbası,4.0
+88,Yayla Çorbası,5.0
+88,Kuzu Etli Çorba,0
+88,Tas Kebabı,5.0
+88,Kuzu Şiş,4.0
+88,Kabak Graten,2.0
+88,Kabak Dolması,3.0
+88,Köfte,5.0
+88,Tavuk Biftek,0
+88,Tavuk Sote,5.0
+88,Karnıyarık,5.0
+88,Kuru Fasulye,4.0
+88,Patlıcan Musakka,5.0
+88,Bezelye,3.0
+88,Tavuk Kanat,2.0
+88,Nohut,4.0
+88,Türlü,1.0
+88,Ispanak,1.0
+88,Taze Fasulye,1.0
+88,Bamya,1.0
+88,Dana Rosto,5.0
+88,Pirinç Pilavı,5.0
+88,Patates Kızartması,5.0
+88,Bulgur Pilavı,5.0
+88,Cacık,5.0
+88,Çoban Salata,5.0
+88,Yoğurt,3.0
+88,Pırasa,1.0
+88,İrmik Helvası,5.0
+88,Turşu,5.0
+88,Sütlaç,4.0
+88,Kadayıf,3.0
+88,Kola,2.0
+88,Ayran,5.0
+88,Fanta,1.0
+88,Su,5.0
+89,Mercimek Çorbası,5.0
+89,Ezogelin Çorbası,5.0
+89,Şehriye Çorbası,2.0
+89,Yayla Çorbası,1.0
+89,Kuzu Etli Çorba,1.0
+89,Tas Kebabı,5.0
+89,Kuzu Şiş,5.0
+89,Kabak Graten,2.0
+89,Kabak Dolması,2.0
+89,Köfte,4.0
+89,Tavuk Biftek,5.0
+89,Tavuk Sote,5.0
+89,Karnıyarık,5.0
+89,Kuru Fasulye,5.0
+89,Patlıcan Musakka,5.0
+89,Bezelye,3.0
+89,Tavuk Kanat,5.0
+89,Nohut,5.0
+89,Türlü,2.0
+89,Ispanak,1.0
+89,Taze Fasulye,1.0
+89,Bamya,5.0
+89,Dana Rosto,5.0
+89,Pirinç Pilavı,5.0
+89,Patates Kızartması,5.0
+89,Bulgur Pilavı,5.0
+89,Cacık,5.0
+89,Çoban Salata,4.0
+89,Yoğurt,5.0
+89,Pırasa,4.0
+89,İrmik Helvası,5.0
+89,Turşu,5.0
+89,Sütlaç,1.0
+89,Kadayıf,5.0
+89,Kola,1.0
+89,Ayran,5.0
+89,Fanta,1.0
+89,Su,5.0
+90,Mercimek Çorbası,5.0
+90,Ezogelin Çorbası,5.0
+90,Şehriye Çorbası,5.0
+90,Yayla Çorbası,0
+90,Kuzu Etli Çorba,0
+90,Tas Kebabı,4.0
+90,Kuzu Şiş,3.0
+90,Kabak Graten,0
+90,Kabak Dolması,2.0
+90,Köfte,4.0
+90,Tavuk Biftek,2.0
+90,Tavuk Sote,2.0
+90,Karnıyarık,2.0
+90,Kuru Fasulye,5.0
+90,Patlıcan Musakka,1.0
+90,Bezelye,5.0
+90,Tavuk Kanat,2.0
+90,Nohut,5.0
+90,Türlü,0
+90,Ispanak,4.0
+90,Taze Fasulye,5.0
+90,Bamya,3.0
+90,Dana Rosto,1.0
+90,Pirinç Pilavı,5.0
+90,Patates Kızartması,5.0
+90,Bulgur Pilavı,5.0
+90,Cacık,5.0
+90,Çoban Salata,5.0
+90,Yoğurt,5.0
+90,Pırasa,2.0
+90,İrmik Helvası,5.0
+90,Turşu,5.0
+90,Sütlaç,5.0
+90,Kadayıf,5.0
+90,Kola,1.0
+90,Ayran,5.0
+90,Fanta,2.0
+90,Su,5.0
+91,Mercimek Çorbası,5.0
+91,Ezogelin Çorbası,4.0
+91,Şehriye Çorbası,3.0
+91,Yayla Çorbası,2.0
+91,Kuzu Etli Çorba,1.0
+91,Tas Kebabı,3.0
+91,Kuzu Şiş,3.0
+91,Kabak Graten,0
+91,Kabak Dolması,1.0
+91,Köfte,5.0
+91,Tavuk Biftek,5.0
+91,Tavuk Sote,5.0
+91,Karnıyarık,2.0
+91,Kuru Fasulye,5.0
+91,Patlıcan Musakka,1.0
+91,Bezelye,4.0
+91,Tavuk Kanat,3.0
+91,Nohut,3.0
+91,Türlü,3.0
+91,Ispanak,3.0
+91,Taze Fasulye,2.0
+91,Bamya,1.0
+91,Dana Rosto,5.0
+91,Pirinç Pilavı,4.0
+91,Patates Kızartması,5.0
+91,Bulgur Pilavı,3.0
+91,Cacık,5.0
+91,Çoban Salata,5.0
+91,Yoğurt,5.0
+91,Pırasa,2.0
+91,İrmik Helvası,2.0
+91,Turşu,3.0
+91,Sütlaç,3.0
+91,Kadayıf,4.0
+91,Kola,5.0
+91,Ayran,5.0
+91,Fanta,5.0
+91,Su,5.0
+92,Mercimek Çorbası,4.0
+92,Ezogelin Çorbası,2.0
+92,Şehriye Çorbası,2.0
+92,Yayla Çorbası,1.0
+92,Kuzu Etli Çorba,2.0
+92,Tas Kebabı,4.0
+92,Kuzu Şiş,3.0
+92,Kabak Graten,0
+92,Kabak Dolması,3.0
+92,Köfte,5.0
+92,Tavuk Biftek,3.0
+92,Tavuk Sote,3.0
+92,Karnıyarık,4.0
+92,Kuru Fasulye,3.0
+92,Patlıcan Musakka,2.0
+92,Bezelye,3.0
+92,Tavuk Kanat,3.0
+92,Nohut,3.0
+92,Türlü,2.0
+92,Ispanak,3.0
+92,Taze Fasulye,4.0
+92,Bamya,2.0
+92,Dana Rosto,3.0
+92,Pirinç Pilavı,4.0
+92,Patates Kızartması,4.0
+92,Bulgur Pilavı,4.0
+92,Cacık,3.0
+92,Çoban Salata,3.0
+92,Yoğurt,3.0
+92,Pırasa,4.0
+92,İrmik Helvası,3.0
+92,Turşu,3.0
+92,Sütlaç,3.0
+92,Kadayıf,4.0
+92,Kola,2.0
+92,Ayran,3.0
+92,Fanta,3.0
+92,Su,4.0
+93,Mercimek Çorbası,4.0
+93,Ezogelin Çorbası,3.0
+93,Şehriye Çorbası,3.0
+93,Yayla Çorbası,3.0
+93,Kuzu Etli Çorba,5.0
+93,Tas Kebabı,0
+93,Kuzu Şiş,5.0
+93,Kabak Graten,4.0
+93,Kabak Dolması,3.0
+93,Köfte,5.0
+93,Tavuk Biftek,4.0
+93,Tavuk Sote,4.0
+93,Karnıyarık,5.0
+93,Kuru Fasulye,4.0
+93,Patlıcan Musakka,5.0
+93,Bezelye,3.0
+93,Tavuk Kanat,5.0
+93,Nohut,4.0
+93,Türlü,3.0
+93,Ispanak,5.0
+93,Taze Fasulye,1.0
+93,Bamya,3.0
+93,Dana Rosto,5.0
+93,Pirinç Pilavı,3.0
+93,Patates Kızartması,5.0
+93,Bulgur Pilavı,1.0
+93,Cacık,5.0
+93,Çoban Salata,4.0
+93,Yoğurt,5.0
+93,Pırasa,1.0
+93,İrmik Helvası,3.0
+93,Turşu,4.0
+93,Sütlaç,2.0
+93,Kadayıf,4.0
+93,Kola,5.0
+93,Ayran,5.0
+93,Fanta,2.0
+93,Su,5.0
+94,Mercimek Çorbası,5.0
+94,Ezogelin Çorbası,4.0
+94,Şehriye Çorbası,4.0
+94,Yayla Çorbası,4.0
+94,Kuzu Etli Çorba,5.0
+94,Tas Kebabı,0
+94,Kuzu Şiş,5.0
+94,Kabak Graten,0
+94,Kabak Dolması,5.0
+94,Köfte,5.0
+94,Tavuk Biftek,5.0
+94,Tavuk Sote,4.0
+94,Karnıyarık,3.0
+94,Kuru Fasulye,5.0
+94,Patlıcan Musakka,3.0
+94,Bezelye,1.0
+94,Tavuk Kanat,4.0
+94,Nohut,4.0
+94,Türlü,5.0
+94,Ispanak,2.0
+94,Taze Fasulye,3.0
+94,Bamya,2.0
+94,Dana Rosto,4.0
+94,Pirinç Pilavı,5.0
+94,Patates Kızartması,5.0
+94,Bulgur Pilavı,5.0
+94,Cacık,5.0
+94,Çoban Salata,5.0
+94,Yoğurt,4.0
+94,Pırasa,1.0
+94,İrmik Helvası,1.0
+94,Turşu,5.0
+94,Sütlaç,3.0
+94,Kadayıf,3.0
+94,Kola,4.0
+94,Ayran,5.0
+94,Fanta,5.0
+94,Su,5.0
+95,Mercimek Çorbası,5.0
+95,Ezogelin Çorbası,5.0
+95,Şehriye Çorbası,5.0
+95,Yayla Çorbası,5.0
+95,Kuzu Etli Çorba,0
+95,Tas Kebabı,5.0
+95,Kuzu Şiş,0
+95,Kabak Graten,2.0
+95,Kabak Dolması,3.0
+95,Köfte,5.0
+95,Tavuk Biftek,5.0
+95,Tavuk Sote,5.0
+95,Karnıyarık,5.0
+95,Kuru Fasulye,3.0
+95,Patlıcan Musakka,5.0
+95,Bezelye,4.0
+95,Tavuk Kanat,5.0
+95,Nohut,5.0
+95,Türlü,5.0
+95,Ispanak,3.0
+95,Taze Fasulye,4.0
+95,Bamya,2.0
+95,Dana Rosto,5.0
+95,Pirinç Pilavı,5.0
+95,Patates Kızartması,5.0
+95,Bulgur Pilavı,4.0
+95,Cacık,3.0
+95,Çoban Salata,5.0
+95,Yoğurt,3.0
+95,Pırasa,3.0
+95,İrmik Helvası,5.0
+95,Turşu,5.0
+95,Sütlaç,5.0
+95,Kadayıf,5.0
+95,Kola,5.0
+95,Ayran,4.0
+95,Fanta,4.0
+95,Su,5.0
+96,Mercimek Çorbası,4.0
+96,Ezogelin Çorbası,4.0
+96,Şehriye Çorbası,3.0
+96,Yayla Çorbası,3.0
+96,Kuzu Etli Çorba,4.0
+96,Tas Kebabı,5.0
+96,Kuzu Şiş,5.0
+96,Kabak Graten,0
+96,Kabak Dolması,4.0
+96,Köfte,5.0
+96,Tavuk Biftek,5.0
+96,Tavuk Sote,5.0
+96,Karnıyarık,4.0
+96,Kuru Fasulye,4.0
+96,Patlıcan Musakka,4.0
+96,Bezelye,4.0
+96,Tavuk Kanat,5.0
+96,Nohut,4.0
+96,Türlü,4.0
+96,Ispanak,4.0
+96,Taze Fasulye,4.0
+96,Bamya,5.0
+96,Dana Rosto,5.0
+96,Pirinç Pilavı,4.0
+96,Patates Kızartması,4.0
+96,Bulgur Pilavı,3.0
+96,Cacık,4.0
+96,Çoban Salata,5.0
+96,Yoğurt,4.0
+96,Pırasa,5.0
+96,İrmik Helvası,1.0
+96,Turşu,5.0
+96,Sütlaç,4.0
+96,Kadayıf,4.0
+96,Kola,1.0
+96,Ayran,3.0
+96,Fanta,5.0
+96,Su,4.0
+97,Mercimek Çorbası,5.0
+97,Ezogelin Çorbası,4.0
+97,Şehriye Çorbası,5.0
+97,Yayla Çorbası,4.0
+97,Kuzu Etli Çorba,4.0
+97,Tas Kebabı,5.0
+97,Kuzu Şiş,5.0
+97,Kabak Graten,3.0
+97,Kabak Dolması,3.0
+97,Köfte,4.0
+97,Tavuk Biftek,5.0
+97,Tavuk Sote,5.0
+97,Karnıyarık,4.0
+97,Kuru Fasulye,4.0
+97,Patlıcan Musakka,3.0
+97,Bezelye,4.0
+97,Tavuk Kanat,4.0
+97,Nohut,4.0
+97,Türlü,3.0
+97,Ispanak,5.0
+97,Taze Fasulye,4.0
+97,Bamya,1.0
+97,Dana Rosto,3.0
+97,Pirinç Pilavı,5.0
+97,Patates Kızartması,5.0
+97,Bulgur Pilavı,3.0
+97,Cacık,3.0
+97,Çoban Salata,5.0
+97,Yoğurt,4.0
+97,Pırasa,5.0
+97,İrmik Helvası,3.0
+97,Turşu,3.0
+97,Sütlaç,5.0
+97,Kadayıf,4.0
+97,Kola,5.0
+97,Ayran,4.0
+97,Fanta,2.0
+97,Su,5.0
+98,Mercimek Çorbası,5.0
+98,Ezogelin Çorbası,3.0
+98,Şehriye Çorbası,2.0
+98,Yayla Çorbası,2.0
+98,Kuzu Etli Çorba,0
+98,Tas Kebabı,5.0
+98,Kuzu Şiş,5.0
+98,Kabak Graten,0
+98,Kabak Dolması,4.0
+98,Köfte,5.0
+98,Tavuk Biftek,5.0
+98,Tavuk Sote,5.0
+98,Karnıyarık,5.0
+98,Kuru Fasulye,5.0
+98,Patlıcan Musakka,3.0
+98,Bezelye,3.0
+98,Tavuk Kanat,4.0
+98,Nohut,5.0
+98,Türlü,5.0
+98,Ispanak,4.0
+98,Taze Fasulye,4.0
+98,Bamya,4.0
+98,Dana Rosto,4.0
+98,Pirinç Pilavı,5.0
+98,Patates Kızartması,5.0
+98,Bulgur Pilavı,5.0
+98,Cacık,5.0
+98,Çoban Salata,5.0
+98,Yoğurt,5.0
+98,Pırasa,3.0
+98,İrmik Helvası,3.0
+98,Turşu,5.0
+98,Sütlaç,5.0
+98,Kadayıf,5.0
+98,Kola,4.0
+98,Ayran,5.0
+98,Fanta,5.0
+98,Su,5.0
+99,Mercimek Çorbası,5.0
+99,Ezogelin Çorbası,5.0
+99,Şehriye Çorbası,5.0
+99,Yayla Çorbası,5.0
+99,Kuzu Etli Çorba,0
+99,Tas Kebabı,5.0
+99,Kuzu Şiş,5.0
+99,Kabak Graten,0
+99,Kabak Dolması,5.0
+99,Köfte,5.0
+99,Tavuk Biftek,5.0
+99,Tavuk Sote,5.0
+99,Karnıyarık,5.0
+99,Kuru Fasulye,5.0
+99,Patlıcan Musakka,5.0
+99,Bezelye,5.0
+99,Tavuk Kanat,3.0
+99,Nohut,5.0
+99,Türlü,5.0
+99,Ispanak,5.0
+99,Taze Fasulye,5.0
+99,Bamya,5.0
+99,Dana Rosto,3.0
+99,Pirinç Pilavı,5.0
+99,Patates Kızartması,4.0
+99,Bulgur Pilavı,5.0
+99,Cacık,5.0
+99,Çoban Salata,5.0
+99,Yoğurt,5.0
+99,Pırasa,5.0
+99,İrmik Helvası,5.0
+99,Turşu,5.0
+99,Sütlaç,5.0
+99,Kadayıf,5.0
+99,Kola,1.0
+99,Ayran,5.0
+99,Fanta,1.0
+99,Su,5.0
+100,Mercimek Çorbası,5.0
+100,Ezogelin Çorbası,3.0
+100,Şehriye Çorbası,4.0
+100,Yayla Çorbası,3.0
+100,Kuzu Etli Çorba,5.0
+100,Tas Kebabı,5.0
+100,Kuzu Şiş,5.0
+100,Kabak Graten,4.0
+100,Kabak Dolması,3.0
+100,Köfte,5.0
+100,Tavuk Biftek,5.0
+100,Tavuk Sote,5.0
+100,Karnıyarık,5.0
+100,Kuru Fasulye,5.0
+100,Patlıcan Musakka,5.0
+100,Bezelye,5.0
+100,Tavuk Kanat,5.0
+100,Nohut,5.0
+100,Türlü,3.0
+100,Ispanak,5.0
+100,Taze Fasulye,5.0
+100,Bamya,3.0
+100,Dana Rosto,5.0
+100,Pirinç Pilavı,5.0
+100,Patates Kızartması,5.0
+100,Bulgur Pilavı,4.0
+100,Cacık,3.0
+100,Çoban Salata,5.0
+100,Yoğurt,4.0
+100,Pırasa,3.0
+100,İrmik Helvası,3.0
+100,Turşu,4.0
+100,Sütlaç,5.0
+100,Kadayıf,5.0
+100,Kola,2.0
+100,Ayran,4.0
+100,Fanta,2.0
+100,Su,5.0
+101,Mercimek Çorbası,5.0
+101,Ezogelin Çorbası,5.0
+101,Şehriye Çorbası,5.0
+101,Yayla Çorbası,0
+101,Kuzu Etli Çorba,0
+101,Tas Kebabı,5.0
+101,Kuzu Şiş,4.0
+101,Kabak Graten,0
+101,Kabak Dolması,5.0
+101,Köfte,5.0
+101,Tavuk Biftek,5.0
+101,Tavuk Sote,5.0
+101,Karnıyarık,5.0
+101,Kuru Fasulye,5.0
+101,Patlıcan Musakka,0
+101,Bezelye,5.0
+101,Tavuk Kanat,3.0
+101,Nohut,5.0
+101,Türlü,5.0
+101,Ispanak,5.0
+101,Taze Fasulye,5.0
+101,Bamya,5.0
+101,Dana Rosto,5.0
+101,Pirinç Pilavı,5.0
+101,Patates Kızartması,5.0
+101,Bulgur Pilavı,5.0
+101,Cacık,5.0
+101,Çoban Salata,4.0
+101,Yoğurt,5.0
+101,Pırasa,4.0
+101,İrmik Helvası,5.0
+101,Turşu,5.0
+101,Sütlaç,5.0
+101,Kadayıf,5.0
+101,Kola,5.0
+101,Ayran,5.0
+101,Fanta,5.0
+101,Su,5.0
+102,Mercimek Çorbası,5.0
+102,Ezogelin Çorbası,5.0
+102,Şehriye Çorbası,5.0
+102,Yayla Çorbası,5.0
+102,Kuzu Etli Çorba,0
+102,Tas Kebabı,5.0
+102,Kuzu Şiş,5.0
+102,Kabak Graten,0
+102,Kabak Dolması,0
+102,Köfte,5.0
+102,Tavuk Biftek,5.0
+102,Tavuk Sote,5.0
+102,Karnıyarık,5.0
+102,Kuru Fasulye,5.0
+102,Patlıcan Musakka,5.0
+102,Bezelye,5.0
+102,Tavuk Kanat,5.0
+102,Nohut,5.0
+102,Türlü,5.0
+102,Ispanak,5.0
+102,Taze Fasulye,5.0
+102,Bamya,5.0
+102,Dana Rosto,5.0
+102,Pirinç Pilavı,5.0
+102,Patates Kızartması,5.0
+102,Bulgur Pilavı,5.0
+102,Cacık,5.0
+102,Çoban Salata,5.0
+102,Yoğurt,5.0
+102,Pırasa,3.0
+102,İrmik Helvası,5.0
+102,Turşu,5.0
+102,Sütlaç,5.0
+102,Kadayıf,5.0
+102,Kola,1.0
+102,Ayran,5.0
+102,Fanta,1.0
+102,Su,5.0
+103,Mercimek Çorbası,5.0
+103,Ezogelin Çorbası,4.0
+103,Şehriye Çorbası,3.0
+103,Yayla Çorbası,5.0
+103,Kuzu Etli Çorba,3.0
+103,Tas Kebabı,3.0
+103,Kuzu Şiş,4.0
+103,Kabak Graten,4.0
+103,Kabak Dolması,5.0
+103,Köfte,5.0
+103,Tavuk Biftek,5.0
+103,Tavuk Sote,5.0
+103,Karnıyarık,4.0
+103,Kuru Fasulye,4.0
+103,Patlıcan Musakka,5.0
+103,Bezelye,5.0
+103,Tavuk Kanat,4.0
+103,Nohut,5.0
+103,Türlü,4.0
+103,Ispanak,1.0
+103,Taze Fasulye,2.0
+103,Bamya,1.0
+103,Dana Rosto,5.0
+103,Pirinç Pilavı,5.0
+103,Patates Kızartması,5.0
+103,Bulgur Pilavı,5.0
+103,Cacık,5.0
+103,Çoban Salata,5.0
+103,Yoğurt,5.0
+103,Pırasa,1.0
+103,İrmik Helvası,2.0
+103,Turşu,4.0
+103,Sütlaç,5.0
+103,Kadayıf,3.0
+103,Kola,4.0
+103,Ayran,5.0
+103,Fanta,4.0
+103,Su,5.0
+104,Mercimek Çorbası,4.0
+104,Ezogelin Çorbası,3.0
+104,Şehriye Çorbası,3.0
+104,Yayla Çorbası,3.0
+104,Kuzu Etli Çorba,0
+104,Tas Kebabı,4.0
+104,Kuzu Şiş,4.0
+104,Kabak Graten,2.0
+104,Kabak Dolması,2.0
+104,Köfte,5.0
+104,Tavuk Biftek,5.0
+104,Tavuk Sote,5.0
+104,Karnıyarık,3.0
+104,Kuru Fasulye,5.0
+104,Patlıcan Musakka,3.0
+104,Bezelye,4.0
+104,Tavuk Kanat,5.0
+104,Nohut,5.0
+104,Türlü,2.0
+104,Ispanak,1.0
+104,Taze Fasulye,1.0
+104,Bamya,1.0
+104,Dana Rosto,4.0
+104,Pirinç Pilavı,5.0
+104,Patates Kızartması,5.0
+104,Bulgur Pilavı,4.0
+104,Cacık,5.0
+104,Çoban Salata,5.0
+104,Yoğurt,4.0
+104,Pırasa,1.0
+104,İrmik Helvası,4.0
+104,Turşu,5.0
+104,Sütlaç,5.0
+104,Kadayıf,4.0
+104,Kola,5.0
+104,Ayran,5.0
+104,Fanta,5.0
+104,Su,5.0
+105,Mercimek Çorbası,5.0
+105,Ezogelin Çorbası,3.0
+105,Şehriye Çorbası,3.0
+105,Yayla Çorbası,4.0
+105,Kuzu Etli Çorba,1.0
+105,Tas Kebabı,4.0
+105,Kuzu Şiş,2.0
+105,Kabak Graten,1.0
+105,Kabak Dolması,2.0
+105,Köfte,4.0
+105,Tavuk Biftek,5.0
+105,Tavuk Sote,5.0
+105,Karnıyarık,4.0
+105,Kuru Fasulye,3.0
+105,Patlıcan Musakka,3.0
+105,Bezelye,2.0
+105,Tavuk Kanat,5.0
+105,Nohut,3.0
+105,Türlü,1.0
+105,Ispanak,1.0
+105,Taze Fasulye,3.0
+105,Bamya,0
+105,Dana Rosto,0
+105,Pirinç Pilavı,3.0
+105,Patates Kızartması,3.0
+105,Bulgur Pilavı,4.0
+105,Cacık,4.0
+105,Çoban Salata,4.0
+105,Yoğurt,4.0
+105,Pırasa,1.0
+105,İrmik Helvası,3.0
+105,Turşu,2.0
+105,Sütlaç,4.0
+105,Kadayıf,2.0
+105,Kola,3.0
+105,Ayran,4.0
+105,Fanta,3.0
+105,Su,5.0
+106,Mercimek Çorbası,4.0
+106,Ezogelin Çorbası,4.0
+106,Şehriye Çorbası,4.0
+106,Yayla Çorbası,3.0
+106,Kuzu Etli Çorba,0
+106,Tas Kebabı,0
+106,Kuzu Şiş,0
+106,Kabak Graten,0
+106,Kabak Dolması,1.0
+106,Köfte,1.0
+106,Tavuk Biftek,0
+106,Tavuk Sote,4.0
+106,Karnıyarık,1.0
+106,Kuru Fasulye,5.0
+106,Patlıcan Musakka,2.0
+106,Bezelye,3.0
+106,Tavuk Kanat,4.0
+106,Nohut,5.0
+106,Türlü,5.0
+106,Ispanak,5.0
+106,Taze Fasulye,5.0
+106,Bamya,2.0
+106,Dana Rosto,0
+106,Pirinç Pilavı,4.0
+106,Patates Kızartması,4.0
+106,Bulgur Pilavı,4.0
+106,Cacık,3.0
+106,Çoban Salata,4.0
+106,Yoğurt,5.0
+106,Pırasa,2.0
+106,İrmik Helvası,5.0
+106,Turşu,5.0
+106,Sütlaç,5.0
+106,Kadayıf,3.0
+106,Kola,1.0
+106,Ayran,5.0
+106,Fanta,1.0
+106,Su,5.0
+107,Mercimek Çorbası,5.0
+107,Ezogelin Çorbası,3.0
+107,Şehriye Çorbası,5.0
+107,Yayla Çorbası,4.0
+107,Kuzu Etli Çorba,4.0
+107,Tas Kebabı,5.0
+107,Kuzu Şiş,2.0
+107,Kabak Graten,4.0
+107,Kabak Dolması,4.0
+107,Köfte,3.0
+107,Tavuk Biftek,5.0
+107,Tavuk Sote,5.0
+107,Karnıyarık,3.0
+107,Kuru Fasulye,5.0
+107,Patlıcan Musakka,2.0
+107,Bezelye,4.0
+107,Tavuk Kanat,5.0
+107,Nohut,5.0
+107,Türlü,3.0
+107,Ispanak,4.0
+107,Taze Fasulye,5.0
+107,Bamya,3.0
+107,Dana Rosto,5.0
+107,Pirinç Pilavı,5.0
+107,Patates Kızartması,5.0
+107,Bulgur Pilavı,5.0
+107,Cacık,5.0
+107,Çoban Salata,5.0
+107,Yoğurt,5.0
+107,Pırasa,3.0
+107,İrmik Helvası,3.0
+107,Turşu,2.0
+107,Sütlaç,4.0
+107,Kadayıf,3.0
+107,Kola,2.0
+107,Ayran,5.0
+107,Fanta,2.0
+107,Su,5.0
+108,Mercimek Çorbası,5.0
+108,Ezogelin Çorbası,5.0
+108,Şehriye Çorbası,5.0
+108,Yayla Çorbası,5.0
+108,Kuzu Etli Çorba,5.0
+108,Tas Kebabı,5.0
+108,Kuzu Şiş,5.0
+108,Kabak Graten,5.0
+108,Kabak Dolması,5.0
+108,Köfte,5.0
+108,Tavuk Biftek,5.0
+108,Tavuk Sote,5.0
+108,Karnıyarık,5.0
+108,Kuru Fasulye,5.0
+108,Patlıcan Musakka,5.0
+108,Bezelye,5.0
+108,Tavuk Kanat,5.0
+108,Nohut,5.0
+108,Türlü,5.0
+108,Ispanak,5.0
+108,Taze Fasulye,5.0
+108,Bamya,5.0
+108,Dana Rosto,5.0
+108,Pirinç Pilavı,5.0
+108,Patates Kızartması,5.0
+108,Bulgur Pilavı,5.0
+108,Cacık,5.0
+108,Çoban Salata,5.0
+108,Yoğurt,5.0
+108,Pırasa,5.0
+108,İrmik Helvası,5.0
+108,Turşu,5.0
+108,Sütlaç,5.0
+108,Kadayıf,5.0
+108,Kola,5.0
+108,Ayran,5.0
+108,Fanta,5.0
+108,Su,5.0
+109,Mercimek Çorbası,5.0
+109,Ezogelin Çorbası,0
+109,Şehriye Çorbası,5.0
+109,Yayla Çorbası,1.0
+109,Kuzu Etli Çorba,0
+109,Tas Kebabı,2.0
+109,Kuzu Şiş,3.0
+109,Kabak Graten,2.0
+109,Kabak Dolması,5.0
+109,Köfte,5.0
+109,Tavuk Biftek,5.0
+109,Tavuk Sote,5.0
+109,Karnıyarık,5.0
+109,Kuru Fasulye,1.0
+109,Patlıcan Musakka,1.0
+109,Bezelye,5.0
+109,Tavuk Kanat,5.0
+109,Nohut,2.0
+109,Türlü,5.0
+109,Ispanak,5.0
+109,Taze Fasulye,5.0
+109,Bamya,5.0
+109,Dana Rosto,5.0
+109,Pirinç Pilavı,5.0
+109,Patates Kızartması,5.0
+109,Bulgur Pilavı,5.0
+109,Cacık,5.0
+109,Çoban Salata,5.0
+109,Yoğurt,5.0
+109,Pırasa,5.0
+109,İrmik Helvası,3.0
+109,Turşu,2.0
+109,Sütlaç,5.0
+109,Kadayıf,5.0
+109,Kola,5.0
+109,Ayran,4.0
+109,Fanta,1.0
+109,Su,5.0
+110,Mercimek Çorbası,3.0
+110,Ezogelin Çorbası,4.0
+110,Şehriye Çorbası,3.0
+110,Yayla Çorbası,3.0
+110,Kuzu Etli Çorba,0
+110,Tas Kebabı,4.0
+110,Kuzu Şiş,5.0
+110,Kabak Graten,0
+110,Kabak Dolması,4.0
+110,Köfte,3.0
+110,Tavuk Biftek,0
+110,Tavuk Sote,3.0
+110,Karnıyarık,2.0
+110,Kuru Fasulye,2.0
+110,Patlıcan Musakka,1.0
+110,Bezelye,2.0
+110,Tavuk Kanat,3.0
+110,Nohut,2.0
+110,Türlü,3.0
+110,Ispanak,3.0
+110,Taze Fasulye,3.0
+110,Bamya,3.0
+110,Dana Rosto,3.0
+110,Pirinç Pilavı,5.0
+110,Patates Kızartması,4.0
+110,Bulgur Pilavı,3.0
+110,Cacık,5.0
+110,Çoban Salata,5.0
+110,Yoğurt,4.0
+110,Pırasa,1.0
+110,İrmik Helvası,4.0
+110,Turşu,3.0
+110,Sütlaç,5.0
+110,Kadayıf,3.0
+110,Kola,5.0
+110,Ayran,4.0
+110,Fanta,3.0
+110,Su,4.0
+111,Mercimek Çorbası,5.0
+111,Ezogelin Çorbası,5.0
+111,Şehriye Çorbası,5.0
+111,Yayla Çorbası,5.0
+111,Kuzu Etli Çorba,5.0
+111,Tas Kebabı,5.0
+111,Kuzu Şiş,5.0
+111,Kabak Graten,5.0
+111,Kabak Dolması,5.0
+111,Köfte,5.0
+111,Tavuk Biftek,5.0
+111,Tavuk Sote,5.0
+111,Karnıyarık,5.0
+111,Kuru Fasulye,5.0
+111,Patlıcan Musakka,5.0
+111,Bezelye,5.0
+111,Tavuk Kanat,5.0
+111,Nohut,5.0
+111,Türlü,5.0
+111,Ispanak,5.0
+111,Taze Fasulye,5.0
+111,Bamya,5.0
+111,Dana Rosto,0
+111,Pirinç Pilavı,5.0
+111,Patates Kızartması,5.0
+111,Bulgur Pilavı,5.0
+111,Cacık,5.0
+111,Çoban Salata,5.0
+111,Yoğurt,5.0
+111,Pırasa,5.0
+111,İrmik Helvası,5.0
+111,Turşu,5.0
+111,Sütlaç,5.0
+111,Kadayıf,5.0
+111,Kola,1.0
+111,Ayran,5.0
+111,Fanta,1.0
+111,Su,5.0
+112,Mercimek Çorbası,5.0
+112,Ezogelin Çorbası,1.0
+112,Şehriye Çorbası,1.0
+112,Yayla Çorbası,1.0
+112,Kuzu Etli Çorba,3.0
+112,Tas Kebabı,5.0
+112,Kuzu Şiş,5.0
+112,Kabak Graten,0
+112,Kabak Dolması,3.0
+112,Köfte,5.0
+112,Tavuk Biftek,5.0
+112,Tavuk Sote,5.0
+112,Karnıyarık,5.0
+112,Kuru Fasulye,5.0
+112,Patlıcan Musakka,4.0
+112,Bezelye,1.0
+112,Tavuk Kanat,5.0
+112,Nohut,5.0
+112,Türlü,1.0
+112,Ispanak,1.0
+112,Taze Fasulye,5.0
+112,Bamya,1.0
+112,Dana Rosto,5.0
+112,Pirinç Pilavı,5.0
+112,Patates Kızartması,5.0
+112,Bulgur Pilavı,5.0
+112,Cacık,5.0
+112,Çoban Salata,1.0
+112,Yoğurt,1.0
+112,Pırasa,1.0
+112,İrmik Helvası,5.0
+112,Turşu,1.0
+112,Sütlaç,5.0
+112,Kadayıf,5.0
+112,Kola,5.0
+112,Ayran,5.0
+112,Fanta,5.0
+112,Su,5.0
+113,Mercimek Çorbası,5.0
+113,Ezogelin Çorbası,4.0
+113,Şehriye Çorbası,2.0
+113,Yayla Çorbası,4.0
+113,Kuzu Etli Çorba,5.0
+113,Tas Kebabı,4.0
+113,Kuzu Şiş,5.0
+113,Kabak Graten,0
+113,Kabak Dolması,5.0
+113,Köfte,4.0
+113,Tavuk Biftek,0
+113,Tavuk Sote,4.0
+113,Karnıyarık,3.0
+113,Kuru Fasulye,3.0
+113,Patlıcan Musakka,1.0
+113,Bezelye,4.0
+113,Tavuk Kanat,4.0
+113,Nohut,4.0
+113,Türlü,2.0
+113,Ispanak,4.0
+113,Taze Fasulye,4.0
+113,Bamya,2.0
+113,Dana Rosto,4.0
+113,Pirinç Pilavı,5.0
+113,Patates Kızartması,4.0
+113,Bulgur Pilavı,4.0
+113,Cacık,4.0
+113,Çoban Salata,3.0
+113,Yoğurt,5.0
+113,Pırasa,1.0
+113,İrmik Helvası,3.0
+113,Turşu,4.0
+113,Sütlaç,4.0
+113,Kadayıf,4.0
+113,Kola,3.0
+113,Ayran,4.0
+113,Fanta,3.0
+113,Su,5.0
+114,Mercimek Çorbası,4.0
+114,Ezogelin Çorbası,3.0
+114,Şehriye Çorbası,3.0
+114,Yayla Çorbası,5.0
+114,Kuzu Etli Çorba,0
+114,Tas Kebabı,5.0
+114,Kuzu Şiş,5.0
+114,Kabak Graten,0
+114,Kabak Dolması,1.0
+114,Köfte,5.0
+114,Tavuk Biftek,4.0
+114,Tavuk Sote,5.0
+114,Karnıyarık,3.0
+114,Kuru Fasulye,4.0
+114,Patlıcan Musakka,5.0
+114,Bezelye,3.0
+114,Tavuk Kanat,4.0
+114,Nohut,5.0
+114,Türlü,5.0
+114,Ispanak,1.0
+114,Taze Fasulye,5.0
+114,Bamya,4.0
+114,Dana Rosto,5.0
+114,Pirinç Pilavı,5.0
+114,Patates Kızartması,4.0
+114,Bulgur Pilavı,5.0
+114,Cacık,5.0
+114,Çoban Salata,1.0
+114,Yoğurt,5.0
+114,Pırasa,1.0
+114,İrmik Helvası,5.0
+114,Turşu,3.0
+114,Sütlaç,3.0
+114,Kadayıf,1.0
+114,Kola,1.0
+114,Ayran,5.0
+114,Fanta,1.0
+114,Su,5.0
+115,Mercimek Çorbası,2.0
+115,Ezogelin Çorbası,3.0
+115,Şehriye Çorbası,0
+115,Yayla Çorbası,0
+115,Kuzu Etli Çorba,4.0
+115,Tas Kebabı,5.0
+115,Kuzu Şiş,5.0
+115,Kabak Graten,0
+115,Kabak Dolması,1.0
+115,Köfte,4.0
+115,Tavuk Biftek,5.0
+115,Tavuk Sote,4.0
+115,Karnıyarık,1.0
+115,Kuru Fasulye,4.0
+115,Patlıcan Musakka,1.0
+115,Bezelye,3.0
+115,Tavuk Kanat,5.0
+115,Nohut,4.0
+115,Türlü,4.0
+115,Ispanak,3.0
+115,Taze Fasulye,1.0
+115,Bamya,1.0
+115,Dana Rosto,0
+115,Pirinç Pilavı,4.0
+115,Patates Kızartması,4.0
+115,Bulgur Pilavı,3.0
+115,Cacık,5.0
+115,Çoban Salata,5.0
+115,Yoğurt,4.0
+115,Pırasa,3.0
+115,İrmik Helvası,5.0
+115,Turşu,4.0
+115,Sütlaç,3.0
+115,Kadayıf,5.0
+115,Kola,5.0
+115,Ayran,4.0
+115,Fanta,1.0
+115,Su,4.0
+116,Mercimek Çorbası,4.0
+116,Ezogelin Çorbası,3.0
+116,Şehriye Çorbası,5.0
+116,Yayla Çorbası,3.0
+116,Kuzu Etli Çorba,5.0
+116,Tas Kebabı,5.0
+116,Kuzu Şiş,5.0
+116,Kabak Graten,0
+116,Kabak Dolması,3.0
+116,Köfte,4.0
+116,Tavuk Biftek,5.0
+116,Tavuk Sote,5.0
+116,Karnıyarık,3.0
+116,Kuru Fasulye,4.0
+116,Patlıcan Musakka,3.0
+116,Bezelye,1.0
+116,Tavuk Kanat,5.0
+116,Nohut,3.0
+116,Türlü,1.0
+116,Ispanak,2.0
+116,Taze Fasulye,1.0
+116,Bamya,4.0
+116,Dana Rosto,5.0
+116,Pirinç Pilavı,4.0
+116,Patates Kızartması,3.0
+116,Bulgur Pilavı,4.0
+116,Cacık,5.0
+116,Çoban Salata,5.0
+116,Yoğurt,4.0
+116,Pırasa,2.0
+116,İrmik Helvası,2.0
+116,Turşu,5.0
+116,Sütlaç,4.0
+116,Kadayıf,5.0
+116,Kola,5.0
+116,Ayran,5.0
+116,Fanta,4.0
+116,Su,5.0
+117,Mercimek Çorbası,5.0
+117,Ezogelin Çorbası,4.0
+117,Şehriye Çorbası,5.0
+117,Yayla Çorbası,5.0
+117,Kuzu Etli Çorba,0
+117,Tas Kebabı,5.0
+117,Kuzu Şiş,0
+117,Kabak Graten,1.0
+117,Kabak Dolması,3.0
+117,Köfte,5.0
+117,Tavuk Biftek,5.0
+117,Tavuk Sote,5.0
+117,Karnıyarık,5.0
+117,Kuru Fasulye,5.0
+117,Patlıcan Musakka,5.0
+117,Bezelye,5.0
+117,Tavuk Kanat,5.0
+117,Nohut,5.0
+117,Türlü,5.0
+117,Ispanak,1.0
+117,Taze Fasulye,1.0
+117,Bamya,5.0
+117,Dana Rosto,2.0
+117,Pirinç Pilavı,5.0
+117,Patates Kızartması,5.0
+117,Bulgur Pilavı,4.0
+117,Cacık,3.0
+117,Çoban Salata,5.0
+117,Yoğurt,5.0
+117,Pırasa,1.0
+117,İrmik Helvası,5.0
+117,Turşu,4.0
+117,Sütlaç,5.0
+117,Kadayıf,4.0
+117,Kola,1.0
+117,Ayran,3.0
+117,Fanta,1.0
+117,Su,5.0
+118,Mercimek Çorbası,4.0
+118,Ezogelin Çorbası,4.0
+118,Şehriye Çorbası,5.0
+118,Yayla Çorbası,4.0
+118,Kuzu Etli Çorba,0
+118,Tas Kebabı,4.0
+118,Kuzu Şiş,0
+118,Kabak Graten,0
+118,Kabak Dolması,3.0
+118,Köfte,5.0
+118,Tavuk Biftek,0
+118,Tavuk Sote,4.0
+118,Karnıyarık,5.0
+118,Kuru Fasulye,3.0
+118,Patlıcan Musakka,5.0
+118,Bezelye,4.0
+118,Tavuk Kanat,5.0
+118,Nohut,5.0
+118,Türlü,3.0
+118,Ispanak,4.0
+118,Taze Fasulye,4.0
+118,Bamya,0
+118,Dana Rosto,0
+118,Pirinç Pilavı,5.0
+118,Patates Kızartması,5.0
+118,Bulgur Pilavı,2.0
+118,Cacık,5.0
+118,Çoban Salata,5.0
+118,Yoğurt,5.0
+118,Pırasa,4.0
+118,İrmik Helvası,4.0
+118,Turşu,4.0
+118,Sütlaç,4.0
+118,Kadayıf,3.0
+118,Kola,2.0
+118,Ayran,5.0
+118,Fanta,2.0
+118,Su,5.0
+119,Mercimek Çorbası,3.0
+119,Ezogelin Çorbası,3.0
+119,Şehriye Çorbası,0
+119,Yayla Çorbası,4.0
+119,Kuzu Etli Çorba,0
+119,Tas Kebabı,0
+119,Kuzu Şiş,5.0
+119,Kabak Graten,0
+119,Kabak Dolması,5.0
+119,Köfte,5.0
+119,Tavuk Biftek,0
+119,Tavuk Sote,4.0
+119,Karnıyarık,5.0
+119,Kuru Fasulye,5.0
+119,Patlıcan Musakka,0
+119,Bezelye,3.0
+119,Tavuk Kanat,4.0
+119,Nohut,4.0
+119,Türlü,4.0
+119,Ispanak,4.0
+119,Taze Fasulye,4.0
+119,Bamya,4.0
+119,Dana Rosto,0
+119,Pirinç Pilavı,5.0
+119,Patates Kızartması,4.0
+119,Bulgur Pilavı,4.0
+119,Cacık,4.0
+119,Çoban Salata,4.0
+119,Yoğurt,5.0
+119,Pırasa,3.0
+119,İrmik Helvası,4.0
+119,Turşu,5.0
+119,Sütlaç,5.0
+119,Kadayıf,5.0
+119,Kola,1.0
+119,Ayran,5.0
+119,Fanta,1.0
+119,Su,5.0
+120,Mercimek Çorbası,4.0
+120,Ezogelin Çorbası,3.0
+120,Şehriye Çorbası,2.0
+120,Yayla Çorbası,2.0
+120,Kuzu Etli Çorba,0
+120,Tas Kebabı,3.0
+120,Kuzu Şiş,4.0
+120,Kabak Graten,0
+120,Kabak Dolması,4.0
+120,Köfte,4.0
+120,Tavuk Biftek,4.0
+120,Tavuk Sote,4.0
+120,Karnıyarık,5.0
+120,Kuru Fasulye,4.0
+120,Patlıcan Musakka,4.0
+120,Bezelye,3.0
+120,Tavuk Kanat,4.0
+120,Nohut,5.0
+120,Türlü,2.0
+120,Ispanak,1.0
+120,Taze Fasulye,3.0
+120,Bamya,1.0
+120,Dana Rosto,4.0
+120,Pirinç Pilavı,4.0
+120,Patates Kızartması,4.0
+120,Bulgur Pilavı,5.0
+120,Cacık,5.0
+120,Çoban Salata,5.0
+120,Yoğurt,4.0
+120,Pırasa,1.0
+120,İrmik Helvası,4.0
+120,Turşu,5.0
+120,Sütlaç,3.0
+120,Kadayıf,2.0
+120,Kola,5.0
+120,Ayran,3.0
+120,Fanta,1.0
+120,Su,5.0
+121,Mercimek Çorbası,5.0
+121,Ezogelin Çorbası,5.0
+121,Şehriye Çorbası,1.0
+121,Yayla Çorbası,5.0
+121,Kuzu Etli Çorba,1.0
+121,Tas Kebabı,5.0
+121,Kuzu Şiş,2.0
+121,Kabak Graten,4.0
+121,Kabak Dolması,2.0
+121,Köfte,3.0
+121,Tavuk Biftek,5.0
+121,Tavuk Sote,5.0
+121,Karnıyarık,1.0
+121,Kuru Fasulye,4.0
+121,Patlıcan Musakka,1.0
+121,Bezelye,1.0
+121,Tavuk Kanat,1.0
+121,Nohut,3.0
+121,Türlü,2.0
+121,Ispanak,4.0
+121,Taze Fasulye,4.0
+121,Bamya,1.0
+121,Dana Rosto,5.0
+121,Pirinç Pilavı,5.0
+121,Patates Kızartması,5.0
+121,Bulgur Pilavı,5.0
+121,Cacık,5.0
+121,Çoban Salata,3.0
+121,Yoğurt,5.0
+121,Pırasa,1.0
+121,İrmik Helvası,5.0
+121,Turşu,3.0
+121,Sütlaç,5.0
+121,Kadayıf,1.0
+121,Kola,4.0
+121,Ayran,4.0
+121,Fanta,2.0
+121,Su,5.0
+122,Mercimek Çorbası,4.0
+122,Ezogelin Çorbası,5.0
+122,Şehriye Çorbası,4.0
+122,Yayla Çorbası,2.0
+122,Kuzu Etli Çorba,0
+122,Tas Kebabı,5.0
+122,Kuzu Şiş,5.0
+122,Kabak Graten,0
+122,Kabak Dolması,4.0
+122,Köfte,2.0
+122,Tavuk Biftek,5.0
+122,Tavuk Sote,5.0
+122,Karnıyarık,3.0
+122,Kuru Fasulye,5.0
+122,Patlıcan Musakka,5.0
+122,Bezelye,5.0
+122,Tavuk Kanat,5.0
+122,Nohut,3.0
+122,Türlü,4.0
+122,Ispanak,4.0
+122,Taze Fasulye,2.0
+122,Bamya,4.0
+122,Dana Rosto,5.0
+122,Pirinç Pilavı,3.0
+122,Patates Kızartması,5.0
+122,Bulgur Pilavı,4.0
+122,Cacık,5.0
+122,Çoban Salata,5.0
+122,Yoğurt,5.0
+122,Pırasa,3.0
+122,İrmik Helvası,2.0
+122,Turşu,5.0
+122,Sütlaç,5.0
+122,Kadayıf,3.0
+122,Kola,5.0
+122,Ayran,4.0
+122,Fanta,3.0
+122,Su,5.0
+123,Mercimek Çorbası,5.0
+123,Ezogelin Çorbası,4.0
+123,Şehriye Çorbası,3.0
+123,Yayla Çorbası,4.0
+123,Kuzu Etli Çorba,5.0
+123,Tas Kebabı,5.0
+123,Kuzu Şiş,5.0
+123,Kabak Graten,2.0
+123,Kabak Dolması,2.0
+123,Köfte,5.0
+123,Tavuk Biftek,4.0
+123,Tavuk Sote,4.0
+123,Karnıyarık,4.0
+123,Kuru Fasulye,5.0
+123,Patlıcan Musakka,4.0
+123,Bezelye,2.0
+123,Tavuk Kanat,4.0
+123,Nohut,5.0
+123,Türlü,4.0
+123,Ispanak,2.0
+123,Taze Fasulye,3.0
+123,Bamya,4.0
+123,Dana Rosto,5.0
+123,Pirinç Pilavı,4.0
+123,Patates Kızartması,5.0
+123,Bulgur Pilavı,5.0
+123,Cacık,5.0
+123,Çoban Salata,5.0
+123,Yoğurt,5.0
+123,Pırasa,2.0
+123,İrmik Helvası,5.0
+123,Turşu,4.0
+123,Sütlaç,5.0
+123,Kadayıf,5.0
+123,Kola,2.0
+123,Ayran,5.0
+123,Fanta,2.0
+123,Su,5.0
+124,Mercimek Çorbası,5.0
+124,Ezogelin Çorbası,5.0
+124,Şehriye Çorbası,5.0
+124,Yayla Çorbası,5.0
+124,Kuzu Etli Çorba,5.0
+124,Tas Kebabı,3.0
+124,Kuzu Şiş,5.0
+124,Kabak Graten,0
+124,Kabak Dolması,5.0
+124,Köfte,5.0
+124,Tavuk Biftek,4.0
+124,Tavuk Sote,5.0
+124,Karnıyarık,5.0
+124,Kuru Fasulye,5.0
+124,Patlıcan Musakka,5.0
+124,Bezelye,0
+124,Tavuk Kanat,5.0
+124,Nohut,5.0
+124,Türlü,0
+124,Ispanak,5.0
+124,Taze Fasulye,3.0
+124,Bamya,5.0
+124,Dana Rosto,5.0
+124,Pirinç Pilavı,1.0
+124,Patates Kızartması,1.0
+124,Bulgur Pilavı,5.0
+124,Cacık,5.0
+124,Çoban Salata,5.0
+124,Yoğurt,5.0
+124,Pırasa,5.0
+124,İrmik Helvası,5.0
+124,Turşu,5.0
+124,Sütlaç,5.0
+124,Kadayıf,5.0
+124,Kola,1.0
+124,Ayran,5.0
+124,Fanta,1.0
+124,Su,5.0
+125,Mercimek Çorbası,5.0
+125,Ezogelin Çorbası,3.0
+125,Şehriye Çorbası,4.0
+125,Yayla Çorbası,5.0
+125,Kuzu Etli Çorba,1.0
+125,Tas Kebabı,3.0
+125,Kuzu Şiş,2.0
+125,Kabak Graten,0
+125,Kabak Dolması,3.0
+125,Köfte,5.0
+125,Tavuk Biftek,5.0
+125,Tavuk Sote,5.0
+125,Karnıyarık,3.0
+125,Kuru Fasulye,4.0
+125,Patlıcan Musakka,0
+125,Bezelye,4.0
+125,Tavuk Kanat,5.0
+125,Nohut,1.0
+125,Türlü,2.0
+125,Ispanak,5.0
+125,Taze Fasulye,4.0
+125,Bamya,1.0
+125,Dana Rosto,0
+125,Pirinç Pilavı,5.0
+125,Patates Kızartması,5.0
+125,Bulgur Pilavı,5.0
+125,Cacık,5.0
+125,Çoban Salata,5.0
+125,Yoğurt,5.0
+125,Pırasa,3.0
+125,İrmik Helvası,5.0
+125,Turşu,5.0
+125,Sütlaç,5.0
+125,Kadayıf,5.0
+125,Kola,3.0
+125,Ayran,5.0
+125,Fanta,5.0
+125,Su,5.0
+126,Mercimek Çorbası,4.0
+126,Ezogelin Çorbası,5.0
+126,Şehriye Çorbası,5.0
+126,Yayla Çorbası,3.0
+126,Kuzu Etli Çorba,0
+126,Tas Kebabı,0
+126,Kuzu Şiş,5.0
+126,Kabak Graten,0
+126,Kabak Dolması,0
+126,Köfte,5.0
+126,Tavuk Biftek,0
+126,Tavuk Sote,3.0
+126,Karnıyarık,4.0
+126,Kuru Fasulye,1.0
+126,Patlıcan Musakka,5.0
+126,Bezelye,1.0
+126,Tavuk Kanat,4.0
+126,Nohut,2.0
+126,Türlü,1.0
+126,Ispanak,1.0
+126,Taze Fasulye,1.0
+126,Bamya,2.0
+126,Dana Rosto,5.0
+126,Pirinç Pilavı,3.0
+126,Patates Kızartması,5.0
+126,Bulgur Pilavı,4.0
+126,Cacık,1.0
+126,Çoban Salata,1.0
+126,Yoğurt,5.0
+126,Pırasa,1.0
+126,İrmik Helvası,4.0
+126,Turşu,1.0
+126,Sütlaç,5.0
+126,Kadayıf,3.0
+126,Kola,1.0
+126,Ayran,5.0
+126,Fanta,1.0
+126,Su,4.0
+127,Mercimek Çorbası,5.0
+127,Ezogelin Çorbası,5.0
+127,Şehriye Çorbası,4.0
+127,Yayla Çorbası,5.0
+127,Kuzu Etli Çorba,0
+127,Tas Kebabı,5.0
+127,Kuzu Şiş,5.0
+127,Kabak Graten,0
+127,Kabak Dolması,5.0
+127,Köfte,5.0
+127,Tavuk Biftek,5.0
+127,Tavuk Sote,5.0
+127,Karnıyarık,5.0
+127,Kuru Fasulye,5.0
+127,Patlıcan Musakka,5.0
+127,Bezelye,5.0
+127,Tavuk Kanat,1.0
+127,Nohut,5.0
+127,Türlü,2.0
+127,Ispanak,3.0
+127,Taze Fasulye,4.0
+127,Bamya,2.0
+127,Dana Rosto,5.0
+127,Pirinç Pilavı,5.0
+127,Patates Kızartması,5.0
+127,Bulgur Pilavı,5.0
+127,Cacık,5.0
+127,Çoban Salata,5.0
+127,Yoğurt,5.0
+127,Pırasa,2.0
+127,İrmik Helvası,1.0
+127,Turşu,1.0
+127,Sütlaç,4.0
+127,Kadayıf,4.0
+127,Kola,5.0
+127,Ayran,5.0
+127,Fanta,3.0
+127,Su,5.0
+128,Mercimek Çorbası,4.0
+128,Ezogelin Çorbası,2.0
+128,Şehriye Çorbası,0
+128,Yayla Çorbası,5.0
+128,Kuzu Etli Çorba,5.0
+128,Tas Kebabı,5.0
+128,Kuzu Şiş,5.0
+128,Kabak Graten,0
+128,Kabak Dolması,1.0
+128,Köfte,5.0
+128,Tavuk Biftek,4.0
+128,Tavuk Sote,4.0
+128,Karnıyarık,1.0
+128,Kuru Fasulye,4.0
+128,Patlıcan Musakka,1.0
+128,Bezelye,3.0
+128,Tavuk Kanat,5.0
+128,Nohut,2.0
+128,Türlü,3.0
+128,Ispanak,4.0
+128,Taze Fasulye,5.0
+128,Bamya,1.0
+128,Dana Rosto,4.0
+128,Pirinç Pilavı,5.0
+128,Patates Kızartması,5.0
+128,Bulgur Pilavı,3.0
+128,Cacık,4.0
+128,Çoban Salata,0
+128,Yoğurt,5.0
+128,Pırasa,1.0
+128,İrmik Helvası,3.0
+128,Turşu,2.0
+128,Sütlaç,4.0
+128,Kadayıf,3.0
+128,Kola,1.0
+128,Ayran,5.0
+128,Fanta,1.0
+128,Su,5.0
+129,Mercimek Çorbası,5.0
+129,Ezogelin Çorbası,5.0
+129,Şehriye Çorbası,1.0
+129,Yayla Çorbası,2.0
+129,Kuzu Etli Çorba,2.0
+129,Tas Kebabı,5.0
+129,Kuzu Şiş,3.0
+129,Kabak Graten,2.0
+129,Kabak Dolması,1.0
+129,Köfte,5.0
+129,Tavuk Biftek,4.0
+129,Tavuk Sote,5.0
+129,Karnıyarık,2.0
+129,Kuru Fasulye,5.0
+129,Patlıcan Musakka,3.0
+129,Bezelye,5.0
+129,Tavuk Kanat,2.0
+129,Nohut,3.0
+129,Türlü,1.0
+129,Ispanak,4.0
+129,Taze Fasulye,4.0
+129,Bamya,1.0
+129,Dana Rosto,4.0
+129,Pirinç Pilavı,5.0
+129,Patates Kızartması,5.0
+129,Bulgur Pilavı,4.0
+129,Cacık,4.0
+129,Çoban Salata,3.0
+129,Yoğurt,4.0
+129,Pırasa,1.0
+129,İrmik Helvası,5.0
+129,Turşu,3.0
+129,Sütlaç,5.0
+129,Kadayıf,5.0
+129,Kola,3.0
+129,Ayran,5.0
+129,Fanta,1.0
+129,Su,5.0
+130,Mercimek Çorbası,5.0
+130,Ezogelin Çorbası,5.0
+130,Şehriye Çorbası,5.0
+130,Yayla Çorbası,5.0
+130,Kuzu Etli Çorba,5.0
+130,Tas Kebabı,5.0
+130,Kuzu Şiş,5.0
+130,Kabak Graten,5.0
+130,Kabak Dolması,5.0
+130,Köfte,5.0
+130,Tavuk Biftek,5.0
+130,Tavuk Sote,5.0
+130,Karnıyarık,5.0
+130,Kuru Fasulye,5.0
+130,Patlıcan Musakka,5.0
+130,Bezelye,5.0
+130,Tavuk Kanat,5.0
+130,Nohut,5.0
+130,Türlü,5.0
+130,Ispanak,5.0
+130,Taze Fasulye,5.0
+130,Bamya,5.0
+130,Dana Rosto,5.0
+130,Pirinç Pilavı,5.0
+130,Patates Kızartması,5.0
+130,Bulgur Pilavı,5.0
+130,Cacık,5.0
+130,Çoban Salata,5.0
+130,Yoğurt,5.0
+130,Pırasa,5.0
+130,İrmik Helvası,5.0
+130,Turşu,5.0
+130,Sütlaç,5.0
+130,Kadayıf,5.0
+130,Kola,1.0
+130,Ayran,5.0
+130,Fanta,1.0
+130,Su,5.0
+131,Mercimek Çorbası,5.0
+131,Ezogelin Çorbası,5.0
+131,Şehriye Çorbası,5.0
+131,Yayla Çorbası,5.0
+131,Kuzu Etli Çorba,0
+131,Tas Kebabı,3.0
+131,Kuzu Şiş,1.0
+131,Kabak Graten,2.0
+131,Kabak Dolması,1.0
+131,Köfte,5.0
+131,Tavuk Biftek,5.0
+131,Tavuk Sote,5.0
+131,Karnıyarık,5.0
+131,Kuru Fasulye,4.0
+131,Patlıcan Musakka,5.0
+131,Bezelye,5.0
+131,Tavuk Kanat,5.0
+131,Nohut,5.0
+131,Türlü,5.0
+131,Ispanak,5.0
+131,Taze Fasulye,5.0
+131,Bamya,1.0
+131,Dana Rosto,5.0
+131,Pirinç Pilavı,5.0
+131,Patates Kızartması,5.0
+131,Bulgur Pilavı,5.0
+131,Cacık,5.0
+131,Çoban Salata,5.0
+131,Yoğurt,5.0
+131,Pırasa,1.0
+131,İrmik Helvası,5.0
+131,Turşu,5.0
+131,Sütlaç,1.0
+131,Kadayıf,5.0
+131,Kola,3.0
+131,Ayran,2.0
+131,Fanta,3.0
+131,Su,5.0
+132,Mercimek Çorbası,4.0
+132,Ezogelin Çorbası,3.0
+132,Şehriye Çorbası,3.0
+132,Yayla Çorbası,5.0
+132,Kuzu Etli Çorba,0
+132,Tas Kebabı,5.0
+132,Kuzu Şiş,5.0
+132,Kabak Graten,0
+132,Kabak Dolması,1.0
+132,Köfte,5.0
+132,Tavuk Biftek,4.0
+132,Tavuk Sote,5.0
+132,Karnıyarık,3.0
+132,Kuru Fasulye,4.0
+132,Patlıcan Musakka,5.0
+132,Bezelye,3.0
+132,Tavuk Kanat,4.0
+132,Nohut,5.0
+132,Türlü,5.0
+132,Ispanak,1.0
+132,Taze Fasulye,5.0
+132,Bamya,4.0
+132,Dana Rosto,5.0
+132,Pirinç Pilavı,5.0
+132,Patates Kızartması,4.0
+132,Bulgur Pilavı,5.0
+132,Cacık,5.0
+132,Çoban Salata,1.0
+132,Yoğurt,5.0
+132,Pırasa,1.0
+132,İrmik Helvası,5.0
+132,Turşu,3.0
+132,Sütlaç,3.0
+132,Kadayıf,1.0
+132,Kola,1.0
+132,Ayran,5.0
+132,Fanta,1.0
+132,Su,5.0
+133,Mercimek Çorbası,5.0
+133,Ezogelin Çorbası,5.0
+133,Şehriye Çorbası,2.0
+133,Yayla Çorbası,3.0
+133,Kuzu Etli Çorba,0
+133,Tas Kebabı,5.0
+133,Kuzu Şiş,5.0
+133,Kabak Graten,0
+133,Kabak Dolması,3.0
+133,Köfte,5.0
+133,Tavuk Biftek,5.0
+133,Tavuk Sote,4.0
+133,Karnıyarık,5.0
+133,Kuru Fasulye,3.0
+133,Patlıcan Musakka,0
+133,Bezelye,0
+133,Tavuk Kanat,3.0
+133,Nohut,3.0
+133,Türlü,2.0
+133,Ispanak,4.0
+133,Taze Fasulye,5.0
+133,Bamya,3.0
+133,Dana Rosto,0
+133,Pirinç Pilavı,5.0
+133,Patates Kızartması,5.0
+133,Bulgur Pilavı,3.0
+133,Cacık,5.0
+133,Çoban Salata,5.0
+133,Yoğurt,4.0
+133,Pırasa,1.0
+133,İrmik Helvası,5.0
+133,Turşu,5.0
+133,Sütlaç,5.0
+133,Kadayıf,5.0
+133,Kola,5.0
+133,Ayran,5.0
+133,Fanta,5.0
+133,Su,5.0
+134,Mercimek Çorbası,5.0
+134,Ezogelin Çorbası,2.0
+134,Şehriye Çorbası,3.0
+134,Yayla Çorbası,3.0
+134,Kuzu Etli Çorba,3.0
+134,Tas Kebabı,5.0
+134,Kuzu Şiş,5.0
+134,Kabak Graten,5.0
+134,Kabak Dolması,1.0
+134,Köfte,3.0
+134,Tavuk Biftek,3.0
+134,Tavuk Sote,3.0
+134,Karnıyarık,1.0
+134,Kuru Fasulye,5.0
+134,Patlıcan Musakka,3.0
+134,Bezelye,0
+134,Tavuk Kanat,3.0
+134,Nohut,3.0
+134,Türlü,0
+134,Ispanak,3.0
+134,Taze Fasulye,5.0
+134,Bamya,0
+134,Dana Rosto,0
+134,Pirinç Pilavı,5.0
+134,Patates Kızartması,4.0
+134,Bulgur Pilavı,5.0
+134,Cacık,5.0
+134,Çoban Salata,5.0
+134,Yoğurt,5.0
+134,Pırasa,2.0
+134,İrmik Helvası,5.0
+134,Turşu,5.0
+134,Sütlaç,3.0
+134,Kadayıf,5.0
+134,Kola,4.0
+134,Ayran,4.0
+134,Fanta,4.0
+134,Su,5.0
+135,Mercimek Çorbası,5.0
+135,Ezogelin Çorbası,2.0
+135,Şehriye Çorbası,3.0
+135,Yayla Çorbası,3.0
+135,Kuzu Etli Çorba,3.0
+135,Tas Kebabı,5.0
+135,Kuzu Şiş,5.0
+135,Kabak Graten,5.0
+135,Kabak Dolması,1.0
+135,Köfte,3.0
+135,Tavuk Biftek,3.0
+135,Tavuk Sote,3.0
+135,Karnıyarık,1.0
+135,Kuru Fasulye,5.0
+135,Patlıcan Musakka,3.0
+135,Bezelye,0
+135,Tavuk Kanat,3.0
+135,Nohut,3.0
+135,Türlü,0
+135,Ispanak,3.0
+135,Taze Fasulye,5.0
+135,Bamya,0
+135,Dana Rosto,0
+135,Pirinç Pilavı,5.0
+135,Patates Kızartması,4.0
+135,Bulgur Pilavı,5.0
+135,Cacık,5.0
+135,Çoban Salata,5.0
+135,Yoğurt,5.0
+135,Pırasa,2.0
+135,İrmik Helvası,5.0
+135,Turşu,5.0
+135,Sütlaç,3.0
+135,Kadayıf,5.0
+135,Kola,4.0
+135,Ayran,4.0
+135,Fanta,4.0
+135,Su,5.0
+136,Mercimek Çorbası,5.0
+136,Ezogelin Çorbası,2.0
+136,Şehriye Çorbası,3.0
+136,Yayla Çorbası,3.0
+136,Kuzu Etli Çorba,3.0
+136,Tas Kebabı,5.0
+136,Kuzu Şiş,5.0
+136,Kabak Graten,5.0
+136,Kabak Dolması,1.0
+136,Köfte,3.0
+136,Tavuk Biftek,3.0
+136,Tavuk Sote,3.0
+136,Karnıyarık,1.0
+136,Kuru Fasulye,5.0
+136,Patlıcan Musakka,3.0
+136,Bezelye,0
+136,Tavuk Kanat,3.0
+136,Nohut,3.0
+136,Türlü,0
+136,Ispanak,3.0
+136,Taze Fasulye,5.0
+136,Bamya,0
+136,Dana Rosto,0
+136,Pirinç Pilavı,5.0
+136,Patates Kızartması,4.0
+136,Bulgur Pilavı,5.0
+136,Cacık,5.0
+136,Çoban Salata,5.0
+136,Yoğurt,5.0
+136,Pırasa,2.0
+136,İrmik Helvası,5.0
+136,Turşu,5.0
+136,Sütlaç,3.0
+136,Kadayıf,5.0
+136,Kola,4.0
+136,Ayran,4.0
+136,Fanta,4.0
+136,Su,5.0
+137,Mercimek Çorbası,4.0
+137,Ezogelin Çorbası,3.0
+137,Şehriye Çorbası,1.0
+137,Yayla Çorbası,3.0
+137,Kuzu Etli Çorba,2.0
+137,Tas Kebabı,4.0
+137,Kuzu Şiş,5.0
+137,Kabak Graten,0
+137,Kabak Dolması,0
+137,Köfte,4.0
+137,Tavuk Biftek,4.0
+137,Tavuk Sote,2.0
+137,Karnıyarık,3.0
+137,Kuru Fasulye,3.0
+137,Patlıcan Musakka,3.0
+137,Bezelye,2.0
+137,Tavuk Kanat,5.0
+137,Nohut,5.0
+137,Türlü,2.0
+137,Ispanak,3.0
+137,Taze Fasulye,3.0
+137,Bamya,3.0
+137,Dana Rosto,5.0
+137,Pirinç Pilavı,5.0
+137,Patates Kızartması,5.0
+137,Bulgur Pilavı,4.0
+137,Cacık,5.0
+137,Çoban Salata,5.0
+137,Yoğurt,5.0
+137,Pırasa,2.0
+137,İrmik Helvası,3.0
+137,Turşu,3.0
+137,Sütlaç,4.0
+137,Kadayıf,4.0
+137,Kola,4.0
+137,Ayran,4.0
+137,Fanta,4.0
+137,Su,5.0
+138,Mercimek Çorbası,5.0
+138,Ezogelin Çorbası,4.0
+138,Şehriye Çorbası,3.0
+138,Yayla Çorbası,4.0
+138,Kuzu Etli Çorba,2.0
+138,Tas Kebabı,5.0
+138,Kuzu Şiş,5.0
+138,Kabak Graten,2.0
+138,Kabak Dolması,1.0
+138,Köfte,5.0
+138,Tavuk Biftek,5.0
+138,Tavuk Sote,4.0
+138,Karnıyarık,4.0
+138,Kuru Fasulye,5.0
+138,Patlıcan Musakka,3.0
+138,Bezelye,2.0
+138,Tavuk Kanat,5.0
+138,Nohut,5.0
+138,Türlü,3.0
+138,Ispanak,2.0
+138,Taze Fasulye,2.0
+138,Bamya,5.0
+138,Dana Rosto,3.0
+138,Pirinç Pilavı,5.0
+138,Patates Kızartması,3.0
+138,Bulgur Pilavı,4.0
+138,Cacık,5.0
+138,Çoban Salata,5.0
+138,Yoğurt,5.0
+138,Pırasa,3.0
+138,İrmik Helvası,3.0
+138,Turşu,5.0
+138,Sütlaç,5.0
+138,Kadayıf,5.0
+138,Kola,1.0
+138,Ayran,5.0
+138,Fanta,4.0
+138,Su,5.0
+139,Mercimek Çorbası,5.0
+139,Ezogelin Çorbası,5.0
+139,Şehriye Çorbası,4.0
+139,Yayla Çorbası,5.0
+139,Kuzu Etli Çorba,5.0
+139,Tas Kebabı,4.0
+139,Kuzu Şiş,4.0
+139,Kabak Graten,4.0
+139,Kabak Dolması,4.0
+139,Köfte,5.0
+139,Tavuk Biftek,5.0
+139,Tavuk Sote,5.0
+139,Karnıyarık,5.0
+139,Kuru Fasulye,5.0
+139,Patlıcan Musakka,4.0
+139,Bezelye,4.0
+139,Tavuk Kanat,5.0
+139,Nohut,4.0
+139,Türlü,4.0
+139,Ispanak,3.0
+139,Taze Fasulye,5.0
+139,Bamya,4.0
+139,Dana Rosto,5.0
+139,Pirinç Pilavı,5.0
+139,Patates Kızartması,5.0
+139,Bulgur Pilavı,4.0
+139,Cacık,5.0
+139,Çoban Salata,5.0
+139,Yoğurt,5.0
+139,Pırasa,3.0
+139,İrmik Helvası,5.0
+139,Turşu,5.0
+139,Sütlaç,5.0
+139,Kadayıf,5.0
+139,Kola,2.0
+139,Ayran,5.0
+139,Fanta,2.0
+139,Su,5.0
+140,Mercimek Çorbası,4.0
+140,Ezogelin Çorbası,3.0
+140,Şehriye Çorbası,4.0
+140,Yayla Çorbası,5.0
+140,Kuzu Etli Çorba,0
+140,Tas Kebabı,2.0
+140,Kuzu Şiş,5.0
+140,Kabak Graten,0
+140,Kabak Dolması,0
+140,Köfte,4.0
+140,Tavuk Biftek,4.0
+140,Tavuk Sote,5.0
+140,Karnıyarık,0
+140,Kuru Fasulye,4.0
+140,Patlıcan Musakka,1.0
+140,Bezelye,3.0
+140,Tavuk Kanat,4.0
+140,Nohut,3.0
+140,Türlü,1.0
+140,Ispanak,0
+140,Taze Fasulye,3.0
+140,Bamya,0
+140,Dana Rosto,5.0
+140,Pirinç Pilavı,5.0
+140,Patates Kızartması,5.0
+140,Bulgur Pilavı,5.0
+140,Cacık,2.0
+140,Çoban Salata,3.0
+140,Yoğurt,4.0
+140,Pırasa,0
+140,İrmik Helvası,5.0
+140,Turşu,3.0
+140,Sütlaç,5.0
+140,Kadayıf,5.0
+140,Kola,2.0
+140,Ayran,4.0
+140,Fanta,3.0
+140,Su,5.0
+141,Mercimek Çorbası,5.0
+141,Ezogelin Çorbası,5.0
+141,Şehriye Çorbası,5.0
+141,Yayla Çorbası,1.0
+141,Kuzu Etli Çorba,0
+141,Tas Kebabı,2.0
+141,Kuzu Şiş,2.0
+141,Kabak Graten,0
+141,Kabak Dolması,3.0
+141,Köfte,2.0
+141,Tavuk Biftek,5.0
+141,Tavuk Sote,5.0
+141,Karnıyarık,1.0
+141,Kuru Fasulye,3.0
+141,Patlıcan Musakka,3.0
+141,Bezelye,3.0
+141,Tavuk Kanat,5.0
+141,Nohut,5.0
+141,Türlü,3.0
+141,Ispanak,5.0
+141,Taze Fasulye,5.0
+141,Bamya,1.0
+141,Dana Rosto,3.0
+141,Pirinç Pilavı,5.0
+141,Patates Kızartması,5.0
+141,Bulgur Pilavı,3.0
+141,Cacık,2.0
+141,Çoban Salata,5.0
+141,Yoğurt,3.0
+141,Pırasa,5.0
+141,İrmik Helvası,5.0
+141,Turşu,5.0
+141,Sütlaç,3.0
+141,Kadayıf,5.0
+141,Kola,5.0
+141,Ayran,3.0
+141,Fanta,5.0
+141,Su,5.0
+142,Mercimek Çorbası,4.0
+142,Ezogelin Çorbası,4.0
+142,Şehriye Çorbası,4.0
+142,Yayla Çorbası,4.0
+142,Kuzu Etli Çorba,0
+142,Tas Kebabı,2.0
+142,Kuzu Şiş,4.0
+142,Kabak Graten,1.0
+142,Kabak Dolması,1.0
+142,Köfte,5.0
+142,Tavuk Biftek,5.0
+142,Tavuk Sote,5.0
+142,Karnıyarık,4.0
+142,Kuru Fasulye,5.0
+142,Patlıcan Musakka,4.0
+142,Bezelye,2.0
+142,Tavuk Kanat,3.0
+142,Nohut,3.0
+142,Türlü,1.0
+142,Ispanak,1.0
+142,Taze Fasulye,4.0
+142,Bamya,0
+142,Dana Rosto,5.0
+142,Pirinç Pilavı,5.0
+142,Patates Kızartması,5.0
+142,Bulgur Pilavı,5.0
+142,Cacık,5.0
+142,Çoban Salata,5.0
+142,Yoğurt,4.0
+142,Pırasa,0
+142,İrmik Helvası,5.0
+142,Turşu,5.0
+142,Sütlaç,5.0
+142,Kadayıf,5.0
+142,Kola,3.0
+142,Ayran,3.0
+142,Fanta,2.0
+142,Su,5.0
+143,Mercimek Çorbası,5.0
+143,Ezogelin Çorbası,5.0
+143,Şehriye Çorbası,4.0
+143,Yayla Çorbası,5.0
+143,Kuzu Etli Çorba,5.0
+143,Tas Kebabı,5.0
+143,Kuzu Şiş,3.0
+143,Kabak Graten,4.0
+143,Kabak Dolması,5.0
+143,Köfte,3.0
+143,Tavuk Biftek,3.0
+143,Tavuk Sote,1.0
+143,Karnıyarık,2.0
+143,Kuru Fasulye,4.0
+143,Patlıcan Musakka,3.0
+143,Bezelye,3.0
+143,Tavuk Kanat,2.0
+143,Nohut,2.0
+143,Türlü,5.0
+143,Ispanak,4.0
+143,Taze Fasulye,4.0
+143,Bamya,0
+143,Dana Rosto,1.0
+143,Pirinç Pilavı,5.0
+143,Patates Kızartması,5.0
+143,Bulgur Pilavı,5.0
+143,Cacık,5.0
+143,Çoban Salata,5.0
+143,Yoğurt,5.0
+143,Pırasa,3.0
+143,İrmik Helvası,5.0
+143,Turşu,1.0
+143,Sütlaç,2.0
+143,Kadayıf,2.0
+143,Kola,3.0
+143,Ayran,5.0
+143,Fanta,2.0
+143,Su,1.0
+144,Mercimek Çorbası,5.0
+144,Ezogelin Çorbası,5.0
+144,Şehriye Çorbası,5.0
+144,Yayla Çorbası,5.0
+144,Kuzu Etli Çorba,5.0
+144,Tas Kebabı,5.0
+144,Kuzu Şiş,5.0
+144,Kabak Graten,5.0
+144,Kabak Dolması,5.0
+144,Köfte,5.0
+144,Tavuk Biftek,5.0
+144,Tavuk Sote,5.0
+144,Karnıyarık,5.0
+144,Kuru Fasulye,5.0
+144,Patlıcan Musakka,5.0
+144,Bezelye,5.0
+144,Tavuk Kanat,5.0
+144,Nohut,5.0
+144,Türlü,5.0
+144,Ispanak,5.0
+144,Taze Fasulye,5.0
+144,Bamya,1.0
+144,Dana Rosto,5.0
+144,Pirinç Pilavı,5.0
+144,Patates Kızartması,5.0
+144,Bulgur Pilavı,5.0
+144,Cacık,5.0
+144,Çoban Salata,5.0
+144,Yoğurt,5.0
+144,Pırasa,5.0
+144,İrmik Helvası,5.0
+144,Turşu,5.0
+144,Sütlaç,5.0
+144,Kadayıf,5.0
+144,Kola,5.0
+144,Ayran,5.0
+144,Fanta,5.0
+144,Su,5.0
+145,Mercimek Çorbası,4.0
+145,Ezogelin Çorbası,5.0
+145,Şehriye Çorbası,3.0
+145,Yayla Çorbası,2.0
+145,Kuzu Etli Çorba,4.0
+145,Tas Kebabı,4.0
+145,Kuzu Şiş,4.0
+145,Kabak Graten,0
+145,Kabak Dolması,3.0
+145,Köfte,5.0
+145,Tavuk Biftek,0
+145,Tavuk Sote,4.0
+145,Karnıyarık,5.0
+145,Kuru Fasulye,5.0
+145,Patlıcan Musakka,5.0
+145,Bezelye,5.0
+145,Tavuk Kanat,5.0
+145,Nohut,5.0
+145,Türlü,4.0
+145,Ispanak,5.0
+145,Taze Fasulye,4.0
+145,Bamya,5.0
+145,Dana Rosto,5.0
+145,Pirinç Pilavı,4.0
+145,Patates Kızartması,4.0
+145,Bulgur Pilavı,5.0
+145,Cacık,5.0
+145,Çoban Salata,4.0
+145,Yoğurt,4.0
+145,Pırasa,5.0
+145,İrmik Helvası,3.0
+145,Turşu,4.0
+145,Sütlaç,5.0
+145,Kadayıf,4.0
+145,Kola,3.0
+145,Ayran,4.0
+145,Fanta,4.0
+145,Su,5.0
+146,Mercimek Çorbası,5.0
+146,Ezogelin Çorbası,4.0
+146,Şehriye Çorbası,3.0
+146,Yayla Çorbası,2.0
+146,Kuzu Etli Çorba,5.0
+146,Tas Kebabı,5.0
+146,Kuzu Şiş,5.0
+146,Kabak Graten,0
+146,Kabak Dolması,3.0
+146,Köfte,4.0
+146,Tavuk Biftek,4.0
+146,Tavuk Sote,4.0
+146,Karnıyarık,4.0
+146,Kuru Fasulye,4.0
+146,Patlıcan Musakka,4.0
+146,Bezelye,3.0
+146,Tavuk Kanat,4.0
+146,Nohut,3.0
+146,Türlü,3.0
+146,Ispanak,2.0
+146,Taze Fasulye,2.0
+146,Bamya,1.0
+146,Dana Rosto,4.0
+146,Pirinç Pilavı,5.0
+146,Patates Kızartması,5.0
+146,Bulgur Pilavı,3.0
+146,Cacık,5.0
+146,Çoban Salata,4.0
+146,Yoğurt,5.0
+146,Pırasa,1.0
+146,İrmik Helvası,4.0
+146,Turşu,5.0
+146,Sütlaç,4.0
+146,Kadayıf,5.0
+146,Kola,5.0
+146,Ayran,5.0
+146,Fanta,5.0
+146,Su,5.0
+147,Mercimek Çorbası,5.0
+147,Ezogelin Çorbası,3.0
+147,Şehriye Çorbası,3.0
+147,Yayla Çorbası,4.0
+147,Kuzu Etli Çorba,3.0
+147,Tas Kebabı,3.0
+147,Kuzu Şiş,3.0
+147,Kabak Graten,3.0
+147,Kabak Dolması,4.0
+147,Köfte,4.0
+147,Tavuk Biftek,4.0
+147,Tavuk Sote,4.0
+147,Karnıyarık,4.0
+147,Kuru Fasulye,4.0
+147,Patlıcan Musakka,3.0
+147,Bezelye,3.0
+147,Tavuk Kanat,4.0
+147,Nohut,3.0
+147,Türlü,3.0
+147,Ispanak,3.0
+147,Taze Fasulye,3.0
+147,Bamya,3.0
+147,Dana Rosto,3.0
+147,Pirinç Pilavı,3.0
+147,Patates Kızartması,3.0
+147,Bulgur Pilavı,4.0
+147,Cacık,4.0
+147,Çoban Salata,4.0
+147,Yoğurt,4.0
+147,Pırasa,3.0
+147,İrmik Helvası,3.0
+147,Turşu,3.0
+147,Sütlaç,3.0
+147,Kadayıf,3.0
+147,Kola,1.0
+147,Ayran,4.0
+147,Fanta,3.0
+147,Su,5.0
+148,Mercimek Çorbası,4.0
+148,Ezogelin Çorbası,4.0
+148,Şehriye Çorbası,4.0
+148,Yayla Çorbası,4.0
+148,Kuzu Etli Çorba,3.0
+148,Tas Kebabı,5.0
+148,Kuzu Şiş,5.0
+148,Kabak Graten,4.0
+148,Kabak Dolması,3.0
+148,Köfte,4.0
+148,Tavuk Biftek,4.0
+148,Tavuk Sote,4.0
+148,Karnıyarık,4.0
+148,Kuru Fasulye,3.0
+148,Patlıcan Musakka,4.0
+148,Bezelye,3.0
+148,Tavuk Kanat,4.0
+148,Nohut,2.0
+148,Türlü,2.0
+148,Ispanak,1.0
+148,Taze Fasulye,2.0
+148,Bamya,1.0
+148,Dana Rosto,5.0
+148,Pirinç Pilavı,4.0
+148,Patates Kızartması,5.0
+148,Bulgur Pilavı,5.0
+148,Cacık,5.0
+148,Çoban Salata,5.0
+148,Yoğurt,4.0
+148,Pırasa,2.0
+148,İrmik Helvası,3.0
+148,Turşu,2.0
+148,Sütlaç,3.0
+148,Kadayıf,3.0
+148,Kola,5.0
+148,Ayran,3.0
+148,Fanta,3.0
+148,Su,3.0
+149,Mercimek Çorbası,5.0
+149,Ezogelin Çorbası,4.0
+149,Şehriye Çorbası,1.0
+149,Yayla Çorbası,3.0
+149,Kuzu Etli Çorba,4.0
+149,Tas Kebabı,4.0
+149,Kuzu Şiş,5.0
+149,Kabak Graten,3.0
+149,Kabak Dolması,4.0
+149,Köfte,5.0
+149,Tavuk Biftek,3.0
+149,Tavuk Sote,3.0
+149,Karnıyarık,5.0
+149,Kuru Fasulye,5.0
+149,Patlıcan Musakka,5.0
+149,Bezelye,2.0
+149,Tavuk Kanat,5.0
+149,Nohut,5.0
+149,Türlü,4.0
+149,Ispanak,3.0
+149,Taze Fasulye,3.0
+149,Bamya,5.0
+149,Dana Rosto,3.0
+149,Pirinç Pilavı,5.0
+149,Patates Kızartması,4.0
+149,Bulgur Pilavı,5.0
+149,Cacık,5.0
+149,Çoban Salata,5.0
+149,Yoğurt,5.0
+149,Pırasa,2.0
+149,İrmik Helvası,4.0
+149,Turşu,5.0
+149,Sütlaç,5.0
+149,Kadayıf,5.0
+149,Kola,1.0
+149,Ayran,5.0
+149,Fanta,1.0
+149,Su,5.0
+150,Mercimek Çorbası,5.0
+150,Ezogelin Çorbası,4.0
+150,Şehriye Çorbası,5.0
+150,Yayla Çorbası,3.0
+150,Kuzu Etli Çorba,0
+150,Tas Kebabı,0
+150,Kuzu Şiş,3.0
+150,Kabak Graten,0
+150,Kabak Dolması,5.0
+150,Köfte,3.0
+150,Tavuk Biftek,2.0
+150,Tavuk Sote,5.0
+150,Karnıyarık,5.0
+150,Kuru Fasulye,4.0
+150,Patlıcan Musakka,4.0
+150,Bezelye,3.0
+150,Tavuk Kanat,5.0
+150,Nohut,1.0
+150,Türlü,2.0
+150,Ispanak,2.0
+150,Taze Fasulye,3.0
+150,Bamya,4.0
+150,Dana Rosto,4.0
+150,Pirinç Pilavı,3.0
+150,Patates Kızartması,2.0
+150,Bulgur Pilavı,3.0
+150,Cacık,4.0
+150,Çoban Salata,4.0
+150,Yoğurt,3.0
+150,Pırasa,1.0
+150,İrmik Helvası,5.0
+150,Turşu,5.0
+150,Sütlaç,2.0
+150,Kadayıf,4.0
+150,Kola,5.0
+150,Ayran,4.0
+150,Fanta,4.0
+150,Su,2.0
+151,Mercimek Çorbası,5.0
+151,Ezogelin Çorbası,3.0
+151,Şehriye Çorbası,3.0
+151,Yayla Çorbası,4.0
+151,Kuzu Etli Çorba,3.0
+151,Tas Kebabı,3.0
+151,Kuzu Şiş,3.0
+151,Kabak Graten,3.0
+151,Kabak Dolması,4.0
+151,Köfte,4.0
+151,Tavuk Biftek,4.0
+151,Tavuk Sote,4.0
+151,Karnıyarık,4.0
+151,Kuru Fasulye,4.0
+151,Patlıcan Musakka,3.0
+151,Bezelye,3.0
+151,Tavuk Kanat,4.0
+151,Nohut,3.0
+151,Türlü,3.0
+151,Ispanak,3.0
+151,Taze Fasulye,3.0
+151,Bamya,3.0
+151,Dana Rosto,3.0
+151,Pirinç Pilavı,3.0
+151,Patates Kızartması,3.0
+151,Bulgur Pilavı,4.0
+151,Cacık,4.0
+151,Çoban Salata,4.0
+151,Yoğurt,4.0
+151,Pırasa,3.0
+151,İrmik Helvası,3.0
+151,Turşu,3.0
+151,Sütlaç,3.0
+151,Kadayıf,3.0
+151,Kola,1.0
+151,Ayran,4.0
+151,Fanta,3.0
+151,Su,5.0
+152,Mercimek Çorbası,5.0
+152,Ezogelin Çorbası,5.0
+152,Şehriye Çorbası,5.0
+152,Yayla Çorbası,5.0
+152,Kuzu Etli Çorba,0
+152,Tas Kebabı,5.0
+152,Kuzu Şiş,4.0
+152,Kabak Graten,2.0
+152,Kabak Dolması,3.0
+152,Köfte,5.0
+152,Tavuk Biftek,5.0
+152,Tavuk Sote,5.0
+152,Karnıyarık,4.0
+152,Kuru Fasulye,5.0
+152,Patlıcan Musakka,5.0
+152,Bezelye,3.0
+152,Tavuk Kanat,5.0
+152,Nohut,4.0
+152,Türlü,2.0
+152,Ispanak,5.0
+152,Taze Fasulye,5.0
+152,Bamya,5.0
+152,Dana Rosto,3.0
+152,Pirinç Pilavı,5.0
+152,Patates Kızartması,5.0
+152,Bulgur Pilavı,5.0
+152,Cacık,5.0
+152,Çoban Salata,5.0
+152,Yoğurt,5.0
+152,Pırasa,5.0
+152,İrmik Helvası,4.0
+152,Turşu,5.0
+152,Sütlaç,3.0
+152,Kadayıf,2.0
+152,Kola,1.0
+152,Ayran,5.0
+152,Fanta,3.0
+152,Su,5.0
+153,Mercimek Çorbası,5.0
+153,Ezogelin Çorbası,5.0
+153,Şehriye Çorbası,2.0
+153,Yayla Çorbası,5.0
+153,Kuzu Etli Çorba,5.0
+153,Tas Kebabı,4.0
+153,Kuzu Şiş,5.0
+153,Kabak Graten,2.0
+153,Kabak Dolması,4.0
+153,Köfte,5.0
+153,Tavuk Biftek,5.0
+153,Tavuk Sote,5.0
+153,Karnıyarık,5.0
+153,Kuru Fasulye,5.0
+153,Patlıcan Musakka,5.0
+153,Bezelye,4.0
+153,Tavuk Kanat,5.0
+153,Nohut,3.0
+153,Türlü,3.0
+153,Ispanak,4.0
+153,Taze Fasulye,3.0
+153,Bamya,5.0
+153,Dana Rosto,3.0
+153,Pirinç Pilavı,5.0
+153,Patates Kızartması,5.0
+153,Bulgur Pilavı,5.0
+153,Cacık,5.0
+153,Çoban Salata,5.0
+153,Yoğurt,5.0
+153,Pırasa,4.0
+153,İrmik Helvası,5.0
+153,Turşu,5.0
+153,Sütlaç,5.0
+153,Kadayıf,5.0
+153,Kola,2.0
+153,Ayran,5.0
+153,Fanta,3.0
+153,Su,5.0
+154,Mercimek Çorbası,3.0
+154,Ezogelin Çorbası,3.0
+154,Şehriye Çorbası,2.0
+154,Yayla Çorbası,2.0
+154,Kuzu Etli Çorba,1.0
+154,Tas Kebabı,5.0
+154,Kuzu Şiş,1.0
+154,Kabak Graten,4.0
+154,Kabak Dolması,5.0
+154,Köfte,5.0
+154,Tavuk Biftek,3.0
+154,Tavuk Sote,3.0
+154,Karnıyarık,2.0
+154,Kuru Fasulye,2.0
+154,Patlıcan Musakka,5.0
+154,Bezelye,5.0
+154,Tavuk Kanat,5.0
+154,Nohut,3.0
+154,Türlü,3.0
+154,Ispanak,3.0
+154,Taze Fasulye,4.0
+154,Bamya,1.0
+154,Dana Rosto,5.0
+154,Pirinç Pilavı,4.0
+154,Patates Kızartması,5.0
+154,Bulgur Pilavı,4.0
+154,Cacık,5.0
+154,Çoban Salata,5.0
+154,Yoğurt,5.0
+154,Pırasa,3.0
+154,İrmik Helvası,2.0
+154,Turşu,5.0
+154,Sütlaç,3.0
+154,Kadayıf,3.0
+154,Kola,1.0
+154,Ayran,5.0
+154,Fanta,1.0
+154,Su,5.0
+155,Mercimek Çorbası,5.0
+155,Ezogelin Çorbası,4.0
+155,Şehriye Çorbası,4.0
+155,Yayla Çorbası,5.0
+155,Kuzu Etli Çorba,2.0
+155,Tas Kebabı,5.0
+155,Kuzu Şiş,2.0
+155,Kabak Graten,4.0
+155,Kabak Dolması,1.0
+155,Köfte,5.0
+155,Tavuk Biftek,4.0
+155,Tavuk Sote,5.0
+155,Karnıyarık,3.0
+155,Kuru Fasulye,5.0
+155,Patlıcan Musakka,3.0
+155,Bezelye,1.0
+155,Tavuk Kanat,4.0
+155,Nohut,5.0
+155,Türlü,1.0
+155,Ispanak,3.0
+155,Taze Fasulye,3.0
+155,Bamya,3.0
+155,Dana Rosto,5.0
+155,Pirinç Pilavı,5.0
+155,Patates Kızartması,4.0
+155,Bulgur Pilavı,4.0
+155,Cacık,3.0
+155,Çoban Salata,2.0
+155,Yoğurt,3.0
+155,Pırasa,1.0
+155,İrmik Helvası,4.0
+155,Turşu,5.0
+155,Sütlaç,4.0
+155,Kadayıf,5.0
+155,Kola,5.0
+155,Ayran,3.0
+155,Fanta,3.0
+155,Su,2.0
+156,Mercimek Çorbası,5.0
+156,Ezogelin Çorbası,5.0
+156,Şehriye Çorbası,5.0
+156,Yayla Çorbası,0
+156,Kuzu Etli Çorba,0
+156,Tas Kebabı,4.0
+156,Kuzu Şiş,3.0
+156,Kabak Graten,0
+156,Kabak Dolması,2.0
+156,Köfte,4.0
+156,Tavuk Biftek,2.0
+156,Tavuk Sote,2.0
+156,Karnıyarık,2.0
+156,Kuru Fasulye,5.0
+156,Patlıcan Musakka,1.0
+156,Bezelye,5.0
+156,Tavuk Kanat,2.0
+156,Nohut,5.0
+156,Türlü,0
+156,Ispanak,4.0
+156,Taze Fasulye,5.0
+156,Bamya,3.0
+156,Dana Rosto,1.0
+156,Pirinç Pilavı,5.0
+156,Patates Kızartması,5.0
+156,Bulgur Pilavı,5.0
+156,Cacık,5.0
+156,Çoban Salata,5.0
+156,Yoğurt,5.0
+156,Pırasa,2.0
+156,İrmik Helvası,5.0
+156,Turşu,5.0
+156,Sütlaç,5.0
+156,Kadayıf,5.0
+156,Kola,1.0
+156,Ayran,5.0
+156,Fanta,2.0
+156,Su,5.0
+157,Mercimek Çorbası,5.0
+157,Ezogelin Çorbası,2.0
+157,Şehriye Çorbası,3.0
+157,Yayla Çorbası,4.0
+157,Kuzu Etli Çorba,5.0
+157,Tas Kebabı,5.0
+157,Kuzu Şiş,5.0
+157,Kabak Graten,3.0
+157,Kabak Dolması,3.0
+157,Köfte,5.0
+157,Tavuk Biftek,5.0
+157,Tavuk Sote,5.0
+157,Karnıyarık,5.0
+157,Kuru Fasulye,4.0
+157,Patlıcan Musakka,4.0
+157,Bezelye,2.0
+157,Tavuk Kanat,5.0
+157,Nohut,2.0
+157,Türlü,3.0
+157,Ispanak,2.0
+157,Taze Fasulye,2.0
+157,Bamya,3.0
+157,Dana Rosto,5.0
+157,Pirinç Pilavı,5.0
+157,Patates Kızartması,5.0
+157,Bulgur Pilavı,4.0
+157,Cacık,4.0
+157,Çoban Salata,4.0
+157,Yoğurt,5.0
+157,Pırasa,3.0
+157,İrmik Helvası,3.0
+157,Turşu,4.0
+157,Sütlaç,5.0
+157,Kadayıf,3.0
+157,Kola,3.0
+157,Ayran,5.0
+157,Fanta,3.0
+157,Su,5.0
+158,Mercimek Çorbası,5.0
+158,Ezogelin Çorbası,4.0
+158,Şehriye Çorbası,3.0
+158,Yayla Çorbası,4.0
+158,Kuzu Etli Çorba,1.0
+158,Tas Kebabı,3.0
+158,Kuzu Şiş,5.0
+158,Kabak Graten,5.0
+158,Kabak Dolması,5.0
+158,Köfte,5.0
+158,Tavuk Biftek,5.0
+158,Tavuk Sote,5.0
+158,Karnıyarık,4.0
+158,Kuru Fasulye,4.0
+158,Patlıcan Musakka,3.0
+158,Bezelye,5.0
+158,Tavuk Kanat,5.0
+158,Nohut,3.0
+158,Türlü,2.0
+158,Ispanak,4.0
+158,Taze Fasulye,5.0
+158,Bamya,1.0
+158,Dana Rosto,3.0
+158,Pirinç Pilavı,4.0
+158,Patates Kızartması,5.0
+158,Bulgur Pilavı,3.0
+158,Cacık,5.0
+158,Çoban Salata,3.0
+158,Yoğurt,5.0
+158,Pırasa,4.0
+158,İrmik Helvası,4.0
+158,Turşu,5.0
+158,Sütlaç,4.0
+158,Kadayıf,4.0
+158,Kola,4.0
+158,Ayran,4.0
+158,Fanta,2.0
+158,Su,5.0
+159,Mercimek Çorbası,5.0
+159,Ezogelin Çorbası,4.0
+159,Şehriye Çorbası,4.0
+159,Yayla Çorbası,5.0
+159,Kuzu Etli Çorba,5.0
+159,Tas Kebabı,4.0
+159,Kuzu Şiş,5.0
+159,Kabak Graten,0
+159,Kabak Dolması,2.0
+159,Köfte,5.0
+159,Tavuk Biftek,4.0
+159,Tavuk Sote,4.0
+159,Karnıyarık,5.0
+159,Kuru Fasulye,4.0
+159,Patlıcan Musakka,3.0
+159,Bezelye,2.0
+159,Tavuk Kanat,2.0
+159,Nohut,1.0
+159,Türlü,1.0
+159,Ispanak,3.0
+159,Taze Fasulye,2.0
+159,Bamya,1.0
+159,Dana Rosto,5.0
+159,Pirinç Pilavı,4.0
+159,Patates Kızartması,5.0
+159,Bulgur Pilavı,5.0
+159,Cacık,5.0
+159,Çoban Salata,5.0
+159,Yoğurt,5.0
+159,Pırasa,1.0
+159,İrmik Helvası,5.0
+159,Turşu,4.0
+159,Sütlaç,5.0
+159,Kadayıf,5.0
+159,Kola,1.0
+159,Ayran,3.0
+159,Fanta,4.0
+159,Su,5.0
+160,Mercimek Çorbası,4.0
+160,Ezogelin Çorbası,4.0
+160,Şehriye Çorbası,2.0
+160,Yayla Çorbası,3.0
+160,Kuzu Etli Çorba,0
+160,Tas Kebabı,3.0
+160,Kuzu Şiş,3.0
+160,Kabak Graten,0
+160,Kabak Dolması,3.0
+160,Köfte,4.0
+160,Tavuk Biftek,4.0
+160,Tavuk Sote,3.0
+160,Karnıyarık,4.0
+160,Kuru Fasulye,5.0
+160,Patlıcan Musakka,3.0
+160,Bezelye,1.0
+160,Tavuk Kanat,5.0
+160,Nohut,4.0
+160,Türlü,2.0
+160,Ispanak,3.0
+160,Taze Fasulye,3.0
+160,Bamya,4.0
+160,Dana Rosto,2.0
+160,Pirinç Pilavı,3.0
+160,Patates Kızartması,5.0
+160,Bulgur Pilavı,5.0
+160,Cacık,5.0
+160,Çoban Salata,5.0
+160,Yoğurt,4.0
+160,Pırasa,4.0
+160,İrmik Helvası,3.0
+160,Turşu,4.0
+160,Sütlaç,4.0
+160,Kadayıf,4.0
+160,Kola,3.0
+160,Ayran,4.0
+160,Fanta,3.0
+160,Su,5.0
+161,Mercimek Çorbası,5.0
+161,Ezogelin Çorbası,5.0
+161,Şehriye Çorbası,4.0
+161,Yayla Çorbası,4.0
+161,Kuzu Etli Çorba,5.0
+161,Tas Kebabı,5.0
+161,Kuzu Şiş,5.0
+161,Kabak Graten,3.0
+161,Kabak Dolması,4.0
+161,Köfte,5.0
+161,Tavuk Biftek,5.0
+161,Tavuk Sote,5.0
+161,Karnıyarık,4.0
+161,Kuru Fasulye,5.0
+161,Patlıcan Musakka,4.0
+161,Bezelye,4.0
+161,Tavuk Kanat,5.0
+161,Nohut,5.0
+161,Türlü,5.0
+161,Ispanak,4.0
+161,Taze Fasulye,5.0
+161,Bamya,4.0
+161,Dana Rosto,5.0
+161,Pirinç Pilavı,4.0
+161,Patates Kızartması,5.0
+161,Bulgur Pilavı,4.0
+161,Cacık,5.0
+161,Çoban Salata,5.0
+161,Yoğurt,5.0
+161,Pırasa,4.0
+161,İrmik Helvası,4.0
+161,Turşu,4.0
+161,Sütlaç,5.0
+161,Kadayıf,5.0
+161,Kola,4.0
+161,Ayran,5.0
+161,Fanta,4.0
+161,Su,5.0
+162,Mercimek Çorbası,5.0
+162,Ezogelin Çorbası,4.0
+162,Şehriye Çorbası,3.0
+162,Yayla Çorbası,5.0
+162,Kuzu Etli Çorba,5.0
+162,Tas Kebabı,4.0
+162,Kuzu Şiş,5.0
+162,Kabak Graten,1.0
+162,Kabak Dolması,3.0
+162,Köfte,4.0
+162,Tavuk Biftek,3.0
+162,Tavuk Sote,3.0
+162,Karnıyarık,2.0
+162,Kuru Fasulye,5.0
+162,Patlıcan Musakka,1.0
+162,Bezelye,4.0
+162,Tavuk Kanat,4.0
+162,Nohut,5.0
+162,Türlü,4.0
+162,Ispanak,5.0
+162,Taze Fasulye,5.0
+162,Bamya,3.0
+162,Dana Rosto,4.0
+162,Pirinç Pilavı,4.0
+162,Patates Kızartması,2.0
+162,Bulgur Pilavı,4.0
+162,Cacık,4.0
+162,Çoban Salata,4.0
+162,Yoğurt,5.0
+162,Pırasa,4.0
+162,İrmik Helvası,4.0
+162,Turşu,4.0
+162,Sütlaç,5.0
+162,Kadayıf,4.0
+162,Kola,2.0
+162,Ayran,5.0
+162,Fanta,2.0
+162,Su,5.0
+163,Mercimek Çorbası,5.0
+163,Ezogelin Çorbası,3.0
+163,Şehriye Çorbası,3.0
+163,Yayla Çorbası,3.0
+163,Kuzu Etli Çorba,5.0
+163,Tas Kebabı,4.0
+163,Kuzu Şiş,5.0
+163,Kabak Graten,4.0
+163,Kabak Dolması,4.0
+163,Köfte,5.0
+163,Tavuk Biftek,4.0
+163,Tavuk Sote,5.0
+163,Karnıyarık,5.0
+163,Kuru Fasulye,5.0
+163,Patlıcan Musakka,5.0
+163,Bezelye,4.0
+163,Tavuk Kanat,4.0
+163,Nohut,5.0
+163,Türlü,4.0
+163,Ispanak,5.0
+163,Taze Fasulye,5.0
+163,Bamya,4.0
+163,Dana Rosto,4.0
+163,Pirinç Pilavı,5.0
+163,Patates Kızartması,5.0
+163,Bulgur Pilavı,5.0
+163,Cacık,5.0
+163,Çoban Salata,5.0
+163,Yoğurt,5.0
+163,Pırasa,4.0
+163,İrmik Helvası,3.0
+163,Turşu,5.0
+163,Sütlaç,5.0
+163,Kadayıf,5.0
+163,Kola,3.0
+163,Ayran,5.0
+163,Fanta,3.0
+163,Su,5.0
+164,Mercimek Çorbası,5.0
+164,Ezogelin Çorbası,5.0
+164,Şehriye Çorbası,1.0
+164,Yayla Çorbası,2.0
+164,Kuzu Etli Çorba,3.0
+164,Tas Kebabı,3.0
+164,Kuzu Şiş,5.0
+164,Kabak Graten,0
+164,Kabak Dolması,0
+164,Köfte,3.0
+164,Tavuk Biftek,3.0
+164,Tavuk Sote,3.0
+164,Karnıyarık,3.0
+164,Kuru Fasulye,5.0
+164,Patlıcan Musakka,2.0
+164,Bezelye,3.0
+164,Tavuk Kanat,5.0
+164,Nohut,3.0
+164,Türlü,3.0
+164,Ispanak,1.0
+164,Taze Fasulye,3.0
+164,Bamya,1.0
+164,Dana Rosto,5.0
+164,Pirinç Pilavı,5.0
+164,Patates Kızartması,5.0
+164,Bulgur Pilavı,5.0
+164,Cacık,3.0
+164,Çoban Salata,4.0
+164,Yoğurt,4.0
+164,Pırasa,1.0
+164,İrmik Helvası,3.0
+164,Turşu,1.0
+164,Sütlaç,5.0
+164,Kadayıf,5.0
+164,Kola,5.0
+164,Ayran,5.0
+164,Fanta,5.0
+164,Su,5.0
+165,Mercimek Çorbası,4.0
+165,Ezogelin Çorbası,4.0
+165,Şehriye Çorbası,3.0
+165,Yayla Çorbası,3.0
+165,Kuzu Etli Çorba,4.0
+165,Tas Kebabı,5.0
+165,Kuzu Şiş,5.0
+165,Kabak Graten,0
+165,Kabak Dolması,4.0
+165,Köfte,5.0
+165,Tavuk Biftek,5.0
+165,Tavuk Sote,5.0
+165,Karnıyarık,4.0
+165,Kuru Fasulye,4.0
+165,Patlıcan Musakka,4.0
+165,Bezelye,4.0
+165,Tavuk Kanat,5.0
+165,Nohut,4.0
+165,Türlü,4.0
+165,Ispanak,4.0
+165,Taze Fasulye,4.0
+165,Bamya,5.0
+165,Dana Rosto,5.0
+165,Pirinç Pilavı,4.0
+165,Patates Kızartması,4.0
+165,Bulgur Pilavı,3.0
+165,Cacık,4.0
+165,Çoban Salata,5.0
+165,Yoğurt,4.0
+165,Pırasa,5.0
+165,İrmik Helvası,1.0
+165,Turşu,5.0
+165,Sütlaç,4.0
+165,Kadayıf,4.0
+165,Kola,1.0
+165,Ayran,3.0
+165,Fanta,5.0
+165,Su,4.0
+166,Mercimek Çorbası,5.0
+166,Ezogelin Çorbası,3.0
+166,Şehriye Çorbası,4.0
+166,Yayla Çorbası,4.0
+166,Kuzu Etli Çorba,2.0
+166,Tas Kebabı,5.0
+166,Kuzu Şiş,5.0
+166,Kabak Graten,0
+166,Kabak Dolması,4.0
+166,Köfte,5.0
+166,Tavuk Biftek,5.0
+166,Tavuk Sote,5.0
+166,Karnıyarık,5.0
+166,Kuru Fasulye,5.0
+166,Patlıcan Musakka,4.0
+166,Bezelye,5.0
+166,Tavuk Kanat,5.0
+166,Nohut,5.0
+166,Türlü,4.0
+166,Ispanak,4.0
+166,Taze Fasulye,5.0
+166,Bamya,5.0
+166,Dana Rosto,0
+166,Pirinç Pilavı,5.0
+166,Patates Kızartması,5.0
+166,Bulgur Pilavı,5.0
+166,Cacık,5.0
+166,Çoban Salata,5.0
+166,Yoğurt,5.0
+166,Pırasa,5.0
+166,İrmik Helvası,5.0
+166,Turşu,5.0
+166,Sütlaç,5.0
+166,Kadayıf,5.0
+166,Kola,3.0
+166,Ayran,5.0
+166,Fanta,4.0
+166,Su,5.0
+167,Mercimek Çorbası,5.0
+167,Ezogelin Çorbası,3.0
+167,Şehriye Çorbası,4.0
+167,Yayla Çorbası,4.0
+167,Kuzu Etli Çorba,2.0
+167,Tas Kebabı,5.0
+167,Kuzu Şiş,5.0
+167,Kabak Graten,0
+167,Kabak Dolması,4.0
+167,Köfte,5.0
+167,Tavuk Biftek,5.0
+167,Tavuk Sote,5.0
+167,Karnıyarık,5.0
+167,Kuru Fasulye,5.0
+167,Patlıcan Musakka,4.0
+167,Bezelye,5.0
+167,Tavuk Kanat,5.0
+167,Nohut,5.0
+167,Türlü,4.0
+167,Ispanak,4.0
+167,Taze Fasulye,5.0
+167,Bamya,5.0
+167,Dana Rosto,0
+167,Pirinç Pilavı,5.0
+167,Patates Kızartması,5.0
+167,Bulgur Pilavı,5.0
+167,Cacık,5.0
+167,Çoban Salata,5.0
+167,Yoğurt,5.0
+167,Pırasa,5.0
+167,İrmik Helvası,5.0
+167,Turşu,5.0
+167,Sütlaç,5.0
+167,Kadayıf,5.0
+167,Kola,3.0
+167,Ayran,5.0
+167,Fanta,4.0
+167,Su,5.0
+168,Mercimek Çorbası,5.0
+168,Ezogelin Çorbası,4.0
+168,Şehriye Çorbası,4.0
+168,Yayla Çorbası,4.0
+168,Kuzu Etli Çorba,4.0
+168,Tas Kebabı,4.0
+168,Kuzu Şiş,5.0
+168,Kabak Graten,3.0
+168,Kabak Dolması,4.0
+168,Köfte,4.0
+168,Tavuk Biftek,4.0
+168,Tavuk Sote,4.0
+168,Karnıyarık,5.0
+168,Kuru Fasulye,5.0
+168,Patlıcan Musakka,5.0
+168,Bezelye,4.0
+168,Tavuk Kanat,4.0
+168,Nohut,5.0
+168,Türlü,4.0
+168,Ispanak,5.0
+168,Taze Fasulye,5.0
+168,Bamya,5.0
+168,Dana Rosto,5.0
+168,Pirinç Pilavı,4.0
+168,Patates Kızartması,3.0
+168,Bulgur Pilavı,5.0
+168,Cacık,5.0
+168,Çoban Salata,4.0
+168,Yoğurt,4.0
+168,Pırasa,3.0
+168,İrmik Helvası,4.0
+168,Turşu,4.0
+168,Sütlaç,5.0
+168,Kadayıf,5.0
+168,Kola,1.0
+168,Ayran,4.0
+168,Fanta,1.0
+168,Su,5.0
+169,Mercimek Çorbası,5.0
+169,Ezogelin Çorbası,3.0
+169,Şehriye Çorbası,3.0
+169,Yayla Çorbası,3.0
+169,Kuzu Etli Çorba,0
+169,Tas Kebabı,5.0
+169,Kuzu Şiş,5.0
+169,Kabak Graten,0
+169,Kabak Dolması,3.0
+169,Köfte,5.0
+169,Tavuk Biftek,5.0
+169,Tavuk Sote,5.0
+169,Karnıyarık,4.0
+169,Kuru Fasulye,5.0
+169,Patlıcan Musakka,3.0
+169,Bezelye,5.0
+169,Tavuk Kanat,5.0
+169,Nohut,4.0
+169,Türlü,3.0
+169,Ispanak,4.0
+169,Taze Fasulye,4.0
+169,Bamya,2.0
+169,Dana Rosto,5.0
+169,Pirinç Pilavı,5.0
+169,Patates Kızartması,5.0
+169,Bulgur Pilavı,5.0
+169,Cacık,5.0
+169,Çoban Salata,5.0
+169,Yoğurt,5.0
+169,Pırasa,4.0
+169,İrmik Helvası,5.0
+169,Turşu,5.0
+169,Sütlaç,4.0
+169,Kadayıf,5.0
+169,Kola,2.0
+169,Ayran,5.0
+169,Fanta,2.0
+169,Su,5.0
+170,Mercimek Çorbası,4.0
+170,Ezogelin Çorbası,5.0
+170,Şehriye Çorbası,3.0
+170,Yayla Çorbası,3.0
+170,Kuzu Etli Çorba,3.0
+170,Tas Kebabı,2.0
+170,Kuzu Şiş,4.0
+170,Kabak Graten,2.0
+170,Kabak Dolması,4.0
+170,Köfte,5.0
+170,Tavuk Biftek,5.0
+170,Tavuk Sote,5.0
+170,Karnıyarık,3.0
+170,Kuru Fasulye,4.0
+170,Patlıcan Musakka,3.0
+170,Bezelye,2.0
+170,Tavuk Kanat,4.0
+170,Nohut,3.0
+170,Türlü,3.0
+170,Ispanak,2.0
+170,Taze Fasulye,4.0
+170,Bamya,4.0
+170,Dana Rosto,4.0
+170,Pirinç Pilavı,4.0
+170,Patates Kızartması,5.0
+170,Bulgur Pilavı,2.0
+170,Cacık,5.0
+170,Çoban Salata,4.0
+170,Yoğurt,5.0
+170,Pırasa,2.0
+170,İrmik Helvası,5.0
+170,Turşu,5.0
+170,Sütlaç,3.0
+170,Kadayıf,3.0
+170,Kola,4.0
+170,Ayran,4.0
+170,Fanta,4.0
+170,Su,5.0
+171,Mercimek Çorbası,1.0
+171,Ezogelin Çorbası,1.0
+171,Şehriye Çorbası,1.0
+171,Yayla Çorbası,1.0
+171,Kuzu Etli Çorba,2.0
+171,Tas Kebabı,4.0
+171,Kuzu Şiş,5.0
+171,Kabak Graten,2.0
+171,Kabak Dolması,2.0
+171,Köfte,4.0
+171,Tavuk Biftek,5.0
+171,Tavuk Sote,4.0
+171,Karnıyarık,3.0
+171,Kuru Fasulye,2.0
+171,Patlıcan Musakka,2.0
+171,Bezelye,1.0
+171,Tavuk Kanat,4.0
+171,Nohut,1.0
+171,Türlü,1.0
+171,Ispanak,1.0
+171,Taze Fasulye,1.0
+171,Bamya,1.0
+171,Dana Rosto,5.0
+171,Pirinç Pilavı,5.0
+171,Patates Kızartması,4.0
+171,Bulgur Pilavı,4.0
+171,Cacık,4.0
+171,Çoban Salata,5.0
+171,Yoğurt,5.0
+171,Pırasa,1.0
+171,İrmik Helvası,1.0
+171,Turşu,2.0
+171,Sütlaç,2.0
+171,Kadayıf,3.0
+171,Kola,5.0
+171,Ayran,4.0
+171,Fanta,2.0
+171,Su,5.0
+172,Mercimek Çorbası,4.0
+172,Ezogelin Çorbası,3.0
+172,Şehriye Çorbası,1.0
+172,Yayla Çorbası,5.0
+172,Kuzu Etli Çorba,4.0
+172,Tas Kebabı,5.0
+172,Kuzu Şiş,5.0
+172,Kabak Graten,0
+172,Kabak Dolması,1.0
+172,Köfte,5.0
+172,Tavuk Biftek,5.0
+172,Tavuk Sote,5.0
+172,Karnıyarık,5.0
+172,Kuru Fasulye,4.0
+172,Patlıcan Musakka,4.0
+172,Bezelye,4.0
+172,Tavuk Kanat,3.0
+172,Nohut,3.0
+172,Türlü,4.0
+172,Ispanak,4.0
+172,Taze Fasulye,2.0
+172,Bamya,1.0
+172,Dana Rosto,5.0
+172,Pirinç Pilavı,5.0
+172,Patates Kızartması,5.0
+172,Bulgur Pilavı,5.0
+172,Cacık,5.0
+172,Çoban Salata,4.0
+172,Yoğurt,5.0
+172,Pırasa,1.0
+172,İrmik Helvası,3.0
+172,Turşu,4.0
+172,Sütlaç,5.0
+172,Kadayıf,5.0
+172,Kola,4.0
+172,Ayran,5.0
+172,Fanta,3.0
+172,Su,2.0
+173,Mercimek Çorbası,4.0
+173,Ezogelin Çorbası,5.0
+173,Şehriye Çorbası,3.0
+173,Yayla Çorbası,3.0
+173,Kuzu Etli Çorba,3.0
+173,Tas Kebabı,2.0
+173,Kuzu Şiş,4.0
+173,Kabak Graten,2.0
+173,Kabak Dolması,4.0
+173,Köfte,5.0
+173,Tavuk Biftek,5.0
+173,Tavuk Sote,5.0
+173,Karnıyarık,3.0
+173,Kuru Fasulye,4.0
+173,Patlıcan Musakka,3.0
+173,Bezelye,2.0
+173,Tavuk Kanat,4.0
+173,Nohut,3.0
+173,Türlü,3.0
+173,Ispanak,2.0
+173,Taze Fasulye,4.0
+173,Bamya,4.0
+173,Dana Rosto,4.0
+173,Pirinç Pilavı,4.0
+173,Patates Kızartması,5.0
+173,Bulgur Pilavı,2.0
+173,Cacık,5.0
+173,Çoban Salata,4.0
+173,Yoğurt,5.0
+173,Pırasa,2.0
+173,İrmik Helvası,5.0
+173,Turşu,5.0
+173,Sütlaç,3.0
+173,Kadayıf,3.0
+173,Kola,4.0
+173,Ayran,4.0
+173,Fanta,4.0
+173,Su,5.0
+174,Mercimek Çorbası,5.0
+174,Ezogelin Çorbası,5.0
+174,Şehriye Çorbası,5.0
+174,Yayla Çorbası,5.0
+174,Kuzu Etli Çorba,0
+174,Tas Kebabı,5.0
+174,Kuzu Şiş,5.0
+174,Kabak Graten,0
+174,Kabak Dolması,5.0
+174,Köfte,5.0
+174,Tavuk Biftek,4.0
+174,Tavuk Sote,4.0
+174,Karnıyarık,5.0
+174,Kuru Fasulye,5.0
+174,Patlıcan Musakka,5.0
+174,Bezelye,4.0
+174,Tavuk Kanat,5.0
+174,Nohut,4.0
+174,Türlü,4.0
+174,Ispanak,4.0
+174,Taze Fasulye,5.0
+174,Bamya,5.0
+174,Dana Rosto,4.0
+174,Pirinç Pilavı,5.0
+174,Patates Kızartması,5.0
+174,Bulgur Pilavı,4.0
+174,Cacık,5.0
+174,Çoban Salata,5.0
+174,Yoğurt,4.0
+174,Pırasa,4.0
+174,İrmik Helvası,4.0
+174,Turşu,5.0
+174,Sütlaç,4.0
+174,Kadayıf,5.0
+174,Kola,3.0
+174,Ayran,5.0
+174,Fanta,3.0
+174,Su,5.0
+175,Mercimek Çorbası,5.0
+175,Ezogelin Çorbası,5.0
+175,Şehriye Çorbası,3.0
+175,Yayla Çorbası,5.0
+175,Kuzu Etli Çorba,5.0
+175,Tas Kebabı,5.0
+175,Kuzu Şiş,5.0
+175,Kabak Graten,3.0
+175,Kabak Dolması,3.0
+175,Köfte,5.0
+175,Tavuk Biftek,4.0
+175,Tavuk Sote,4.0
+175,Karnıyarık,5.0
+175,Kuru Fasulye,4.0
+175,Patlıcan Musakka,5.0
+175,Bezelye,3.0
+175,Tavuk Kanat,5.0
+175,Nohut,4.0
+175,Türlü,3.0
+175,Ispanak,4.0
+175,Taze Fasulye,3.0
+175,Bamya,4.0
+175,Dana Rosto,4.0
+175,Pirinç Pilavı,5.0
+175,Patates Kızartması,4.0
+175,Bulgur Pilavı,4.0
+175,Cacık,5.0
+175,Çoban Salata,4.0
+175,Yoğurt,4.0
+175,Pırasa,4.0
+175,İrmik Helvası,5.0
+175,Turşu,4.0
+175,Sütlaç,5.0
+175,Kadayıf,5.0
+175,Kola,1.0
+175,Ayran,5.0
+175,Fanta,2.0
+175,Su,5.0
+176,Mercimek Çorbası,5.0
+176,Ezogelin Çorbası,4.0
+176,Şehriye Çorbası,3.0
+176,Yayla Çorbası,4.0
+176,Kuzu Etli Çorba,2.0
+176,Tas Kebabı,4.0
+176,Kuzu Şiş,5.0
+176,Kabak Graten,0
+176,Kabak Dolması,2.0
+176,Köfte,5.0
+176,Tavuk Biftek,5.0
+176,Tavuk Sote,4.0
+176,Karnıyarık,5.0
+176,Kuru Fasulye,5.0
+176,Patlıcan Musakka,5.0
+176,Bezelye,4.0
+176,Tavuk Kanat,5.0
+176,Nohut,5.0
+176,Türlü,5.0
+176,Ispanak,4.0
+176,Taze Fasulye,5.0
+176,Bamya,4.0
+176,Dana Rosto,4.0
+176,Pirinç Pilavı,5.0
+176,Patates Kızartması,5.0
+176,Bulgur Pilavı,5.0
+176,Cacık,5.0
+176,Çoban Salata,5.0
+176,Yoğurt,5.0
+176,Pırasa,4.0
+176,İrmik Helvası,5.0
+176,Turşu,5.0
+176,Sütlaç,5.0
+176,Kadayıf,5.0
+176,Kola,3.0
+176,Ayran,5.0
+176,Fanta,2.0
+176,Su,5.0
+177,Mercimek Çorbası,1.0
+177,Ezogelin Çorbası,1.0
+177,Şehriye Çorbası,1.0
+177,Yayla Çorbası,1.0
+177,Kuzu Etli Çorba,0
+177,Tas Kebabı,0
+177,Kuzu Şiş,0
+177,Kabak Graten,0
+177,Kabak Dolması,0
+177,Köfte,0
+177,Tavuk Biftek,0
+177,Tavuk Sote,0
+177,Karnıyarık,0
+177,Kuru Fasulye,0
+177,Patlıcan Musakka,0
+177,Bezelye,0
+177,Tavuk Kanat,0
+177,Nohut,0
+177,Türlü,0
+177,Ispanak,0
+177,Taze Fasulye,0
+177,Bamya,0
+177,Dana Rosto,0
+177,Pirinç Pilavı,4.0
+177,Patates Kızartması,4.0
+177,Bulgur Pilavı,1.0
+177,Cacık,4.0
+177,Çoban Salata,4.0
+177,Yoğurt,1.0
+177,Pırasa,0
+177,İrmik Helvası,0
+177,Turşu,3.0
+177,Sütlaç,0
+177,Kadayıf,1.0
+177,Kola,0
+177,Ayran,4.0
+177,Fanta,0
+177,Su,3.0
+178,Mercimek Çorbası,5.0
+178,Ezogelin Çorbası,3.0
+178,Şehriye Çorbası,3.0
+178,Yayla Çorbası,2.0
+178,Kuzu Etli Çorba,4.0
+178,Tas Kebabı,4.0
+178,Kuzu Şiş,5.0
+178,Kabak Graten,4.0
+178,Kabak Dolması,3.0
+178,Köfte,5.0
+178,Tavuk Biftek,5.0
+178,Tavuk Sote,5.0
+178,Karnıyarık,5.0
+178,Kuru Fasulye,5.0
+178,Patlıcan Musakka,5.0
+178,Bezelye,3.0
+178,Tavuk Kanat,5.0
+178,Nohut,4.0
+178,Türlü,3.0
+178,Ispanak,4.0
+178,Taze Fasulye,4.0
+178,Bamya,4.0
+178,Dana Rosto,3.0
+178,Pirinç Pilavı,5.0
+178,Patates Kızartması,5.0
+178,Bulgur Pilavı,4.0
+178,Cacık,5.0
+178,Çoban Salata,5.0
+178,Yoğurt,5.0
+178,Pırasa,3.0
+178,İrmik Helvası,5.0
+178,Turşu,4.0
+178,Sütlaç,5.0
+178,Kadayıf,5.0
+178,Kola,3.0
+178,Ayran,5.0
+178,Fanta,3.0
+178,Su,5.0
+179,Mercimek Çorbası,5.0
+179,Ezogelin Çorbası,5.0
+179,Şehriye Çorbası,4.0
+179,Yayla Çorbası,5.0
+179,Kuzu Etli Çorba,0
+179,Tas Kebabı,5.0
+179,Kuzu Şiş,4.0
+179,Kabak Graten,0
+179,Kabak Dolması,2.0
+179,Köfte,5.0
+179,Tavuk Biftek,5.0
+179,Tavuk Sote,5.0
+179,Karnıyarık,5.0
+179,Kuru Fasulye,5.0
+179,Patlıcan Musakka,3.0
+179,Bezelye,2.0
+179,Tavuk Kanat,1.0
+179,Nohut,3.0
+179,Türlü,1.0
+179,Ispanak,4.0
+179,Taze Fasulye,4.0
+179,Bamya,3.0
+179,Dana Rosto,5.0
+179,Pirinç Pilavı,4.0
+179,Patates Kızartması,3.0
+179,Bulgur Pilavı,5.0
+179,Cacık,4.0
+179,Çoban Salata,3.0
+179,Yoğurt,4.0
+179,Pırasa,1.0
+179,İrmik Helvası,3.0
+179,Turşu,2.0
+179,Sütlaç,4.0
+179,Kadayıf,5.0
+179,Kola,1.0
+179,Ayran,4.0
+179,Fanta,1.0
+179,Su,5.0
+180,Mercimek Çorbası,5.0
+180,Ezogelin Çorbası,3.0
+180,Şehriye Çorbası,4.0
+180,Yayla Çorbası,5.0
+180,Kuzu Etli Çorba,4.0
+180,Tas Kebabı,5.0
+180,Kuzu Şiş,5.0
+180,Kabak Graten,3.0
+180,Kabak Dolması,5.0
+180,Köfte,4.0
+180,Tavuk Biftek,4.0
+180,Tavuk Sote,4.0
+180,Karnıyarık,5.0
+180,Kuru Fasulye,4.0
+180,Patlıcan Musakka,5.0
+180,Bezelye,5.0
+180,Tavuk Kanat,4.0
+180,Nohut,5.0
+180,Türlü,5.0
+180,Ispanak,4.0
+180,Taze Fasulye,5.0
+180,Bamya,4.0
+180,Dana Rosto,0
+180,Pirinç Pilavı,4.0
+180,Patates Kızartması,4.0
+180,Bulgur Pilavı,4.0
+180,Cacık,5.0
+180,Çoban Salata,4.0
+180,Yoğurt,5.0
+180,Pırasa,5.0
+180,İrmik Helvası,4.0
+180,Turşu,5.0
+180,Sütlaç,5.0
+180,Kadayıf,3.0
+180,Kola,3.0
+180,Ayran,4.0
+180,Fanta,1.0
+180,Su,5.0
+181,Mercimek Çorbası,4.0
+181,Ezogelin Çorbası,4.0
+181,Şehriye Çorbası,3.0
+181,Yayla Çorbası,3.0
+181,Kuzu Etli Çorba,4.0
+181,Tas Kebabı,5.0
+181,Kuzu Şiş,5.0
+181,Kabak Graten,0
+181,Kabak Dolması,4.0
+181,Köfte,5.0
+181,Tavuk Biftek,5.0
+181,Tavuk Sote,5.0
+181,Karnıyarık,4.0
+181,Kuru Fasulye,4.0
+181,Patlıcan Musakka,4.0
+181,Bezelye,4.0
+181,Tavuk Kanat,5.0
+181,Nohut,4.0
+181,Türlü,4.0
+181,Ispanak,4.0
+181,Taze Fasulye,4.0
+181,Bamya,5.0
+181,Dana Rosto,5.0
+181,Pirinç Pilavı,4.0
+181,Patates Kızartması,4.0
+181,Bulgur Pilavı,3.0
+181,Cacık,4.0
+181,Çoban Salata,5.0
+181,Yoğurt,4.0
+181,Pırasa,5.0
+181,İrmik Helvası,1.0
+181,Turşu,5.0
+181,Sütlaç,4.0
+181,Kadayıf,4.0
+181,Kola,1.0
+181,Ayran,3.0
+181,Fanta,5.0
+181,Su,4.0
+182,Mercimek Çorbası,5.0
+182,Ezogelin Çorbası,4.0
+182,Şehriye Çorbası,3.0
+182,Yayla Çorbası,2.0
+182,Kuzu Etli Çorba,5.0
+182,Tas Kebabı,5.0
+182,Kuzu Şiş,5.0
+182,Kabak Graten,0
+182,Kabak Dolması,3.0
+182,Köfte,4.0
+182,Tavuk Biftek,4.0
+182,Tavuk Sote,4.0
+182,Karnıyarık,4.0
+182,Kuru Fasulye,4.0
+182,Patlıcan Musakka,4.0
+182,Bezelye,3.0
+182,Tavuk Kanat,4.0
+182,Nohut,3.0
+182,Türlü,3.0
+182,Ispanak,2.0
+182,Taze Fasulye,2.0
+182,Bamya,1.0
+182,Dana Rosto,4.0
+182,Pirinç Pilavı,5.0
+182,Patates Kızartması,5.0
+182,Bulgur Pilavı,3.0
+182,Cacık,5.0
+182,Çoban Salata,4.0
+182,Yoğurt,5.0
+182,Pırasa,1.0
+182,İrmik Helvası,4.0
+182,Turşu,5.0
+182,Sütlaç,4.0
+182,Kadayıf,5.0
+182,Kola,5.0
+182,Ayran,5.0
+182,Fanta,5.0
+182,Su,5.0
+183,Mercimek Çorbası,5.0
+183,Ezogelin Çorbası,3.0
+183,Şehriye Çorbası,4.0
+183,Yayla Çorbası,3.0
+183,Kuzu Etli Çorba,5.0
+183,Tas Kebabı,3.0
+183,Kuzu Şiş,4.0
+183,Kabak Graten,0
+183,Kabak Dolması,3.0
+183,Köfte,4.0
+183,Tavuk Biftek,4.0
+183,Tavuk Sote,4.0
+183,Karnıyarık,4.0
+183,Kuru Fasulye,4.0
+183,Patlıcan Musakka,5.0
+183,Bezelye,5.0
+183,Tavuk Kanat,4.0
+183,Nohut,5.0
+183,Türlü,4.0
+183,Ispanak,3.0
+183,Taze Fasulye,5.0
+183,Bamya,5.0
+183,Dana Rosto,3.0
+183,Pirinç Pilavı,4.0
+183,Patates Kızartması,5.0
+183,Bulgur Pilavı,5.0
+183,Cacık,5.0
+183,Çoban Salata,5.0
+183,Yoğurt,4.0
+183,Pırasa,4.0
+183,İrmik Helvası,4.0
+183,Turşu,5.0
+183,Sütlaç,4.0
+183,Kadayıf,4.0
+183,Kola,3.0
+183,Ayran,4.0
+183,Fanta,4.0
+183,Su,5.0
+184,Mercimek Çorbası,5.0
+184,Ezogelin Çorbası,4.0
+184,Şehriye Çorbası,2.0
+184,Yayla Çorbası,1.0
+184,Kuzu Etli Çorba,3.0
+184,Tas Kebabı,4.0
+184,Kuzu Şiş,5.0
+184,Kabak Graten,3.0
+184,Kabak Dolması,4.0
+184,Köfte,4.0
+184,Tavuk Biftek,2.0
+184,Tavuk Sote,2.0
+184,Karnıyarık,4.0
+184,Kuru Fasulye,5.0
+184,Patlıcan Musakka,2.0
+184,Bezelye,5.0
+184,Tavuk Kanat,2.0
+184,Nohut,5.0
+184,Türlü,5.0
+184,Ispanak,5.0
+184,Taze Fasulye,5.0
+184,Bamya,5.0
+184,Dana Rosto,3.0
+184,Pirinç Pilavı,2.0
+184,Patates Kızartması,2.0
+184,Bulgur Pilavı,4.0
+184,Cacık,4.0
+184,Çoban Salata,5.0
+184,Yoğurt,5.0
+184,Pırasa,5.0
+184,İrmik Helvası,5.0
+184,Turşu,5.0
+184,Sütlaç,5.0
+184,Kadayıf,2.0
+184,Kola,1.0
+184,Ayran,4.0
+184,Fanta,1.0
+184,Su,5.0
+185,Mercimek Çorbası,5.0
+185,Ezogelin Çorbası,5.0
+185,Şehriye Çorbası,5.0
+185,Yayla Çorbası,5.0
+185,Kuzu Etli Çorba,0
+185,Tas Kebabı,5.0
+185,Kuzu Şiş,5.0
+185,Kabak Graten,2.0
+185,Kabak Dolması,2.0
+185,Köfte,5.0
+185,Tavuk Biftek,5.0
+185,Tavuk Sote,5.0
+185,Karnıyarık,5.0
+185,Kuru Fasulye,5.0
+185,Patlıcan Musakka,5.0
+185,Bezelye,5.0
+185,Tavuk Kanat,5.0
+185,Nohut,5.0
+185,Türlü,5.0
+185,Ispanak,5.0
+185,Taze Fasulye,5.0
+185,Bamya,5.0
+185,Dana Rosto,5.0
+185,Pirinç Pilavı,5.0
+185,Patates Kızartması,5.0
+185,Bulgur Pilavı,5.0
+185,Cacık,5.0
+185,Çoban Salata,5.0
+185,Yoğurt,5.0
+185,Pırasa,5.0
+185,İrmik Helvası,5.0
+185,Turşu,5.0
+185,Sütlaç,5.0
+185,Kadayıf,5.0
+185,Kola,1.0
+185,Ayran,5.0
+185,Fanta,1.0
+185,Su,5.0
+186,Mercimek Çorbası,5.0
+186,Ezogelin Çorbası,5.0
+186,Şehriye Çorbası,3.0
+186,Yayla Çorbası,5.0
+186,Kuzu Etli Çorba,5.0
+186,Tas Kebabı,5.0
+186,Kuzu Şiş,5.0
+186,Kabak Graten,2.0
+186,Kabak Dolması,2.0
+186,Köfte,5.0
+186,Tavuk Biftek,5.0
+186,Tavuk Sote,5.0
+186,Karnıyarık,5.0
+186,Kuru Fasulye,5.0
+186,Patlıcan Musakka,5.0
+186,Bezelye,3.0
+186,Tavuk Kanat,5.0
+186,Nohut,5.0
+186,Türlü,4.0
+186,Ispanak,3.0
+186,Taze Fasulye,3.0
+186,Bamya,1.0
+186,Dana Rosto,5.0
+186,Pirinç Pilavı,5.0
+186,Patates Kızartması,2.0
+186,Bulgur Pilavı,5.0
+186,Cacık,5.0
+186,Çoban Salata,5.0
+186,Yoğurt,5.0
+186,Pırasa,1.0
+186,İrmik Helvası,5.0
+186,Turşu,3.0
+186,Sütlaç,4.0
+186,Kadayıf,5.0
+186,Kola,3.0
+186,Ayran,5.0
+186,Fanta,2.0
+186,Su,5.0
+187,Mercimek Çorbası,5.0
+187,Ezogelin Çorbası,4.0
+187,Şehriye Çorbası,4.0
+187,Yayla Çorbası,5.0
+187,Kuzu Etli Çorba,2.0
+187,Tas Kebabı,5.0
+187,Kuzu Şiş,2.0
+187,Kabak Graten,4.0
+187,Kabak Dolması,1.0
+187,Köfte,5.0
+187,Tavuk Biftek,4.0
+187,Tavuk Sote,5.0
+187,Karnıyarık,3.0
+187,Kuru Fasulye,5.0
+187,Patlıcan Musakka,3.0
+187,Bezelye,1.0
+187,Tavuk Kanat,4.0
+187,Nohut,5.0
+187,Türlü,1.0
+187,Ispanak,3.0
+187,Taze Fasulye,3.0
+187,Bamya,3.0
+187,Dana Rosto,5.0
+187,Pirinç Pilavı,5.0
+187,Patates Kızartması,4.0
+187,Bulgur Pilavı,4.0
+187,Cacık,3.0
+187,Çoban Salata,2.0
+187,Yoğurt,3.0
+187,Pırasa,1.0
+187,İrmik Helvası,4.0
+187,Turşu,5.0
+187,Sütlaç,4.0
+187,Kadayıf,5.0
+187,Kola,5.0
+187,Ayran,3.0
+187,Fanta,3.0
+187,Su,2.0
+188,Mercimek Çorbası,5.0
+188,Ezogelin Çorbası,5.0
+188,Şehriye Çorbası,4.0
+188,Yayla Çorbası,5.0
+188,Kuzu Etli Çorba,5.0
+188,Tas Kebabı,4.0
+188,Kuzu Şiş,4.0
+188,Kabak Graten,4.0
+188,Kabak Dolması,4.0
+188,Köfte,5.0
+188,Tavuk Biftek,5.0
+188,Tavuk Sote,5.0
+188,Karnıyarık,5.0
+188,Kuru Fasulye,5.0
+188,Patlıcan Musakka,4.0
+188,Bezelye,4.0
+188,Tavuk Kanat,5.0
+188,Nohut,4.0
+188,Türlü,4.0
+188,Ispanak,3.0
+188,Taze Fasulye,5.0
+188,Bamya,4.0
+188,Dana Rosto,5.0
+188,Pirinç Pilavı,5.0
+188,Patates Kızartması,5.0
+188,Bulgur Pilavı,4.0
+188,Cacık,5.0
+188,Çoban Salata,5.0
+188,Yoğurt,5.0
+188,Pırasa,3.0
+188,İrmik Helvası,5.0
+188,Turşu,5.0
+188,Sütlaç,5.0
+188,Kadayıf,5.0
+188,Kola,2.0
+188,Ayran,5.0
+188,Fanta,2.0
+188,Su,5.0
+189,Mercimek Çorbası,5.0
+189,Ezogelin Çorbası,3.0
+189,Şehriye Çorbası,4.0
+189,Yayla Çorbası,3.0
+189,Kuzu Etli Çorba,5.0
+189,Tas Kebabı,3.0
+189,Kuzu Şiş,4.0
+189,Kabak Graten,0
+189,Kabak Dolması,3.0
+189,Köfte,4.0
+189,Tavuk Biftek,4.0
+189,Tavuk Sote,4.0
+189,Karnıyarık,4.0
+189,Kuru Fasulye,4.0
+189,Patlıcan Musakka,5.0
+189,Bezelye,5.0
+189,Tavuk Kanat,4.0
+189,Nohut,5.0
+189,Türlü,4.0
+189,Ispanak,3.0
+189,Taze Fasulye,5.0
+189,Bamya,5.0
+189,Dana Rosto,3.0
+189,Pirinç Pilavı,4.0
+189,Patates Kızartması,5.0
+189,Bulgur Pilavı,5.0
+189,Cacık,5.0
+189,Çoban Salata,5.0
+189,Yoğurt,4.0
+189,Pırasa,4.0
+189,İrmik Helvası,4.0
+189,Turşu,5.0
+189,Sütlaç,4.0
+189,Kadayıf,4.0
+189,Kola,3.0
+189,Ayran,4.0
+189,Fanta,4.0
+189,Su,5.0
+190,Mercimek Çorbası,5.0
+190,Ezogelin Çorbası,5.0
+190,Şehriye Çorbası,5.0
+190,Yayla Çorbası,3.0
+190,Kuzu Etli Çorba,0
+190,Tas Kebabı,3.0
+190,Kuzu Şiş,4.0
+190,Kabak Graten,2.0
+190,Kabak Dolması,3.0
+190,Köfte,5.0
+190,Tavuk Biftek,5.0
+190,Tavuk Sote,5.0
+190,Karnıyarık,5.0
+190,Kuru Fasulye,2.0
+190,Patlıcan Musakka,4.0
+190,Bezelye,3.0
+190,Tavuk Kanat,5.0
+190,Nohut,3.0
+190,Türlü,5.0
+190,Ispanak,2.0
+190,Taze Fasulye,1.0
+190,Bamya,5.0
+190,Dana Rosto,5.0
+190,Pirinç Pilavı,5.0
+190,Patates Kızartması,5.0
+190,Bulgur Pilavı,5.0
+190,Cacık,5.0
+190,Çoban Salata,5.0
+190,Yoğurt,5.0
+190,Pırasa,3.0
+190,İrmik Helvası,5.0
+190,Turşu,5.0
+190,Sütlaç,5.0
+190,Kadayıf,5.0
+190,Kola,3.0
+190,Ayran,5.0
+190,Fanta,5.0
+190,Su,5.0
+191,Mercimek Çorbası,5.0
+191,Ezogelin Çorbası,5.0
+191,Şehriye Çorbası,5.0
+191,Yayla Çorbası,5.0
+191,Kuzu Etli Çorba,5.0
+191,Tas Kebabı,3.0
+191,Kuzu Şiş,5.0
+191,Kabak Graten,0
+191,Kabak Dolması,5.0
+191,Köfte,5.0
+191,Tavuk Biftek,4.0
+191,Tavuk Sote,5.0
+191,Karnıyarık,5.0
+191,Kuru Fasulye,5.0
+191,Patlıcan Musakka,5.0
+191,Bezelye,0
+191,Tavuk Kanat,5.0
+191,Nohut,5.0
+191,Türlü,0
+191,Ispanak,5.0
+191,Taze Fasulye,3.0
+191,Bamya,5.0
+191,Dana Rosto,5.0
+191,Pirinç Pilavı,1.0
+191,Patates Kızartması,1.0
+191,Bulgur Pilavı,5.0
+191,Cacık,5.0
+191,Çoban Salata,5.0
+191,Yoğurt,5.0
+191,Pırasa,5.0
+191,İrmik Helvası,5.0
+191,Turşu,5.0
+191,Sütlaç,5.0
+191,Kadayıf,5.0
+191,Kola,1.0
+191,Ayran,5.0
+191,Fanta,1.0
+191,Su,5.0
+192,Mercimek Çorbası,5.0
+192,Ezogelin Çorbası,4.0
+192,Şehriye Çorbası,3.0
+192,Yayla Çorbası,2.0
+192,Kuzu Etli Çorba,5.0
+192,Tas Kebabı,5.0
+192,Kuzu Şiş,5.0
+192,Kabak Graten,0
+192,Kabak Dolması,3.0
+192,Köfte,4.0
+192,Tavuk Biftek,4.0
+192,Tavuk Sote,4.0
+192,Karnıyarık,4.0
+192,Kuru Fasulye,4.0
+192,Patlıcan Musakka,4.0
+192,Bezelye,3.0
+192,Tavuk Kanat,4.0
+192,Nohut,3.0
+192,Türlü,3.0
+192,Ispanak,2.0
+192,Taze Fasulye,2.0
+192,Bamya,1.0
+192,Dana Rosto,4.0
+192,Pirinç Pilavı,5.0
+192,Patates Kızartması,5.0
+192,Bulgur Pilavı,3.0
+192,Cacık,5.0
+192,Çoban Salata,4.0
+192,Yoğurt,5.0
+192,Pırasa,1.0
+192,İrmik Helvası,4.0
+192,Turşu,5.0
+192,Sütlaç,4.0
+192,Kadayıf,5.0
+192,Kola,5.0
+192,Ayran,5.0
+192,Fanta,5.0
+192,Su,5.0
+193,Mercimek Çorbası,5.0
+193,Ezogelin Çorbası,4.0
+193,Şehriye Çorbası,3.0
+193,Yayla Çorbası,4.0
+193,Kuzu Etli Çorba,1.0
+193,Tas Kebabı,3.0
+193,Kuzu Şiş,5.0
+193,Kabak Graten,5.0
+193,Kabak Dolması,5.0
+193,Köfte,5.0
+193,Tavuk Biftek,5.0
+193,Tavuk Sote,5.0
+193,Karnıyarık,4.0
+193,Kuru Fasulye,4.0
+193,Patlıcan Musakka,3.0
+193,Bezelye,5.0
+193,Tavuk Kanat,5.0
+193,Nohut,3.0
+193,Türlü,2.0
+193,Ispanak,4.0
+193,Taze Fasulye,5.0
+193,Bamya,1.0
+193,Dana Rosto,3.0
+193,Pirinç Pilavı,4.0
+193,Patates Kızartması,5.0
+193,Bulgur Pilavı,3.0
+193,Cacık,5.0
+193,Çoban Salata,3.0
+193,Yoğurt,5.0
+193,Pırasa,4.0
+193,İrmik Helvası,4.0
+193,Turşu,5.0
+193,Sütlaç,4.0
+193,Kadayıf,4.0
+193,Kola,4.0
+193,Ayran,4.0
+193,Fanta,2.0
+193,Su,5.0
+194,Mercimek Çorbası,5.0
+194,Ezogelin Çorbası,5.0
+194,Şehriye Çorbası,1.0
+194,Yayla Çorbası,1.0
+194,Kuzu Etli Çorba,0
+194,Tas Kebabı,5.0
+194,Kuzu Şiş,5.0
+194,Kabak Graten,3.0
+194,Kabak Dolması,3.0
+194,Köfte,4.0
+194,Tavuk Biftek,4.0
+194,Tavuk Sote,3.0
+194,Karnıyarık,3.0
+194,Kuru Fasulye,5.0
+194,Patlıcan Musakka,3.0
+194,Bezelye,3.0
+194,Tavuk Kanat,3.0
+194,Nohut,5.0
+194,Türlü,3.0
+194,Ispanak,4.0
+194,Taze Fasulye,5.0
+194,Bamya,5.0
+194,Dana Rosto,5.0
+194,Pirinç Pilavı,5.0
+194,Patates Kızartması,4.0
+194,Bulgur Pilavı,4.0
+194,Cacık,5.0
+194,Çoban Salata,5.0
+194,Yoğurt,5.0
+194,Pırasa,4.0
+194,İrmik Helvası,4.0
+194,Turşu,5.0
+194,Sütlaç,4.0
+194,Kadayıf,5.0
+194,Kola,1.0
+194,Ayran,5.0
+194,Fanta,3.0
+194,Su,5.0
+195,Mercimek Çorbası,4.0
+195,Ezogelin Çorbası,4.0
+195,Şehriye Çorbası,4.0
+195,Yayla Çorbası,3.0
+195,Kuzu Etli Çorba,3.0
+195,Tas Kebabı,4.0
+195,Kuzu Şiş,5.0
+195,Kabak Graten,3.0
+195,Kabak Dolması,3.0
+195,Köfte,5.0
+195,Tavuk Biftek,3.0
+195,Tavuk Sote,3.0
+195,Karnıyarık,4.0
+195,Kuru Fasulye,2.0
+195,Patlıcan Musakka,2.0
+195,Bezelye,5.0
+195,Tavuk Kanat,3.0
+195,Nohut,3.0
+195,Türlü,2.0
+195,Ispanak,3.0
+195,Taze Fasulye,3.0
+195,Bamya,1.0
+195,Dana Rosto,2.0
+195,Pirinç Pilavı,4.0
+195,Patates Kızartması,5.0
+195,Bulgur Pilavı,4.0
+195,Cacık,4.0
+195,Çoban Salata,5.0
+195,Yoğurt,5.0
+195,Pırasa,1.0
+195,İrmik Helvası,2.0
+195,Turşu,5.0
+195,Sütlaç,3.0
+195,Kadayıf,3.0
+195,Kola,4.0
+195,Ayran,3.0
+195,Fanta,2.0
+195,Su,5.0
+196,Mercimek Çorbası,5.0
+196,Ezogelin Çorbası,3.0
+196,Şehriye Çorbası,4.0
+196,Yayla Çorbası,3.0
+196,Kuzu Etli Çorba,5.0
+196,Tas Kebabı,3.0
+196,Kuzu Şiş,4.0
+196,Kabak Graten,0
+196,Kabak Dolması,3.0
+196,Köfte,4.0
+196,Tavuk Biftek,4.0
+196,Tavuk Sote,4.0
+196,Karnıyarık,4.0
+196,Kuru Fasulye,4.0
+196,Patlıcan Musakka,5.0
+196,Bezelye,5.0
+196,Tavuk Kanat,4.0
+196,Nohut,5.0
+196,Türlü,4.0
+196,Ispanak,3.0
+196,Taze Fasulye,5.0
+196,Bamya,5.0
+196,Dana Rosto,3.0
+196,Pirinç Pilavı,4.0
+196,Patates Kızartması,5.0
+196,Bulgur Pilavı,5.0
+196,Cacık,5.0
+196,Çoban Salata,5.0
+196,Yoğurt,4.0
+196,Pırasa,4.0
+196,İrmik Helvası,4.0
+196,Turşu,5.0
+196,Sütlaç,4.0
+196,Kadayıf,4.0
+196,Kola,3.0
+196,Ayran,4.0
+196,Fanta,4.0
+196,Su,5.0
+197,Mercimek Çorbası,4.0
+197,Ezogelin Çorbası,4.0
+197,Şehriye Çorbası,3.0
+197,Yayla Çorbası,3.0
+197,Kuzu Etli Çorba,5.0
+197,Tas Kebabı,5.0
+197,Kuzu Şiş,2.0
+197,Kabak Graten,2.0
+197,Kabak Dolması,1.0
+197,Köfte,4.0
+197,Tavuk Biftek,3.0
+197,Tavuk Sote,3.0
+197,Karnıyarık,3.0
+197,Kuru Fasulye,2.0
+197,Patlıcan Musakka,3.0
+197,Bezelye,1.0
+197,Tavuk Kanat,3.0
+197,Nohut,3.0
+197,Türlü,2.0
+197,Ispanak,1.0
+197,Taze Fasulye,1.0
+197,Bamya,1.0
+197,Dana Rosto,4.0
+197,Pirinç Pilavı,3.0
+197,Patates Kızartması,3.0
+197,Bulgur Pilavı,5.0
+197,Cacık,5.0
+197,Çoban Salata,5.0
+197,Yoğurt,4.0
+197,Pırasa,1.0
+197,İrmik Helvası,4.0
+197,Turşu,3.0
+197,Sütlaç,5.0
+197,Kadayıf,4.0
+197,Kola,2.0
+197,Ayran,5.0
+197,Fanta,1.0
+197,Su,4.0
+198,Mercimek Çorbası,5.0
+198,Ezogelin Çorbası,5.0
+198,Şehriye Çorbası,3.0
+198,Yayla Çorbası,5.0
+198,Kuzu Etli Çorba,5.0
+198,Tas Kebabı,5.0
+198,Kuzu Şiş,5.0
+198,Kabak Graten,2.0
+198,Kabak Dolması,2.0
+198,Köfte,5.0
+198,Tavuk Biftek,5.0
+198,Tavuk Sote,5.0
+198,Karnıyarık,5.0
+198,Kuru Fasulye,5.0
+198,Patlıcan Musakka,5.0
+198,Bezelye,3.0
+198,Tavuk Kanat,5.0
+198,Nohut,5.0
+198,Türlü,4.0
+198,Ispanak,3.0
+198,Taze Fasulye,3.0
+198,Bamya,1.0
+198,Dana Rosto,5.0
+198,Pirinç Pilavı,5.0
+198,Patates Kızartması,2.0
+198,Bulgur Pilavı,5.0
+198,Cacık,5.0
+198,Çoban Salata,5.0
+198,Yoğurt,5.0
+198,Pırasa,1.0
+198,İrmik Helvası,5.0
+198,Turşu,3.0
+198,Sütlaç,4.0
+198,Kadayıf,5.0
+198,Kola,3.0
+198,Ayran,5.0
+198,Fanta,2.0
+198,Su,5.0

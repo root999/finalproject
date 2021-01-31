@@ -3,9 +3,10 @@ from django.db import models
 from django.db import models
 from django.contrib.auth.models import AbstractUser
 from django.utils.translation import ugettext_lazy as _
-
+from django.utils import timezone
 from .managers import CustomUserManager
-
+from datetime import  date
+import datetime
 class Customer(AbstractUser):
     username = None
     email = models.EmailField(_('email address'), unique=True)
@@ -33,6 +34,8 @@ class Restaurant(models.Model):
     name = models.CharField(max_length=100)
     address = models.CharField(max_length=250)
     logoUrl = models.URLField(blank=True)
+    # max_work = models.IntegerField()
+
 
     
 class Menu(models.Model):
@@ -48,12 +51,23 @@ class Order(models.Model):
     orderedProducts = models.ManyToManyField(to=Product,blank=True,through="ProductsInOrder")
     customer = models.ForeignKey(Customer,on_delete=models.CASCADE,related_name='order')
     restaurant = models.ForeignKey(Restaurant,on_delete=models.CASCADE,related_name='order')
-    issueTime = models.DateTimeField(auto_now_add=True)
-
+    issueDate = models.DateField(auto_now_add=True)
+    issueTime = models.TimeField(auto_now_add=True)
+    plannedDate = models.DateField(default=date.today)
+    plannedTime = models.TimeField(default=datetime.time)
 
 class ProductsInOrder(models.Model):
     product = models.ForeignKey(Product, on_delete=models.CASCADE)
     order = models.ForeignKey(Order, on_delete=models.CASCADE)
     productCount = models.IntegerField(default=0)
+
+# class ActiveStatus(models.Model):
+#     product = models.ForeignKey(to=Product,on_delete=models.CASCADE, related_name='status')
+#     order = models.ForeignKey(to=Order,on_delete=models.CASCADE,related_name='status')
+
+
+
+
+
 
 

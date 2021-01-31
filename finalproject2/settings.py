@@ -25,7 +25,7 @@ SECRET_KEY = 'wl7*#*vz_1x#pfc$3g+gawtu&%^^-1o=x8m86nu!q6ims#3d^_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['10.0.2.2','127.0.0.1']
 
 
 # Application definition
@@ -142,7 +142,7 @@ REST_AUTH_LOGIN_SERIALIZERS = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Europe/Istanbul'
 
 USE_I18N = True
 
