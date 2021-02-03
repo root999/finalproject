@@ -7,6 +7,7 @@ from django.utils import timezone
 from .managers import CustomUserManager
 from datetime import  date
 import datetime
+
 class Customer(AbstractUser):
     username = None
     email = models.EmailField(_('email address'), unique=True)
@@ -34,8 +35,10 @@ class Restaurant(models.Model):
     name = models.CharField(max_length=100)
     address = models.CharField(max_length=250)
     logoUrl = models.URLField(blank=True)
-    # max_work = models.IntegerField()
-
+    max_work = models.IntegerField(default=5)
+    active_work = models.IntegerField(default=0)
+    begin_time =models.TimeField(default= datetime.time(8,00,00))
+    end_time = models.TimeField(default=datetime.time(23,00,00))
 
     
 class Menu(models.Model):
@@ -55,18 +58,20 @@ class Order(models.Model):
     issueTime = models.TimeField(auto_now_add=True)
     plannedDate = models.DateField(default=date.today)
     plannedTime = models.TimeField(default=datetime.time)
-
+    status = models.CharField(max_length=10,default="Active")
+    detail = models.CharField(max_length=100,default="")
+   
+  
 class ProductsInOrder(models.Model):
     product = models.ForeignKey(Product, on_delete=models.CASCADE)
     order = models.ForeignKey(Order, on_delete=models.CASCADE)
     productCount = models.IntegerField(default=0)
 
-# class ActiveStatus(models.Model):
-#     product = models.ForeignKey(to=Product,on_delete=models.CASCADE, related_name='status')
-#     order = models.ForeignKey(to=Order,on_delete=models.CASCADE,related_name='status')
 
-
-
+class RestaurantOwner(models.Model):
+    email = models.CharField(max_length=100)
+    password = models.CharField(max_length=250)
+    restaurant = models.OneToOneField(Restaurant, on_delete=models.CASCADE,primary_key=True,related_name='owner')
 
 
 
