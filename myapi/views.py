@@ -10,7 +10,7 @@ from rest_framework.decorators import api_view,authentication_classes,permission
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.authentication import TokenAuthentication
 from collections import defaultdict
-
+from .renderer import JSONResponseRenderer
 from surprise import Dataset,Reader
 from surprise import SVD
 from surprise.model_selection import KFold
@@ -44,7 +44,7 @@ class OrderViewSet(viewsets.ModelViewSet):
             return PostOrderSerializer
         return OrderSerializer 
     serializer_class = OrderSerializer
-   
+    #renderer_classes = [JSONResponseRenderer]
     queryset = Order.objects.all()
 
 

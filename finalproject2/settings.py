@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'rest_auth.registration',
+    'django_q'
 ]
 
 MIDDLEWARE = [
@@ -111,7 +112,19 @@ REST_FRAMEWORK = {
 'DEFAULT_AUTHENTICATION_CLASSES': (
     'rest_framework.authentication.TokenAuthentication',
 )
+
+# 'DEFAULT_RENDERER_CLASSES': (
+#         'myapi.renderer.JSONResponseRenderer',
+#     )
 }
+
+Q_CLUSTER = {
+    "name": "ordernow",
+    "workers":1,
+    "orm": "default",  # Use Django's ORM + database for broker
+}
+
+
 AUTH_USER_MODEL = 'myapi.Customer'
 
 ACCOUNT_USER_MODEL_USERNAME_FIELD = None
